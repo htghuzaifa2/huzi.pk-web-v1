@@ -21,4 +21,4 @@ Any unauthorized commercial use, wholesale copying, or redistribution is strictl
 
 ---
 
-© 2026 huzi.pk – All rights reserved.
+© 2026 huzi.pk – All rights reserved...
