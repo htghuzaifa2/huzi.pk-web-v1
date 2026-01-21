@@ -2,6 +2,7 @@ import "@/styles/blog.css"
 import { getBlogPost, getAllBlogRoutes } from "@/lib/blog"
 import { notFound } from "next/navigation"
 import BlogRelatedProducts from "@/components/blog-related-products"
+import BlogContent from "@/components/blog-content"
 
 export async function generateStaticParams() {
     const routes = getAllBlogRoutes()
@@ -52,7 +53,7 @@ export default async function BlogPost({ params }: { params: { topic: string; sl
                         </span>
                     </div>
 
-                    <div className="blog-content" dangerouslySetInnerHTML={{ __html: post.content }} />
+                    <BlogContent content={post.content} />
                 </article>
 
                 {/* Related products section - outside blog-post to avoid CSS conflicts */}

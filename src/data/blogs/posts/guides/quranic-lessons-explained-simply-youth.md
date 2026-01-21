@@ -1,6 +1,6 @@
 ---
 title: "Quranic Lessons Explained Simply for Youth"
-description: "Simple, relatable explanations of Quranic lessons for youth, focusing on kindness, patience, gratitude, honesty, and responsibility in everyday life."
+description: "I’ve always believed that the Quran isn’t just a book we read — it’s a guide for life, full of lessons that make sense even when you’re young and..."
 date: "2025-12-16"
 image: "/images/blog/quranic-lessons-youth.jpg"
 topic: "guides"

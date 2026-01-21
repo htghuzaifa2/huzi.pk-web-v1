@@ -1,6 +1,6 @@
 ---
 title: "Islamic Finance: How Zakat Works on Savings and Investments"
-description: "A guide to understanding and calculating Zakat on savings, investments, stocks, and business assets in Pakistan."
+description: "I’ve always found it fascinating how Islamic finance isn’t just about money — it’s about mindfulness, responsibility, and community. One principle that..."
 date: "2025-12-16"
 image: "/images/blog/islamic-finance-zakat-guide.jpg"
 topic: "guides"

@@ -1,6 +1,6 @@
 ---
 title: "The Ramadan Content Series Guide"
-description: "A guide for content creators and home cooks on maintaining energy and health during Ramadan, focusing on Sehri and Iftar meal strategies."
+description: "1. The Sehri Focus: Sustained Energy & Hydration Sehri is the most critical meal. It needs to be satisfying, slow-digesting, and incredibly hydrating to..."
 date: "2025-12-16"
 image: "/images/blog/ramadan-content-guide.jpg"
 topic: "guides"

@@ -1,6 +1,6 @@
 ---
 title: "From Recap to Offer-Letter: Turning LinkedIn's 2025 'Year in Review' Into a 2026 Job-Landing Machine"
-description: "Step-by-step guide to convert your LinkedIn Year in Review metrics into résumé bullets, profile updates, and job-landing strategies for 2026."
+description: "On 18 December LinkedIn dropped personalized \"Year in Review\" cards for every member—an auto-generated highlight reel of connections, skill badges,..."Year in Review\" cards for every member—an auto-generated highlight reel of connections, skill badges,..."Year in Review\" cards for every member—an auto-generated highlight reel of connections, skill badges,..."Year in Review\" cards for every member—an auto-generated highlight reel of connections, skill badges,..."
 date: "2025-12-23"
 image: "/images/blog/linkedin-year-review.jpg"
 topic: "guides"

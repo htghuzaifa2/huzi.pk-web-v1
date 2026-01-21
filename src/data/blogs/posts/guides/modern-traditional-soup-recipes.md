@@ -1,6 +1,6 @@
 ---
 title: "Traditional Soup Recipes with a Modern Twist"
-description: "Update your soup game with modern takes on Pakistani classics like Yakhni, Mulligatawny, and Hot & Sour soup."
+description: "Pakistani winters demand one thing above all else: a steaming bowl of soul-warming soup. But if you're still making chicken yakhni the same way your..."
 date: "2025-12-19"
 image: "/images/blog/css-guide.jpg"
 topic: "guides"
