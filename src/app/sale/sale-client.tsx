@@ -6,11 +6,7 @@ import { Badge } from '@/components/ui/badge';
 import ProductCard from '@/components/product-card';
 import { useEffect, useState } from 'react';
 
-// Simple Countdown Component (Client Side)
 const SaleCountdown = () => {
-    // Optional: Make it actually tick or just static as before
-    // Let's make it static for stability or simple ticking if desired. 
-    // Keeping it static to match previous design for now, but in Client Component it causes no harm.
     return (
         <div className="flex gap-4 justify-center py-8 text-white relative z-20">
             {['02', '45', '12'].map((time, i) => (
@@ -27,10 +23,63 @@ const SaleCountdown = () => {
     );
 };
 
-export default function SaleClient({ products }: { products: any[] }) {
-    // Hydration check to ensure client-only logic like random text generation doesn't mismatch?
-    // Actually our passed 'products' are from server, so they are stable during render.
-    // 'style jsx' works in client components in Next.js registry usually.
+export default function SaleClient({ initialProducts, allProducts }: { initialProducts: any[], allProducts: any[] }) {
+    const [displayProducts, setDisplayProducts] = useState(initialProducts);
+    const [isClient, setIsClient] = useState(false);
+
+    const shuffleAndRandomize = () => {
+        // 1. Shuffle full list
+        const shuffled = [...allProducts];
+        for (let i = shuffled.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+        }
+
+        // 2. Select first 16
+        const base = shuffled.slice(0, 16);
+
+        // 3. Create duplicates/glitches
+        const duplicates = [];
+        const usedIndices = new Set<number>();
+
+        // Pick 6 unique indices to duplicate
+        while (duplicates.length < 6 && base.length > 0) {
+            const randomIndex = Math.floor(Math.random() * base.length);
+            if (!usedIndices.has(randomIndex)) {
+                usedIndices.add(randomIndex);
+                const original = base[randomIndex];
+                const discountFactor = 0.5 + Math.random() * 0.3;
+                duplicates.push({
+                    ...original,
+                    id: 99000 + original.id + Math.floor(Math.random() * 100000),
+                    price: Math.floor(original.price * discountFactor),
+                    name: `[⚡FLASH] ${original.name}`
+                });
+            }
+            if (usedIndices.size === base.length) break;
+        }
+
+        // 4. Combine and shuffle final list
+        const final = [...base, ...duplicates];
+        for (let i = final.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [final[i], final[j]] = [final[j], final[i]];
+        }
+
+        setDisplayProducts(final);
+    };
+
+    useEffect(() => {
+        setIsClient(true);
+        // Initial shuffle on mount
+        shuffleAndRandomize();
+    }, []);
+
+    // Function to handle manual refresh
+    const handleRefresh = () => {
+        // Add a small delay or animation effect if desired, but immediate is fine for "glitch"
+        shuffleAndRandomize();
+    };
 
     return (
         <div className="min-h-screen bg-[#050505] font-sans text-neutral-100 overflow-x-hidden selection:bg-yellow-400 selection:text-black">
@@ -89,12 +138,13 @@ export default function SaleClient({ products }: { products: any[] }) {
                     <div>
                         <h2 className="text-4xl md:text-5xl font-bold tracking-tight mb-3 text-white">Current Inventory</h2>
                         <p className="text-gray-500 text-lg">
-                            Displaying <span className="text-white font-mono">{products.length}</span> items. Next refresh in... whenever you click refresh.
+                            Displaying <span className="text-white font-mono">{displayProducts.length}</span> items.
+                            {isClient ? " System Active." : " Connecting to Matrix..."}
                         </p>
                     </div>
                     <Button
                         variant="outline"
-                        onClick={() => window.location.reload()}
+                        onClick={handleRefresh}
                         className="h-12 px-6 border-white/10 hover:bg-white/5 hover:border-yellow-400/50 hover:text-yellow-400 transition-all duration-300 font-bold tracking-wide"
                     >
                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="mr-2 h-4 w-4"><path d="M21 12a9 9 0 0 0-9-9 9.75 9.75 0 0 0-6.74 2.74L3 8" /><path d="M3 3v5h5" /><path d="M3 12a9 9 0 0 0 9 9 9.75 9.75 0 0 0 6.74-2.74L21 16" /><path d="M16 21h5v-5" /></svg>
@@ -103,10 +153,10 @@ export default function SaleClient({ products }: { products: any[] }) {
                 </div>
 
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-x-8 gap-y-12">
-                    {products.map((product, idx) => {
+                    {displayProducts.map((product, idx) => {
                         const isFlash = product.name.startsWith('[⚡FLASH]');
                         return (
-                            <div key={product.id} className="group relative">
+                            <div key={product.id || idx} className="group relative">
                                 {isFlash && (
                                     <div className="absolute -top-4 -right-4 z-30 transform rotate-12 group-hover:rotate-0 transition-transform duration-300">
                                         <div className="bg-yellow-400 text-black text-xs font-black px-3 py-1 shadow-lg border-2 border-black">
