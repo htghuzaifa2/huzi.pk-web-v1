@@ -137,6 +137,18 @@ export default function RootLayout({
           </SearchProvider>
         </ThemeProvider>
 
+        {/* Google Analytics */}
+        <Script async src="https://www.googletagmanager.com/gtag/js?id=G-EVBKM2T46F" />
+        <Script id="google-analytics">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-EVBKM2T46F');
+          `}
+        </Script>
+
         {/* This script is a placeholder that will be populated by the page component */}
         <script
           id="structured-data"

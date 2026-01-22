@@ -2,215 +2,119 @@
 
 import Link from 'next/link';
 import { Button } from '@/components/ui/button';
-import { Badge } from '@/components/ui/badge';
-import ProductCard from '@/components/product-card';
-import { useEffect, useState } from 'react';
+import { Zap, ShieldAlert, TrendingDown, HeartHandshake } from 'lucide-react';
 
-const SaleCountdown = () => {
+const principles = [
+    {
+        name: "Dynamic Price Drops",
+        description: "Prices aren't static. In our flash events, algorithms drive values down in real-time. What you see now might be lower in an hour—or gone.",
+        icon: <TrendingDown className="h-10 w-10 text-yellow-500" />
+    },
+    {
+        name: "First-Come Advantage",
+        description: "Stock is intentionally limited to maintain exclusivity. Our flash sales reward the quickest decision-makers with the steepest discounts.",
+        icon: <Zap className="h-10 w-10 text-yellow-500" />
+    },
+    {
+        name: "Authentic Inventory",
+        description: "Every item in our flash sale is verified for quality. Low price never means low quality. We stand by every product we drop.",
+        icon: <ShieldAlert className="h-10 w-10 text-yellow-500" />
+    }
+];
+
+export default function SaleClient() {
     return (
-        <div className="flex gap-4 justify-center py-8 text-white relative z-20">
-            {['02', '45', '12'].map((time, i) => (
-                <div key={i} className="flex flex-col items-center group">
-                    <div className="w-16 h-16 sm:w-24 sm:h-24 bg-black/60 backdrop-blur-xl rounded-2xl border border-white/10 flex items-center justify-center text-3xl sm:text-5xl font-mono font-bold shadow-[0_0_15px_rgba(255,255,255,0.1)] group-hover:shadow-[0_0_25px_rgba(234,179,8,0.4)] group-hover:border-yellow-400/50 transition-all duration-300">
-                        <span className="bg-clip-text text-transparent bg-gradient-to-b from-white to-gray-400 group-hover:from-yellow-200 group-hover:to-yellow-500">
-                            {time}
-                        </span>
-                    </div>
-                    <span className="text-[10px] sm:text-xs uppercase mt-3 tracking-[0.2em] text-gray-400 font-semibold group-hover:text-yellow-400 transition-colors">{['Hours', 'Mins', 'Secs'][i]}</span>
-                </div>
-            ))}
-        </div>
-    );
-};
-
-export default function SaleClient({ initialProducts, allProducts }: { initialProducts: any[], allProducts: any[] }) {
-    const [displayProducts, setDisplayProducts] = useState(initialProducts);
-    const [isClient, setIsClient] = useState(false);
-
-    const shuffleAndRandomize = () => {
-        // 1. Shuffle full list
-        const shuffled = [...allProducts];
-        for (let i = shuffled.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1));
-            [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
-        }
-
-        // 2. Select first 16
-        const base = shuffled.slice(0, 16);
-
-        // 3. Create duplicates/glitches
-        const duplicates = [];
-        const usedIndices = new Set<number>();
-
-        // Pick 6 unique indices to duplicate
-        while (duplicates.length < 6 && base.length > 0) {
-            const randomIndex = Math.floor(Math.random() * base.length);
-            if (!usedIndices.has(randomIndex)) {
-                usedIndices.add(randomIndex);
-                const original = base[randomIndex];
-                const discountFactor = 0.5 + Math.random() * 0.3;
-                duplicates.push({
-                    ...original,
-                    id: 99000 + original.id + Math.floor(Math.random() * 100000),
-                    price: Math.floor(original.price * discountFactor),
-                    name: `[⚡FLASH] ${original.name}`
-                });
-            }
-            if (usedIndices.size === base.length) break;
-        }
-
-        // 4. Combine and shuffle final list
-        const final = [...base, ...duplicates];
-        for (let i = final.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1));
-            [final[i], final[j]] = [final[j], final[i]];
-        }
-
-        setDisplayProducts(final);
-    };
-
-    useEffect(() => {
-        setIsClient(true);
-        // Initial shuffle on mount
-        shuffleAndRandomize();
-    }, []);
-
-    // Function to handle manual refresh
-    const handleRefresh = () => {
-        // Add a small delay or animation effect if desired, but immediate is fine for "glitch"
-        shuffleAndRandomize();
-    };
-
-    return (
-        <div className="min-h-screen bg-[#050505] font-sans text-neutral-100 overflow-x-hidden selection:bg-yellow-400 selection:text-black">
+        <div className="bg-background text-foreground content-fade-in">
             {/* Marquee Banner */}
             <div className="bg-yellow-400 text-black overflow-hidden py-3 whitespace-nowrap sticky top-0 z-50 shadow-[0_0_20px_rgba(234,179,8,0.5)] border-b-4 border-black">
                 <div className="animate-marquee inline-block font-black tracking-widest text-sm sm:text-base uppercase">
-                    ⚠️ FLASH SALE LIVE &nbsp;•&nbsp; UNSTABLE PRICES &nbsp;•&nbsp; REFRESH TO RESET &nbsp;•&nbsp; 50% OFF FLASH ITEMS &nbsp;•&nbsp; LIMITED TIME ONLY &nbsp;•&nbsp; ⚠️ FLASH SALE LIVE &nbsp;•&nbsp; UNSTABLE PRICES &nbsp;•&nbsp; REFRESH TO RESET &nbsp;•&nbsp; 50% OFF FLASH ITEMS &nbsp;•&nbsp; LIMITED TIME ONLY &nbsp;•&nbsp;
+                    ⚠️ FLASH SALE LIVE &nbsp;•&nbsp; UNSTABLE PRICES &nbsp;•&nbsp; INSTANT SAVINGS &nbsp;•&nbsp; 50% OFF SELECT ITEMS &nbsp;•&nbsp; LIMITED TIME ONLY &nbsp;•&nbsp; ⚠️ FLASH SALE LIVE &nbsp;•&nbsp; UNSTABLE PRICES &nbsp;•&nbsp; INSTANT SAVINGS &nbsp;•&nbsp; 50% OFF SELECT ITEMS &nbsp;•&nbsp; LIMITED TIME ONLY &nbsp;•&nbsp;
                 </div>
             </div>
 
             {/* Hero Section */}
-            <section className="relative overflow-hidden pt-24 pb-40">
-                {/* Background Effects */}
-                <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,_var(--tw-gradient-stops))] from-indigo-900/40 via-[#050505] to-[#050505] z-0"></div>
-                <div className="absolute inset-0 bg-[url('/grid-pattern.svg')] opacity-[0.03] z-0 scale-150"></div>
-
-                {/* Animated blobs */}
-                <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-purple-600/20 rounded-full blur-[120px] animate-pulse"></div>
-                <div className="absolute bottom-1/4 right-1/4 w-96 h-96 bg-yellow-600/10 rounded-full blur-[120px] animate-pulse animation-delay-2000"></div>
-
-                <div className="container relative z-10 text-center flex flex-col items-center">
-                    <div className="inline-flex items-center gap-2 mb-8 px-6 py-2 rounded-full border border-yellow-400/30 bg-yellow-400/5 backdrop-blur-md animate-in fade-in slide-in-from-top-4 duration-700">
+            <header className="relative flex items-center justify-center h-[60vh] md:h-[70vh] bg-gradient-to-br from-yellow-500/10 via-background to-background">
+                <div className="absolute inset-0 bg-grid-black/[0.05] dark:bg-grid-black/[0.05] [mask-image:linear-gradient(to_bottom,white_50%,transparent_100%)]"></div>
+                <div className="container mx-auto px-4 text-center z-10">
+                    <div className="inline-flex items-center gap-2 mb-8 px-6 py-2 rounded-full border border-yellow-500/30 bg-yellow-500/5 backdrop-blur-md">
                         <span className="relative flex h-3 w-3">
-                            <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-yellow-400 opacity-75"></span>
+                            <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-yellow-500 opacity-75"></span>
                             <span className="relative inline-flex rounded-full h-3 w-3 bg-yellow-500"></span>
                         </span>
-                        <span className="text-yellow-400 font-bold tracking-wider text-xs sm:text-sm uppercase">Live Random Drops</span>
+                        <span className="text-yellow-600 dark:text-yellow-400 font-bold tracking-wider text-xs sm:text-sm uppercase">Sale Engine Active</span>
                     </div>
-
-                    <h1 className="text-6xl sm:text-8xl md:text-9xl font-black tracking-tighter mb-6 leading-[0.9] text-white drop-shadow-2xl relative">
-                        <span className="block bg-clip-text text-transparent bg-gradient-to-b from-white via-gray-200 to-gray-600">FLASH</span>
-                        <span className="block text-stroke-2 text-stroke-white/20 text-transparent relative">
-                            SALE
-                            <span className="absolute inset-0 text-yellow-400/10 blur-sm select-none" aria-hidden="true">SALE</span>
-                        </span>
-                    </h1>
-
-                    <p className="max-w-2xl mx-auto text-xl sm:text-2xl text-gray-400 mb-10 font-light leading-relaxed">
-                        Prices fluctuate. Items vanish. <br />
-                        <span className="text-yellow-400 font-medium">Fortune favors the fast.</span>
+                    <h1 className="font-headline text-5xl md:text-8xl font-black tracking-tight mb-6">The Flash Experience</h1>
+                    <p className="mt-6 text-lg md:text-2xl text-muted-foreground max-w-3xl mx-auto font-light">
+                        Redefining the rush of the hunt. <br />
+                        <span className="text-yellow-600 dark:text-yellow-500 font-semibold italic">High stakes. Higher rewards.</span>
                     </p>
-
-                    <SaleCountdown />
-
-                    <div className="mt-10 flex flex-col sm:flex-row gap-6 items-center animate-in fade-in slide-in-from-bottom-8 duration-1000 delay-300">
-                        <Button size="lg" className="bg-white text-black hover:bg-gray-200 font-black text-lg h-14 px-12 rounded-full shadow-[0_0_40px_-5px_rgba(255,255,255,0.3)] transition-all hover:scale-105" asChild>
-                            <Link href="#deals">HUNT DEALS ↓</Link>
+                    <div className="mt-12">
+                        <Button size="lg" className="bg-yellow-500 text-black hover:bg-yellow-600 font-black text-xl h-16 px-16 rounded-full shadow-[0_0_50px_-10px_rgba(234,179,8,0.5)] transition-all hover:scale-110" asChild>
+                            <Link href="/all-products">SHOP NOW</Link>
                         </Button>
                     </div>
                 </div>
-            </section>
+            </header>
 
-            {/* Sale Grid */}
-            <section id="deals" className="py-24 container relative">
-                <div className="flex flex-col md:flex-row items-end justify-between mb-20 gap-8 border-b border-white/5 pb-10">
-                    <div>
-                        <h2 className="text-4xl md:text-5xl font-bold tracking-tight mb-3 text-white">Current Inventory</h2>
-                        <p className="text-gray-500 text-lg">
-                            Displaying <span className="text-white font-mono">{displayProducts.length}</span> items.
-                            {isClient ? " System Active." : " Connecting to Matrix..."}
+            <main className="container mx-auto px-4 py-16 md:py-24 space-y-32">
+
+                {/* Manifesto Section */}
+                <section className="max-w-4xl mx-auto text-center">
+                    <div className="prose prose-lg dark:prose-invert max-w-none mx-auto text-muted-foreground">
+                        <p className="text-yellow-600 dark:text-yellow-400 font-bold tracking-[0.2em] uppercase text-sm mb-4">Our Philosophy</p>
+                        <h2 className="font-headline text-4xl md:text-6xl font-black text-foreground mb-12">Why We Flash Sale</h2>
+                        <p className="lead text-xl md:text-2xl !text-foreground">
+                            We believe that premium style shouldn't always come with a premium price tag.
+                        </p>
+                        <blockquote className="text-2xl md:text-4xl font-semibold text-foreground border-l-4 border-yellow-500 pl-6 my-10 italic text-left max-w-3xl mx-auto">
+                            “The best deals don't wait for permission. They happen in a flash.”
+                        </blockquote>
+                        <p>
+                            By fluctuating our prices and rotating our featured collections, we keep the experience fresh, exciting, and accessible. It's not just a discount; it's a moment for our community to engage with quality in a dynamic way.
                         </p>
                     </div>
-                    <Button
-                        variant="outline"
-                        onClick={handleRefresh}
-                        className="h-12 px-6 border-white/10 hover:bg-white/5 hover:border-yellow-400/50 hover:text-yellow-400 transition-all duration-300 font-bold tracking-wide"
-                    >
-                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="mr-2 h-4 w-4"><path d="M21 12a9 9 0 0 0-9-9 9.75 9.75 0 0 0-6.74 2.74L3 8" /><path d="M3 3v5h5" /><path d="M3 12a9 9 0 0 0 9 9 9.75 9.75 0 0 0 6.74-2.74L21 16" /><path d="M16 21h5v-5" /></svg>
-                        SHUFFLE ITEMS
-                    </Button>
-                </div>
+                </section>
 
-                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-x-8 gap-y-12">
-                    {displayProducts.map((product, idx) => {
-                        const isFlash = product.name.startsWith('[⚡FLASH]');
-                        return (
-                            <div key={product.id || idx} className="group relative">
-                                {isFlash && (
-                                    <div className="absolute -top-4 -right-4 z-30 transform rotate-12 group-hover:rotate-0 transition-transform duration-300">
-                                        <div className="bg-yellow-400 text-black text-xs font-black px-3 py-1 shadow-lg border-2 border-black">
-                                            GLITCH PRICE
-                                        </div>
-                                    </div>
-                                )}
-
-                                <div className={`relative transition-all duration-500 hover:-translate-y-2 ${isFlash ? '' : ''}`}>
-                                    <div className={`
-                                        rounded-2xl overflow-hidden bg-[#111] border transition-all duration-300
-                                        ${isFlash
-                                            ? 'border-yellow-400/30 shadow-[0_0_30px_-10px_rgba(234,179,8,0.2)] hover:border-yellow-400 hover:shadow-[0_0_50px_-10px_rgba(234,179,8,0.4)]'
-                                            : 'border-white/5 hover:border-white/20 hover:shadow-2xl'
-                                        }
-                                    `}>
-                                        <div className="relative">
-                                            <div className={`${isFlash ? 'opacity-100' : 'opacity-80 group-hover:opacity-100'} transition-opacity`}>
-                                                <ProductCard product={product} />
-                                            </div>
-
-                                            {/* Overlay for quick action */}
-                                            {isFlash && (
-                                                <div className="absolute inset-0 pointer-events-none border-4 border-yellow-400/20 rounded-2xl"></div>
-                                            )}
-                                        </div>
-                                    </div>
-
-                                    {isFlash && (
-                                        <div className="absolute -bottom-6 left-0 right-0 text-center opacity-0 group-hover:opacity-100 transition-opacity duration-300 transform translate-y-2 group-hover:translate-y-0">
-                                            <span className="text-yellow-400 text-xs font-bold tracking-widest uppercase glow-text">
-                                                ⚡ 5 people viewing
-                                            </span>
-                                        </div>
-                                    )}
-                                </div>
+                {/* Principles Grid */}
+                <section>
+                    <div className="text-center mb-16">
+                        <h2 className="font-headline text-4xl font-bold text-foreground uppercase tracking-tight">Our Sale Principles</h2>
+                        <p className="mt-4 text-lg text-muted-foreground max-w-2xl mx-auto">
+                            The engine behind the hunt. Here is how we ensure fairness and excitement in every drop.
+                        </p>
+                    </div>
+                    <div className="grid md:grid-cols-3 gap-8">
+                        {principles.map((principle) => (
+                            <div key={principle.name} className="flex flex-col items-center text-center p-10 bg-card rounded-2xl shadow-lg border border-border/50 transition-all duration-300 hover:shadow-yellow-500/20 hover:-translate-y-2">
+                                <div className="mb-6 p-4 bg-yellow-500/10 rounded-2xl">{principle.icon}</div>
+                                <h3 className="font-headline text-2xl font-bold text-foreground mb-3">{principle.name}</h3>
+                                <p className="text-muted-foreground leading-relaxed">{principle.description}</p>
                             </div>
-                        );
-                    })}
-                </div>
+                        ))}
+                    </div>
+                </section>
 
-                <div className="mt-40 text-center border-t border-white/5 pt-20">
-                    <h3 className="text-2xl font-bold mb-4 text-white">Missed a deal?</h3>
-                    <p className="mb-8 text-gray-500">
-                        It happens. The matrix resets every time you blink (or refresh).
+                {/* Call to Action */}
+                <section className="text-center space-y-12 max-w-4xl mx-auto border-t border-border/50 pt-24">
+                    <HeartHandshake className="h-16 w-16 mx-auto text-yellow-500 mb-4" />
+                    <h2 className="font-headline text-4xl md:text-6xl font-black text-foreground">Ready to hunt?</h2>
+                    <p className="text-muted-foreground text-xl md:text-2xl max-w-2xl mx-auto font-light">
+                        Our collection is waiting. Every click could be the one that saves you 50% or more. Timing is everything.
                     </p>
-                    <Link
-                        href="/all-products"
-                        className="inline-flex h-12 items-center justify-center rounded-full bg-white/5 px-8 text-sm font-medium text-white shadow-sm ring-1 ring-inset ring-white/10 hover:bg-white/10 transition-all"
-                    >
-                        View Stable Collection
-                    </Link>
-                </div>
-            </section>
+                    <div className="flex justify-center">
+                        <Button size="lg" className="bg-yellow-500 text-black hover:bg-yellow-600 font-black text-xl h-16 px-16 rounded-full shadow-[0_0_50px_-10px_rgba(234,179,8,0.5)] transition-all hover:scale-110" asChild>
+                            <Link href="/all-products">SHOP NOW</Link>
+                        </Button>
+                    </div>
+                </section>
+
+                {/* Footer Section */}
+                <footer className="text-center pt-16">
+                    <p className="text-muted-foreground text-sm tracking-widest uppercase">
+                        © 2024 HUZI.PK | DYNAMIC COMMERCE ENGINE
+                    </p>
+                </footer>
+            </main>
 
             <style jsx global>{`
                 @keyframes marquee {
@@ -219,12 +123,6 @@ export default function SaleClient({ initialProducts, allProducts }: { initialPr
                 }
                 .animate-marquee {
                     animation: marquee 30s linear infinite;
-                }
-                .text-stroke-2 {
-                    -webkit-text-stroke: 2px transparent;
-                }
-                .text-stroke-white\\/20 {
-                    -webkit-text-stroke-color: rgba(255, 255, 255, 0.2);
                 }
             `}</style>
         </div>
