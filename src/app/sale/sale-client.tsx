@@ -111,7 +111,7 @@ export default function SaleClient() {
                 {/* Footer Section */}
                 <footer className="text-center pt-16">
                     <p className="text-muted-foreground text-sm tracking-widest uppercase">
-                        © 2024 HUZI.PK | DYNAMIC COMMERCE ENGINE
+                        © 2026 HUZI.PK | REVOLUTIONIZING QUALITY
                     </p>
                 </footer>
             </main>
