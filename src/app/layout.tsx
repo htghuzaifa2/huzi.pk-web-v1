@@ -95,6 +95,8 @@ export const viewport: Viewport = {
   ],
 }
 
+import EzoicScripts from '@/components/ezoic-scripts';
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -103,14 +105,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning className={`${alegreya.variable} ${belleza.variable}`}>
       <head>
-        {/* Ezoic Privacy/Consent Management Scripts */}
-        <script data-cfasync="false" src="https://cmp.gatekeeperconsent.com/min.js"></script>
-        <script data-cfasync="false" src="https://the.gatekeeperconsent.com/cmp.min.js"></script>
-        {/* Ezoic Header Script */}
-        <script async src="//www.ezojs.com/ezoic/sa.min.js"></script>
-        <script dangerouslySetInnerHTML={{
-          __html: `window.ezstandalone = window.ezstandalone || {}; ezstandalone.cmd = ezstandalone.cmd || [];`
-        }} />
+        <EzoicScripts />
       </head>
       <body>
         <ThemeProvider
