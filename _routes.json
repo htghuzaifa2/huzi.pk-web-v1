@@ -1,6 +1,12 @@
-
 {
   "version": 1,
-  "include": ["/*"],
-  "exclude": ["/favicon.ico", "/images/*", "/logo.webp"]
+  "include": [
+    "/*"
+  ],
+  "exclude": [
+    "/favicon.ico",
+    "/images/*",
+    "/logo.webp",
+    "/ads.txt"
+  ]
 }
