@@ -12,7 +12,7 @@ const siteConfig = {
 };
 
 export const metadata: Metadata = {
-  title: siteConfig.title,
+  title: "Quality & Style, Delivered in Pakistan",
   description: siteConfig.description,
 };
 
