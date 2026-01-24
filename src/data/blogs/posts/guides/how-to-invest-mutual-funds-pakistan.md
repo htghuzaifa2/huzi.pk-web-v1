@@ -1,8 +1,7 @@
 ---
 title: "How to Invest in Mutual Funds in Pakistan – 2025 Beginner Guide"
-description: "If you have some savings sitting in a standard bank account, you’re losing money every day to the invisible thief called inflation. In 2026, the \"Safe\"..."Safe\"..."Safe\"..."Safe\"..."
+description: "If you have some savings sitting in a standard bank account, you’re losing money every day to the invisible thief called inflation. In 2026, the \"Safe\"..."
 date: "2025-12-16"
-image: "/images/blog/invest-mutual-funds-pakistan.jpg"
 topic: "guides"
 slug: "how-to-invest-mutual-funds-pakistan"
 ---

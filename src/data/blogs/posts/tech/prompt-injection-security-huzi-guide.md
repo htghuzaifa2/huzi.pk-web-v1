@@ -2,7 +2,6 @@
 title: "The Ghost in the Prompts: A Developer's Guide to Prompt Injection Security"
 description: "We taught machines to read, and then we taught them to speak. But in our rush to build the conversational web, we forgot one critical lesson from the..."
 date: "2026-01-22"
-image: "/images/blog/prompt-injection-security.jpg"
 topic: "tech"
 slug: "prompt-injection-security-huzi-guide"
 ---

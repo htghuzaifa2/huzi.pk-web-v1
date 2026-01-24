@@ -2,7 +2,6 @@
 title: "Gold Price Trends in Pakistan: 2026 Forecast & Strategy"
 description: "In Pakistan, gold is more than just a metal; it is a cultural anchor and a financial insurance policy. Whether it’s for a daughter’s wedding or a shield..."
 date: "2025-12-25"
-image: "/images/blog/gold-price-trends.jpg"
 topic: "guides"
 slug: "gold-price-trends-pakistan-forecast"
 ---

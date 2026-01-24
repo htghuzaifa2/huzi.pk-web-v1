@@ -2,7 +2,6 @@
 title: "Phone Photography Tips for Pakistan Travelers (2026 Guide)"
 description: "The best camera is the one you have with you. In 2026, smartphone cameras (even mid-range ones) are powerful enough to shoot a documentary. But owning a..."
 date: "2025-12-16"
-image: "/images/blog/travel-photography-tips-phone-pakistan.jpg"
 topic: "guides"
 slug: "travel-photography-tips-phone-only-pakistan"
 ---

@@ -1,8 +1,7 @@
 ---
 title: "Mental Wellness for Students & Freelancers – 2025-2026 Guide"
-description: "The life of a young Pakistani in 2026 is an \"Extreme Sport.\" Between the pressure of maintaining a 4.0 GPA, the relentless struggle of winning the next..."Extreme Sport.\" Between the pressure of maintaining a 4.0 GPA, the relentless struggle of winning the next..."Extreme Sport.\" Between the pressure of maintaining a 4.0 GPA, the relentless struggle of winning the next..."Extreme Sport.\" Between the pressure of maintaining a 4.0 GPA, the relentless struggle of winning the next..."
+description: "The life of a young Pakistani in 2026 is an \"Extreme Sport.\" Between the pressure of maintaining a 4.0 GPA, the relentless struggle of winning the next..."
 date: "2025-12-16"
-image: "/images/blog/mental-wellness-tips-pakistan.jpg"
 topic: "guides"
 slug: "mental-wellness-tips-students-freelancers-pakistan"
 ---

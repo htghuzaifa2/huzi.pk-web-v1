@@ -2,7 +2,6 @@
 title: "His & Hers: More Than Matching Outfits—A Journey Through Style, Health, and Shared Identity"
 description: "There’s a gentle magic in the rhythm of two lives aligning. 'His and Hers' is a phrase that dances on the tongue, evoking images of romance, partnership,..."
 date: "2026-01-15"
-image: "/images/blog/placeholder.png"
 topic: "guides"
 slug: "his-and-hers-style-health-identity"
 ---

@@ -2,7 +2,6 @@
 title: "The Foldable Reset: Factory Resetting Your 2026 Foldable Phone Safely"
 description: "There is a unique kind of heartbreak when a beautiful piece of technology starts to stutter. Your foldable phone—that marvel of engineering that bends..."
 date: "2026-01-22"
-image: "/images/blog/foldable-factory-reset.jpg"
 topic: "tech"
 slug: "how-to-reset-foldable-phone-factory-settings"
 ---

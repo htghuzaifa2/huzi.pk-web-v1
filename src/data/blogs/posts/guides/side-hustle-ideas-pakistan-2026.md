@@ -1,8 +1,7 @@
 ---
 title: "Side Hustle Ideas That Actually Work in Pakistan – 2026 Guide"
-description: "In 2026, the traditional \"Part-time Job\" (like working at a bookstore or a café) is becoming rarer and less profitable for students in Pakistan. With the..."Part-time Job\" (like working at a bookstore or a café) is becoming rarer and less profitable for students in Pakistan. With the..."Part-time Job\" (like working at a bookstore or a café) is becoming rarer and less profitable for students in Pakistan. With the..."Part-time Job\" (like working at a bookstore or a café) is becoming rarer and less profitable for students in Pakistan. With the..."
+description: "In 2026, the traditional \"Part-time Job\" (like working at a bookstore or a café) is becoming rarer and less profitable for students in Pakistan. With the..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "side-hustle-ideas-pakistan-2026"
 ---

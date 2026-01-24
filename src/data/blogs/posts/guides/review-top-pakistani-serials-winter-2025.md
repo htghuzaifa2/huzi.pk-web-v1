@@ -1,8 +1,7 @@
 ---
 title: "Review: Sher, Judwaa and Other Top Serials – Winter 2025-2026"
-description: "Pakistani television has moved far beyond the \"Saas-Bahu\" tropes of the 2000s. In 2026, our dramas are global phenomena, trending in India, Bangladesh,..."Saas-Bahu\" tropes of the 2000s. In 2026, our dramas are global phenomena, trending in India, Bangladesh,..."Saas-Bahu\" tropes of the 2000s. In 2026, our dramas are global phenomena, trending in India, Bangladesh,..."Saas-Bahu\" tropes of the 2000s. In 2026, our dramas are global phenomena, trending in India, Bangladesh,..."
+description: "Pakistani television has moved far beyond the \"Saas-Bahu\" tropes of the 2000s. In 2026, our dramas are global phenomena, trending in India, Bangladesh,..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "review-top-pakistani-serials-winter-2025"
 ---

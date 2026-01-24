@@ -2,7 +2,6 @@
 title: "Parenting Tips for New Moms in Pakistan – 2025-2026 Guide"
 description: "Becoming a mother is the most significant identity shift a woman can experience. It is a transition that is hormonal, emotional, physical, and social. In..."
 date: "2025-12-16"
-image: "/images/blog/parenting-tips-new-moms-pakistan.jpg"
 topic: "guides"
 slug: "parenting-tips-new-moms-pakistan"
 ---

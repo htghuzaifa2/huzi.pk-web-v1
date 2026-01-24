@@ -1,8 +1,7 @@
 ---
 title: "Navigating the 2025-2026 Pakistani E-Commerce Landscape"
-description: "Shopping in Pakistan used to be about the \"Bazars\" and the \"Haggling.\" In 2026, it's about the \"Unboxing\" and the \"Live-Stream.\" But as e-commerce..."Bazars\" and the \"Haggling.\" In 2026, it's about the \"Unboxing\" and the \"Live-Stream.\" But as e-commerce..."Bazars\" and the \"Haggling.\" In 2026, it's about the \"Unboxing\" and the \"Live-Stream.\" But as e-commerce..."Bazars\" and the \"Haggling.\" In 2026, it's about the \"Unboxing\" and the \"Live-Stream.\" But as e-commerce..."
+description: "Shopping in Pakistan used to be about the \"Bazars\" and the \"Haggling.\" In 2026, it's about the \"Unboxing\" and the \"Live-Stream.\" But as e-commerce..."
 date: "2025-12-19"
-image: "/images/blog/google-gemini-pakistan.png"
 topic: "tech"
 slug: "navigating-pakistani-ecommerce-2025-2026"
 ---

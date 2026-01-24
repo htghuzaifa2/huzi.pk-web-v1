@@ -2,7 +2,6 @@
 title: "The Gentle Goodbye: Is Windows 10's Final Lifeline Worth It in 2026?"
 description: "As the first light of 2026 filters through my window, there’s a quiet question humming in the background of our digital lives, as persistent as the..."
 date: "2026-02-01"
-image: "/images/blog/windows-10-esu.jpg"
 topic: "tech"
 slug: "windows-10-esu-worth-it"
 ---

@@ -2,7 +2,6 @@
 title: "Best Digital Marketing Courses with Certificates in Pakistan"
 description: "Digital marketing has surfaced as Pakistan's most in-demand skill for 2025. With businesses shifting online, freelancing platforms booming, and employers..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "best-digital-marketing-courses-pakistan"
 ---

@@ -2,7 +2,6 @@
 title: "The Zero-BS Guide to Writing Your Thesis or Dissertation (Without Crying)"
 description: "The Thesis. The Dissertation. The Final Year Project (FYP). Whatever your university calls it, it is the Final Boss of your degree. It stands between you..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "thesis-dissertation-writing-guide"
 ---

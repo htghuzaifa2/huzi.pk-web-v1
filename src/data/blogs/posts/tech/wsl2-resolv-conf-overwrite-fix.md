@@ -2,7 +2,6 @@
 title: "WSL2: Windows resolv.conf Keeps Overwriting My DNS Nameservers – Turning Off Auto Generation Properly"
 description: "Friend, if you've landed here, I know exactly what brought you: frustration. You've carefully edited your `/etc/resolv.conf` file in WSL2, added your..."
 date: "2026-01-22"
-image: "/images/blog/wsl2-resolv-fix.jpg"
 topic: "tech"
 slug: "wsl2-resolv-conf-overwrite-fix"
 ---

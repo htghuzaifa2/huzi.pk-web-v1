@@ -2,7 +2,6 @@
 title: "Meal Planning Ideas for Pakistani Students – 2025-2026 Budget Edition"
 description: "Being a student in Pakistan is a high-wire balancing act. You're trying to pass linear algebra, maintain a social life, and somehow not go bankrupt by..."
 date: "2025-12-16"
-image: "/images/blog/meal-planning-pakistani-students.jpg"
 topic: "guides"
 slug: "meal-planning-ideas-pakistani-students"
 ---

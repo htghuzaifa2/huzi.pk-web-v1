@@ -1,8 +1,7 @@
 ---
 title: "Voice Search SEO in Pakistan: Optimizing for 'Roman Urdu' (2026)"
-description: "\"Ok Google, Lahore mein sab se sasti Biryani kahan milti hai?\" Ten years ago, SEO was about typing \"Best Biryani Lahore.\" In 2026, it is about Talking...."Ok Google, Lahore mein sab se sasti Biryani kahan milti hai?\" Ten years ago, SEO was about typing \"Best Biryani Lahore.\" In 2026, it is about Talking...."Ok Google, Lahore mein sab se sasti Biryani kahan milti hai?\" Ten years ago, SEO was about typing \"Best Biryani Lahore.\" In 2026, it is about Talking...."Ok Google, Lahore mein sab se sasti Biryani kahan milti hai?\" Ten years ago, SEO was about typing \"Best Biryani Lahore.\" In 2026, it is about Talking...."
+description: "\"Ok Google, Lahore mein sab se sasti Biryani kahan milti hai?\" Ten years ago, SEO was about typing \"Best Biryani Lahore.\" In 2026, it is about Talking...."
 date: "2025-12-16"
-image: "/images/blog/voice-search-content-ideas-pakistan.jpg"
 topic: "guides"
 slug: "voice-search-content-ideas-urdu-roman-urdu-2026"
 ---

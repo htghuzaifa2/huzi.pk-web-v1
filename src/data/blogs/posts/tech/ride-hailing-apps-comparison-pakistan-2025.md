@@ -2,7 +2,6 @@
 title: "Ride-Hailing Apps: Comparison & Tips – Pakistan 2025 Hostel-Rankings"
 description: "If you're a student in Lahore or Karachi, your biggest daily struggle isn't the exams—it's getting from your hostel to the campus without spending your..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "ride-hailing-apps-comparison-pakistan-2025"
 ---

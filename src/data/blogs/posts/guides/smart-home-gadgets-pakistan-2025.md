@@ -1,8 +1,7 @@
 ---
 title: "Smart-Home Gadgets Actually Worth Buying in Pakistan – 2025-2026 Edition"
-description: "The dream of a \"Smart Home\" in Pakistan is often met with the harsh reality of load-shedding, fluctuating voltages, and unstable internet. In the West, a..."Smart Home\" in Pakistan is often met with the harsh reality of load-shedding, fluctuating voltages, and unstable internet. In the West, a..."Smart Home\" in Pakistan is often met with the harsh reality of load-shedding, fluctuating voltages, and unstable internet. In the West, a..."Smart Home\" in Pakistan is often met with the harsh reality of load-shedding, fluctuating voltages, and unstable internet. In the West, a..."
+description: "The dream of a \"Smart Home\" in Pakistan is often met with the harsh reality of load-shedding, fluctuating voltages, and unstable internet. In the West, a..."
 date: "2025-12-16"
-image: "/images/blog/smart-home-gadgets-pakistan-2025.jpg"
 topic: "guides"
 slug: "smart-home-gadgets-pakistan-2025"
 ---

@@ -2,7 +2,6 @@
 title: "Quranic Lessons Explained Simply for Youth"
 description: "I’ve always believed that the Quran isn’t just a book we read — it’s a guide for life, full of lessons that make sense even when you’re young and..."
 date: "2025-12-16"
-image: "/images/blog/quranic-lessons-youth.jpg"
 topic: "guides"
 slug: "quranic-lessons-explained-simply-youth"
 ---

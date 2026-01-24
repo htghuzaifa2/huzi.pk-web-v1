@@ -2,7 +2,6 @@
 title: "Best AI Tools for Students in Pakistan – 2025 Dorm-Room Edition"
 description: "If you're a student in Pakistan in 2025, you are living through a academic revolution. The way we study, research, and present has changed forever. But..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "best-ai-tools-for-students-pakistan-2025"
 ---

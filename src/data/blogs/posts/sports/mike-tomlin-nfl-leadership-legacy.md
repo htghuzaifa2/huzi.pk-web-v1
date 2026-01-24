@@ -1,8 +1,7 @@
 ---
 title: "The Standard is the Standard: Why Mike Tomlin is the Ultimate Leader"
-description: "\"We do not seek comfort.\" — Mike Tomlin. In a world of noise, Mike Tomlin is silence. In a world of excuses, Mike Tomlin is accountability. He has..."We do not seek comfort.\" — Mike Tomlin. In a world of noise, Mike Tomlin is silence. In a world of excuses, Mike Tomlin is accountability. He has..."We do not seek comfort.\" — Mike Tomlin. In a world of noise, Mike Tomlin is silence. In a world of excuses, Mike Tomlin is accountability. He has..."We do not seek comfort.\" — Mike Tomlin. In a world of noise, Mike Tomlin is silence. In a world of excuses, Mike Tomlin is accountability. He has..."
+description: "\"We do not seek comfort.\" — Mike Tomlin. In a world of noise, Mike Tomlin is silence. In a world of excuses, Mike Tomlin is accountability. He has..."
 date: "2026-01-16"
-image: "/images/blog/mike-tomlin-profile.png"
 topic: "sports"
 slug: "mike-tomlin-nfl-leadership-legacy"
 ---

@@ -2,7 +2,6 @@
 title: "Local Service SEO: Ranking 'Near Me' in Pakistan – 2025-2026 Guide"
 description: "If you own a small shop, a salon, or a repair service in Pakistan, your most important employee isn't a human—it’s Google Maps. In 2026, people don't ask..."
 date: "2025-12-16"
-image: "/images/blog/local-seo-pakistan.jpg"
 topic: "guides"
 slug: "local-service-seo-ranking-near-me-pakistan"
 ---

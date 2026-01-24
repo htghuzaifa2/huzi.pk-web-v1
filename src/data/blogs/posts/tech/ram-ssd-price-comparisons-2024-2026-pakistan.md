@@ -1,8 +1,7 @@
 ---
 title: "Top RAM & SSD Price Comparisons (2024 vs 2025 vs 2026) – Hostel-Rankings"
-description: "If you've walked into a laptop shop in Pakistan recently, you've probably noticed something terrifying: RAM and SSD prices aren't just \"Higher\"; they've..."Higher\"; they've..."Higher\"; they've..."Higher\"; they've..."
+description: "If you've walked into a laptop shop in Pakistan recently, you've probably noticed something terrifying: RAM and SSD prices aren't just \"Higher\"; they've..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "ram-ssd-price-comparisons-2024-2026-pakistan"
 ---

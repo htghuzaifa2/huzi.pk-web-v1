@@ -2,7 +2,6 @@
 title: "How to Invest in Crypto Safely (Local Perspective)"
 description: "So, you want to buy Bitcoin or USDT while living in Pakistan? You've seen the TikToks promising 10x returns, and your cousin is suddenly calling himself..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "invest-crypto-safely-pakistan"
 ---

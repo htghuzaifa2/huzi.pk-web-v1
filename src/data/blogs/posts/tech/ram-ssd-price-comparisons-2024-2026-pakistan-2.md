@@ -2,7 +2,6 @@
 title: "Top RAM & SSD Price Comparisons (2024 vs 2025 vs 2026) – Hostel-Rankings (Part 2)"
 description: "So, you've seen the prices for RAM and SSDs in Part 1 and you're contemplating selling your kidney. Before you book a flight to a shady clinic, read..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "ram-ssd-price-comparisons-2024-2026-pakistan-2"
 ---

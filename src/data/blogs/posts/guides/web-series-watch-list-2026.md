@@ -1,8 +1,7 @@
 ---
 title: "The Ultimate 2026 Watchlist: Web Series, Anime & Pakistani Dramas"
-description: "\"Kya dekhun?\" (What should I watch?) This is the hardest question of the 21st century. You have Netflix, Prime, Disney+, and YouTube. yet you scroll for..."Kya dekhun?\" (What should I watch?) This is the hardest question of the 21st century. You have Netflix, Prime, Disney+, and YouTube. yet you scroll for..."Kya dekhun?\" (What should I watch?) This is the hardest question of the 21st century. You have Netflix, Prime, Disney+, and YouTube. yet you scroll for..."Kya dekhun?\" (What should I watch?) This is the hardest question of the 21st century. You have Netflix, Prime, Disney+, and YouTube. yet you scroll for..."
+description: "\"Kya dekhun?\" (What should I watch?) This is the hardest question of the 21st century. You have Netflix, Prime, Disney+, and YouTube. yet you scroll for..."
 date: "2025-12-19"
-image: "/images/blog/web-series-watch-list-2026.jpg"
 topic: "guides"
 slug: "web-series-watch-list-2026"
 ---

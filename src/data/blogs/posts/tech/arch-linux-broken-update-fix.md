@@ -2,7 +2,6 @@
 title: "The Broken Update: How to Find and Fix the Package That Breaks Your Arch System"
 description: "There is a particular kind of trust we build with our tools, a silent pact of reliability. For those of us who walk the path of Arch Linux, the command..."
 date: "2026-02-06"
-image: "/images/blog/arch-linux-broken-update.jpg"
 topic: "tech"
 slug: "arch-linux-broken-update-fix"
 ---

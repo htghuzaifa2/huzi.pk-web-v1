@@ -1,8 +1,7 @@
 ---
 title: "Viral TikTok Trends Making Waves in Pakistan – Winter 2025"
-description: "If you think TikTok is just for dancing, you’re stuck in 2021. In 2025, TikTok Pakistan is a mix of a virtual \"Dhaba,\" a talent show, and a digital..."Dhaba,\" a talent show, and a digital..."Dhaba,\" a talent show, and a digital..."Dhaba,\" a talent show, and a digital..."
+description: "If you think TikTok is just for dancing, you’re stuck in 2021. In 2025, TikTok Pakistan is a mix of a virtual \"Dhaba,\" a talent show, and a digital..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "viral-tiktok-trends-pakistan-2025"
 ---

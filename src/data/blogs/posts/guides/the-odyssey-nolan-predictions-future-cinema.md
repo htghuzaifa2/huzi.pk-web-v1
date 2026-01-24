@@ -1,8 +1,7 @@
 ---
 title: "The Road to July 2026: Predictions, Hype, and What Nolan's Odyssey Means for the Future of Cinema"
-description: "The date \"July 17, 2026\" is circled on every calendar in Hollywood. For Christopher Nolan, mid-July is a religious holiday. It is the slot where he..."July 17, 2026\" is circled on every calendar in Hollywood. For Christopher Nolan, mid-July is a religious holiday. It is the slot where he..."July 17, 2026\" is circled on every calendar in Hollywood. For Christopher Nolan, mid-July is a religious holiday. It is the slot where he..."July 17, 2026\" is circled on every calendar in Hollywood. For Christopher Nolan, mid-July is a religious holiday. It is the slot where he..."
+description: "The date \"July 17, 2026\" is circled on every calendar in Hollywood. For Christopher Nolan, mid-July is a religious holiday. It is the slot where he..."
 date: "2025-12-23"
-image: "/images/blog/odyssey-predictions-2026.jpg"
 topic: "guides"
 slug: "the-odyssey-nolan-predictions-future-cinema"
 ---

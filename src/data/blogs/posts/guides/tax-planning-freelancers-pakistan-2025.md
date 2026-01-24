@@ -1,8 +1,7 @@
 ---
 title: "Tax Planning Tips for Freelancers in Pakistan – 2025-2026 Guide"
-description: "If you are earning in Dollars on Upwork, Fiverr, Toptal, or via direct remote contracts, you are the \"Economic Soldiers\" of Pakistan. You are bringing in..."Economic Soldiers\" of Pakistan. You are bringing in..."Economic Soldiers\" of Pakistan. You are bringing in..."Economic Soldiers\" of Pakistan. You are bringing in..."
+description: "If you are earning in Dollars on Upwork, Fiverr, Toptal, or via direct remote contracts, you are the \"Economic Soldiers\" of Pakistan. You are bringing in..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "tax-planning-freelancers-pakistan-2025"
 ---

@@ -2,7 +2,6 @@
 title: "PSL 2026: Expansion, New Teams, and Auction Guide"
 description: "The Pakistan Super League (PSL) is no longer just a cricket tournament; it is a national emotion. It’s the time of year when Karachi and Lahore stop..."
 date: "2025-12-16"
-image: "/images/blog/psl-2026-schedule.jpg"
 topic: "guides"
 slug: "psl-2026-schedule-teams-expansion"
 ---

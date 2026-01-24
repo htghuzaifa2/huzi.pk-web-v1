@@ -2,7 +2,6 @@
 title: "Back-to-School Tech Guide – Pakistan 2025 Hostel-Room Edition"
 description: "Hostel life in Pakistan is an adventure, but it presents unique tech challenges—unreliable power, weak Wi-Fi, and limited budgets. You don't need a..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "back-to-school-tech-guide-pakistan-2025"
 ---

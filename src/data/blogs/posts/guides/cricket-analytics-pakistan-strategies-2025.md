@@ -2,7 +2,6 @@
 title: "How Cricket Analytics is Changing Pakistan Team Strategies – 2025-26 Snapshot"
 description: "I still remember the 2023 World Cup game where Pakistan fielded like they were using a 1990’s floppy disk. Players were out of position, the bowling..."
 date: "2025-12-16"
-image: "/images/blog/cricket-analytics-pakistan-strategies-2025.jpg"
 topic: "guides"
 slug: "cricket-analytics-pakistan-strategies-2025"
 ---

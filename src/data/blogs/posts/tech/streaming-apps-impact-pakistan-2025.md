@@ -1,8 +1,7 @@
 ---
 title: "How Streaming Apps Like Tamasha Shape Entertainment in Pakistan – 2025 Reality Check"
-description: "Forget Netflix and its \"USD 6.99\" subscription that costs half your stipend. In 2025, the real movement in Pakistan is happening on apps you've probably..."USD 6.99\" subscription that costs half your stipend. In 2025, the real movement in Pakistan is happening on apps you've probably..."USD 6.99\" subscription that costs half your stipend. In 2025, the real movement in Pakistan is happening on apps you've probably..."USD 6.99\" subscription that costs half your stipend. In 2025, the real movement in Pakistan is happening on apps you've probably..."
+description: "Forget Netflix and its \"USD 6.99\" subscription that costs half your stipend. In 2025, the real movement in Pakistan is happening on apps you've probably..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "streaming-apps-impact-pakistan-2025"
 ---

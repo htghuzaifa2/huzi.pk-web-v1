@@ -1,8 +1,7 @@
 ---
 title: "The Resurrection: How the Chicago Bears Conquered the North (2025-26 Season Review)"
-description: "\"Sabar ka phal meetha hota hai.\" (The fruit of patience is sweet.) For Chicago Bears fans, the fruit has been rotting for 15 years. But in the 2025-26..."Sabar ka phal meetha hota hai.\" (The fruit of patience is sweet.) For Chicago Bears fans, the fruit has been rotting for 15 years. But in the 2025-26..."Sabar ka phal meetha hota hai.\" (The fruit of patience is sweet.) For Chicago Bears fans, the fruit has been rotting for 15 years. But in the 2025-26..."Sabar ka phal meetha hota hai.\" (The fruit of patience is sweet.) For Chicago Bears fans, the fruit has been rotting for 15 years. But in the 2025-26..."
+description: "\"Sabar ka phal meetha hota hai.\" (The fruit of patience is sweet.) For Chicago Bears fans, the fruit has been rotting for 15 years. But in the 2025-26..."
 date: "2026-01-16"
-image: "/images/blog/bears-playoff-run-2026.jpg"
 topic: "sports"
 slug: "chicago-bears-playoff-run-2026"
 ---

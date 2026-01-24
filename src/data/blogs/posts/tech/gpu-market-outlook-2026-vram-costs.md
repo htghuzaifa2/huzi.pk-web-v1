@@ -2,7 +2,6 @@
 title: "GPU Market Outlook 2026 – VRAM Costs, Budget Models, Price Predictions"
 description: "Are you still trying to play Cyberpunk 2077 on a GTX 1050 Ti? Or maybe you're building a new PC and wondering why a mid-range card costs as much as a..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "gpu-market-outlook-2026-vram-costs"
 ---

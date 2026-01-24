@@ -1,8 +1,7 @@
 ---
 title: "Property Investment Wisdom for Pakistan's Major Cities – 2025-2026 Guide"
-description: "Real estate is the \"National Hobby\" of Pakistan. Whether it’s a retired professional, a young freelancer with fresh dollars, or an overseas Pakistani..."National Hobby\" of Pakistan. Whether it’s a retired professional, a young freelancer with fresh dollars, or an overseas Pakistani..."National Hobby\" of Pakistan. Whether it’s a retired professional, a young freelancer with fresh dollars, or an overseas Pakistani..."National Hobby\" of Pakistan. Whether it’s a retired professional, a young freelancer with fresh dollars, or an overseas Pakistani..."
+description: "Real estate is the \"National Hobby\" of Pakistan. Whether it’s a retired professional, a young freelancer with fresh dollars, or an overseas Pakistani..."
 date: "2025-12-16"
-image: "/images/blog/property-investment-wisdom.jpg"
 topic: "guides"
 slug: "property-investment-wisdom-lahore-karachi-islamabad"
 ---

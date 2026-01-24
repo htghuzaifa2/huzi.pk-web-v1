@@ -2,7 +2,6 @@
 title: "NADRA Made Easy: Your 2025-2026 Guide to Getting Any Verified Document Online"
 description: "Gone are the days of taking a half-day leave, navigating through crowded offices in the Karachi heat, and hoping you brought every single photocopy of..."
 date: "2025-12-23"
-image: "/images/blog/nadra-guide.jpg"
 topic: "guides"
 slug: "nadra-document-guide-online-2025"
 ---

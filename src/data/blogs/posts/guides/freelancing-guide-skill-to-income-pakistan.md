@@ -1,8 +1,7 @@
 ---
 title: "Freelancing Guide: From Skill to Full-Time Income"
-description: "The dream of earning in Dollars while sitting in Pakistan is more alive than ever in 2026. But as the competition increases, \"Average\" freelancers are..."Average\" freelancers are..."Average\" freelancers are..."Average\" freelancers are..."
+description: "The dream of earning in Dollars while sitting in Pakistan is more alive than ever in 2026. But as the competition increases, \"Average\" freelancers are..."
 date: "2025-12-16"
-image: "/images/blog/freelancing-guide.jpg"
 topic: "guides"
 slug: "freelancing-guide-skill-to-income-pakistan"
 ---

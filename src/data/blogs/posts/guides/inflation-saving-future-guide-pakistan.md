@@ -1,8 +1,7 @@
 ---
 title: "Inflation Survival & Saving for the Future in Pakistan – 2025 Guide"
-description: "Inflation in Pakistan is not a \"Theory\"; it is a \"Thief.\" It is stealing your future every single day while you sleep. If you have Rs. 100,000 in a..."Theory\"; it is a \"Thief.\" It is stealing your future every single day while you sleep. If you have Rs. 100,000 in a..."Theory\"; it is a \"Thief.\" It is stealing your future every single day while you sleep. If you have Rs. 100,000 in a..."Theory\"; it is a \"Thief.\" It is stealing your future every single day while you sleep. If you have Rs. 100,000 in a..."
+description: "Inflation in Pakistan is not a \"Theory\"; it is a \"Thief.\" It is stealing your future every single day while you sleep. If you have Rs. 100,000 in a..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "inflation-saving-future-guide-pakistan"
 ---

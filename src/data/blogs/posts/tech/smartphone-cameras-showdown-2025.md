@@ -1,8 +1,7 @@
 ---
 title: "Smartphone Cameras Showdown for Photography Lovers – Winter 2025"
-description: "Buying a phone for its camera in 2025-2026 is no longer about \"Megapixels.\" Honestly, even a Rs. 30,000 phone has 50MP now. The real war is being fought..."Megapixels.\" Honestly, even a Rs. 30,000 phone has 50MP now. The real war is being fought..."Megapixels.\" Honestly, even a Rs. 30,000 phone has 50MP now. The real war is being fought..."Megapixels.\" Honestly, even a Rs. 30,000 phone has 50MP now. The real war is being fought..."
+description: "Buying a phone for its camera in 2025-2026 is no longer about \"Megapixels.\" Honestly, even a Rs. 30,000 phone has 50MP now. The real war is being fought..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "smartphone-cameras-showdown-2025"
 ---

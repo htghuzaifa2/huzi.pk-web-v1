@@ -2,7 +2,6 @@
 title: "Augmented Reality (AR) & Virtual Reality (VR) Trends – Beyond Gaming 2025"
 description: "AR and VR have escaped gaming's gravitational pull. In 2025, these technologies are revolutionizing education, retail, healthcare, and remote..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "ar-vr-trends-beyond-gaming-pakistan-2025"
 ---

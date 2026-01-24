@@ -2,7 +2,6 @@
 title: "Unpacking the Epic First Trailer for Christopher Nolan's 'The Odyssey': A Return to Myth"
 description: "The first full trailer for Christopher Nolan's The Odyssey has arrived, and it promises to be the director's most ambitious and mythic film yet...."
 date: "2025-12-23"
-image: "/images/blog/nolan-odyssey-trailer.jpg"
 topic: "guides"
 slug: "christopher-nolan-odyssey-trailer-breakdown"
 ---

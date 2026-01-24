@@ -2,7 +2,6 @@
 title: "Beyond the Mega-Marketplace: 4 Pakistani Online Stores Mastering Focus & Trust"
 description: "Searching for “best online shopping in Pakistan” often leads you to the same few giant platforms. But what if your needs are specific? What if you value..."
 date: "2025-12-19"
-image: "/images/blog/google-gemini-pakistan.png"
 topic: "tech"
 slug: "beyond-mega-marketplace-pakistani-stores"
 ---

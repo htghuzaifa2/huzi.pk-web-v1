@@ -2,7 +2,6 @@
 title: "The Silent Tide: Navigating and Fixing Project Timeline Drift in AI-Managed Software"
 description: "There is a quiet, insidious force in the world of projects. It doesn't arrive with a crash or a failed launch; it creeps in. One day, you review your AI..."
 date: "2026-01-26"
-image: "/images/blog/ai-project-drift.jpg"
 topic: "tech"
 slug: "ai-project-timeline-drift"
 ---

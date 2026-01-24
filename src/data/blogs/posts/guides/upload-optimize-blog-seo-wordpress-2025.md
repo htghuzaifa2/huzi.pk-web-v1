@@ -1,8 +1,7 @@
 ---
 title: "The Ultimate WordPress SEO Checklist for 2026 (Upload & Optimize)"
-description: "You can write the best article in the world, but if you upload it incorrectly, Google will ignore it. In 2026, SEO is not about \"Keywording.\" It is about..."Keywording.\" It is about..."Keywording.\" It is about..."Keywording.\" It is about..."
+description: "You can write the best article in the world, but if you upload it incorrectly, Google will ignore it. In 2026, SEO is not about \"Keywording.\" It is about..."
 date: "2025-12-16"
-image: "/images/blog/upload-optimize-blog-seo-wordpress-2025.jpg"
 topic: "guides"
 slug: "upload-optimize-blog-seo-wordpress-2025"
 ---

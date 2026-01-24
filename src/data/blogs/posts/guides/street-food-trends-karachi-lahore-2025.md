@@ -1,8 +1,7 @@
 ---
 title: "Street Food Trends in Karachi & Lahore – 2025-2026 Guide"
-description: "The street food of Pakistan isn't just \"Food\"; it is the heartbeat of its cities. It is the only place where a billionaire in a Mercedes and a laborer on..."Food\"; it is the heartbeat of its cities. It is the only place where a billionaire in a Mercedes and a laborer on..."Food\"; it is the heartbeat of its cities. It is the only place where a billionaire in a Mercedes and a laborer on..."Food\"; it is the heartbeat of its cities. It is the only place where a billionaire in a Mercedes and a laborer on..."
+description: "The street food of Pakistan isn't just \"Food\"; it is the heartbeat of its cities. It is the only place where a billionaire in a Mercedes and a laborer on..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "street-food-trends-karachi-lahore-2025"
 ---

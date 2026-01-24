@@ -1,8 +1,7 @@
 ---
 title: "Fitness at Home: Routines for Pakistanis – 2025 Guide"
-description: "Physical fitness in Pakistan is often seen as a \"Luxury\" for those who can afford expensive DHA gyms or organic meal plans. But health is not a status..."Luxury\" for those who can afford expensive DHA gyms or organic meal plans. But health is not a status..."Luxury\" for those who can afford expensive DHA gyms or organic meal plans. But health is not a status..."Luxury\" for those who can afford expensive DHA gyms or organic meal plans. But health is not a status..."
+description: "Physical fitness in Pakistan is often seen as a \"Luxury\" for those who can afford expensive DHA gyms or organic meal plans. But health is not a status..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "fitness-at-home-routines-pakistan-2025"
 ---

@@ -2,7 +2,6 @@
 title: "Hands-on guide to using DeepSeek for searches in Urdu"
 description: "Have you ever tried to explain a complex medical concept to your grandmother in Urdu, only to find yourself stuck for the right words? Or maybe you're a..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "hands-on-guide-deepseek-urdu-search"
 ---

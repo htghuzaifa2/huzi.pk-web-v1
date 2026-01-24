@@ -2,7 +2,6 @@
 title: "The Odyssey: A Guide to the All-Star Cast of Christopher Nolan's Epic"
 description: "If Christopher Nolan is making a movie, half of Hollywood enters the chat. But for The Odyssey (2026), he hasn't just assembled a cast; he has built a..."
 date: "2025-12-23"
-image: "/images/blog/odyssey-cast-guide.jpg"
 topic: "guides"
 slug: "the-odyssey-nolan-cast-guide"
 ---

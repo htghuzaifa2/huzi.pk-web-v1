@@ -1,8 +1,7 @@
 ---
 title: "Smart Investment Ideas for Pakistanis with Small Capital – 2025-2026 Guide"
-description: "The biggest myth in Pakistan is that you need \"Millions\" to start investing. Because of this myth, millions of students, young graduates, and..."Millions\" to start investing. Because of this myth, millions of students, young graduates, and..."Millions\" to start investing. Because of this myth, millions of students, young graduates, and..."Millions\" to start investing. Because of this myth, millions of students, young graduates, and..."
+description: "The biggest myth in Pakistan is that you need \"Millions\" to start investing. Because of this myth, millions of students, young graduates, and..."
 date: "2025-12-16"
-image: "/images/blog/smart-investment-ideas.jpg"
 topic: "guides"
 slug: "smart-investment-ideas-pakistanis-small-capital"
 ---

@@ -2,7 +2,6 @@
 title: "The Ghost in the Machine: Mending Echoes in Your 3D Virtual Workspace"
 description: "There is a particular kind of loneliness in a crowded, virtual room. You’ve put on your headset, stepped into the gleaming 3D workspace of 2026—a digital..."
 date: "2026-01-28"
-image: "/images/blog/virtual-workspace-echo.jpg"
 topic: "tech"
 slug: "3d-virtual-workspace-echo-fix"
 ---

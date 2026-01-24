@@ -1,8 +1,7 @@
 ---
 title: "Tech Adoption Among Youth in Pakistan – 2026 Trends"
-description: "Pakistan sits on a demographic goldmine. With over 64% of its population under the age of 30, it has one of the largest \"Youth Bulges\" in the world. For..."Youth Bulges\" in the world. For..."Youth Bulges\" in the world. For..."Youth Bulges\" in the world. For..."
+description: "Pakistan sits on a demographic goldmine. With over 64% of its population under the age of 30, it has one of the largest \"Youth Bulges\" in the world. For..."
 date: "2025-12-16"
-image: "/images/blog/tech-adoption-pakistan.jpg"
 topic: "guides"
 slug: "tech-adoption-youth-pakistan"
 ---

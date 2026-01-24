@@ -2,7 +2,6 @@
 title: "WSL2: My Company VPN Uses a Custom DNS Domain – Configuring Split DNS for WSL2 and Docker"
 description: "The Real Problem: Corporate DNS Doesn't Work in WSL2 You connect to your company VPN. Your Windows machine works fine. But then you open WSL2 or Docker,..."
 date: "2026-01-22"
-image: "/images/blog/wsl2-dns-fix.jpg"
 topic: "tech"
 slug: "wsl2-corporate-vpn-split-dns-fix"
 ---

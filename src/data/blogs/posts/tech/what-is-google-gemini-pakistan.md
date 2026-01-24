@@ -1,8 +1,7 @@
 ---
 title: "What is Google Gemini and how Pakistanis can use it (2026 update)"
-description: "If you’re still using Google just to search for \"Nearby food spots,\" you’re missing out on the biggest upgrade in tech history. In 2026, Google is no..."Nearby food spots,\" you’re missing out on the biggest upgrade in tech history. In 2026, Google is no..."Nearby food spots,\" you’re missing out on the biggest upgrade in tech history. In 2026, Google is no..."Nearby food spots,\" you’re missing out on the biggest upgrade in tech history. In 2026, Google is no..."
+description: "If you’re still using Google just to search for \"Nearby food spots,\" you’re missing out on the biggest upgrade in tech history. In 2026, Google is no..."
 date: "2025-12-19"
-image: "/images/blog/google-gemini-pakistan.png"
 topic: "tech"
 slug: "what-is-google-gemini-pakistan"
 ---

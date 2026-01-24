@@ -2,7 +2,6 @@
 title: "Fixing 'Insufficient Compute' Errors on Local LLM Clusters"
 description: "There’s a particular kind of silence that falls in a room when ambition meets a hard, physical limit. It’s the silence after you hit “Enter” to spin up..."
 date: "2026-01-22"
-image: "/images/blog/local-llm-compute.jpg"
 topic: "tech"
 slug: "fixing-insufficient-compute-local-llm"
 ---

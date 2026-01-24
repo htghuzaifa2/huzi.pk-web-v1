@@ -1,8 +1,7 @@
 ---
 title: "How to Get Free Wi-Fi Legally in Pakistan – 2025 Hostel-Room Guide"
-description: "Are you a student in Pakistan who just ran out of 4G data mid-assignment? Or maybe you're at a railway station and need to send a quick \"I've arrived\"..."I've arrived\"..."I've arrived\"..."I've arrived\"..."
+description: "Are you a student in Pakistan who just ran out of 4G data mid-assignment? Or maybe you're at a railway station and need to send a quick \"I've arrived\"..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "how-to-get-free-wifi-pakistan-2025"
 ---

@@ -1,8 +1,7 @@
 ---
 title: "How to build a cricket analytics dashboard"
-description: "In Pakistan, cricket isn't just a sport; it's a religion. And in 2026, the way we worship is changing. We’re moving from \"My gut says Babar will score\"..."My gut says Babar will score\"..."My gut says Babar will score\"..."My gut says Babar will score\"..."
+description: "In Pakistan, cricket isn't just a sport; it's a religion. And in 2026, the way we worship is changing. We’re moving from \"My gut says Babar will score\"..."
 date: "2025-12-19"
-image: "/images/blog/cricket-analytics-dashboard.png"
 topic: "tech"
 slug: "how-to-build-cricket-analytics-dashboard"
 ---

@@ -2,7 +2,6 @@
 title: "How to Uninstall KB5074109 if it Breaks Your PC: A 'Safe Mode' Step-by-Step Guide"
 description: "Hello, and a warm, heartfelt welcome from my small corner of the world. This is Huzi, writing to you from Pakistan, with a cup of steaming chai beside me..."
 date: "2026-01-22"
-image: "/images/blog/uninstall-kb5074109.jpg"
 topic: "tech"
 slug: "how-to-uninstall-kb5074109-safe-mode"
 ---

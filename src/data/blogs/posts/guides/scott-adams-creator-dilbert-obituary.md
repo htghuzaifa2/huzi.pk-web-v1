@@ -2,7 +2,6 @@
 title: "Scott Adams: From Cubicle Satire to a Final Farewell (1957-2026)"
 description: "Yaar, life has a way of turning the ordinary into the extraordinary. A simple doodle in a boring meeting becoming a global phenomenon. That's the story..."
 date: "2026-01-15"
-image: "/images/blog/placeholder.png"
 topic: "guides"
 slug: "scott-adams-creator-dilbert-obituary"
 ---

@@ -1,8 +1,7 @@
 ---
 title: "How to Build an E-commerce Store Step by Step (Pakistan Guide)"
-description: "Building an e-commerce store in Pakistan is no longer about \"having a website.\" It's about building a Trust Ecosystem. In a market where buyers are..."having a website.\" It's about building a Trust Ecosystem. In a market where buyers are..."having a website.\" It's about building a Trust Ecosystem. In a market where buyers are..."having a website.\" It's about building a Trust Ecosystem. In a market where buyers are..."
+description: "Building an e-commerce store in Pakistan is no longer about \"having a website.\" It's about building a Trust Ecosystem. In a market where buyers are..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "build-ecommerce-store-step-by-step"
 ---

@@ -1,8 +1,7 @@
 ---
 title: "Trust No One, Verify Everything: Implementing Zero Trust for Remote Teams in 2026"
-description: "Top-down, \"castle-and-moat\" security is dead. The moment your team started working from coffee shops, living rooms, and Airbnbs, the \"corporate..."castle-and-moat\" security is dead. The moment your team started working from coffee shops, living rooms, and Airbnbs, the \"corporate..."
+description: "Top-down, \"castle-and-moat\" security is dead. The moment your team started working from coffee shops, living rooms, and Airbnbs, the \"corporate..."
 date: "2026-01-22"
-image: "/images/blog/zero-trust-remote-teams.jpg"
 topic: "guides"
 slug: "zero-trust-guide-remote-teams-2026"
 ---

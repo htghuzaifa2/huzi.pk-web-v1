@@ -2,7 +2,6 @@
 title: "The Invisible Lock: Protecting Your Small Business from Credential Stuffing"
 description: "It’s 3:00 AM. Your shop is closed, your laptop is shut, and the lights are off. But on a server halfway across the world, a bot is knocking on your..."
 date: "2026-01-22"
-image: "/images/blog/credential-stuffing-protection.jpg"
 topic: "guides"
 slug: "protecting-small-business-credential-stuffing"
 ---

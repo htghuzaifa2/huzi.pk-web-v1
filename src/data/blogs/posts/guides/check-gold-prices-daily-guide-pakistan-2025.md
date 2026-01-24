@@ -2,7 +2,6 @@
 title: "How to Check Gold Prices Daily & What It Means for Buyers (Pakistan 2025)"
 description: "In Pakistan, gold is more than just jewelry—it’s the ultimate savings account. For many families, it's the financial cushion for weddings, education, and..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "check-gold-prices-daily-guide-pakistan-2025"
 ---

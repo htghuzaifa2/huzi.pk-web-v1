@@ -1,8 +1,7 @@
 ---
 title: "Save Money on Electric Bills with Solar – 2025-2026 Guide"
-description: "In 2026, an electricity bill in Pakistan is no longer just a \"Utility Expense\"—it has become a \"Budget Killer.\" With the average per-unit price,..."Utility Expense\"—it has become a \"Budget Killer.\" With the average per-unit price,..."Utility Expense\"—it has become a \"Budget Killer.\" With the average per-unit price,..."Utility Expense\"—it has become a \"Budget Killer.\" With the average per-unit price,..."
+description: "In 2026, an electricity bill in Pakistan is no longer just a \"Utility Expense\"—it has become a \"Budget Killer.\" With the average per-unit price,..."
 date: "2025-12-16"
-image: "/images/blog/solar-systems-guide-pakistan-bills.jpg"
 topic: "guides"
 slug: "save-money-electric-bills-solar-systems-pakistan"
 ---

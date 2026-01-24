@@ -2,7 +2,6 @@
 title: "Bruno Mars Tour 2026: The Romantic Era Begins"
 description: "The world has been waiting in a quiet, rhythmic anticipation. I am Huzi, and from the landscapes of Pakistan, I’ve always felt music is the universal..."
 date: "2026-01-15"
-image: "/images/blog/placeholder.png"
 topic: "guides"
 slug: "bruno-mars-romantic-tour-2026"
 ---

@@ -2,7 +2,6 @@
 title: "83rd Golden Globes 2026 Winners: A Night of Heart and Surprises"
 description: "Yaar, picture this: Hollywood stars gathering at the Beverly Hilton, nerves and excitement in the air, while half a world away, we’re huddled over our..."
 date: "2026-01-15"
-image: "/images/blog/placeholder.png"
 topic: "guides"
 slug: "83rd-golden-globes-2026-winners"
 ---

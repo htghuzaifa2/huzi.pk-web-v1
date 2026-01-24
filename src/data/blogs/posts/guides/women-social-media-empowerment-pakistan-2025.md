@@ -1,8 +1,7 @@
 ---
 title: "Pakistani Women on Social Media: A Guide to Economic Empowerment (2026)"
-description: "\"Log kya kahenge?\" (What will people say?) For decades, this phrase killed more dreams than failure ever did. But in 2026, the smartphone has given..."Log kya kahenge?\" (What will people say?) For decades, this phrase killed more dreams than failure ever did. But in 2026, the smartphone has given..."Log kya kahenge?\" (What will people say?) For decades, this phrase killed more dreams than failure ever did. But in 2026, the smartphone has given..."Log kya kahenge?\" (What will people say?) For decades, this phrase killed more dreams than failure ever did. But in 2026, the smartphone has given..."
+description: "\"Log kya kahenge?\" (What will people say?) For decades, this phrase killed more dreams than failure ever did. But in 2026, the smartphone has given..."
 date: "2025-12-19"
-image: "/images/blog/women-social-media-empowerment.jpg"
 topic: "guides"
 slug: "women-social-media-empowerment-pakistan-2025"
 ---

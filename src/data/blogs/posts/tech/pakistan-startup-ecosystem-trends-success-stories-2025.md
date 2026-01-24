@@ -1,8 +1,7 @@
 ---
 title: "Pakistan’s startup ecosystem: trends & success stories"
-description: "If you're sitting in your dorm room in GIKI, NUST, or FAST right now with a half-finished line of code and a dream of being the next \"Bazaar,\" welcome to..."Bazaar,\" welcome to..."Bazaar,\" welcome to..."Bazaar,\" welcome to..."
+description: "If you're sitting in your dorm room in GIKI, NUST, or FAST right now with a half-finished line of code and a dream of being the next \"Bazaar,\" welcome to..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "pakistan-startup-ecosystem-trends-success-stories-2025"
 ---

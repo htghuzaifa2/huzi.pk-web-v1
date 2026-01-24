@@ -2,7 +2,6 @@
 title: "When System Whispers Stop: Mending Broken Header Files After Partial Upgrades"
 description: "There is a special kind of silence that falls when a conversation between your software and your system breaks down. It’s not the loud crash of an..."
 date: "2026-02-05"
-image: "/images/blog/arch-linux-header-fix.jpg"
 topic: "tech"
 slug: "arch-linux-header-files-fix"
 ---

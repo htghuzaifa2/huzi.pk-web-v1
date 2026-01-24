@@ -2,7 +2,6 @@
 title: "Learning Python & JavaScript: Roadmap for Beginners – 2025 Edition"
 description: "The world of 2026 is built on code. From the app you used to order your lunch to the algorithm that suggested this blog post, Programming is the..."
 date: "2025-12-16"
-image: "/images/blog/python-javascript-roadmap.jpg"
 topic: "guides"
 slug: "learning-python-javascript-roadmap-beginners"
 ---

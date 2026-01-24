@@ -1,8 +1,7 @@
 ---
 title: "Real Madrid vs Albacete (Copa del Rey 2026): Arbeloa's Baptism of Fire"
-description: "\"Asal muqabla talent ka nahi, jigra ka hai.\" (The real battle isn't of talent, but of guts.) In the quiet plains of La Mancha, famously home to Don..."Asal muqabla talent ka nahi, jigra ka hai.\" (The real battle isn't of talent, but of guts.) In the quiet plains of La Mancha, famously home to Don..."Asal muqabla talent ka nahi, jigra ka hai.\" (The real battle isn't of talent, but of guts.) In the quiet plains of La Mancha, famously home to Don..."Asal muqabla talent ka nahi, jigra ka hai.\" (The real battle isn't of talent, but of guts.) In the quiet plains of La Mancha, famously home to Don..."
+description: "\"Asal muqabla talent ka nahi, jigra ka hai.\" (The real battle isn't of talent, but of guts.) In the quiet plains of La Mancha, famously home to Don..."
 date: "2026-01-15"
-image: "/images/blog/real-madrid-albacete-2026.jpg"
 topic: "sports"
 slug: "albacete-vs-real-madrid-copa-del-rey-2026"
 ---

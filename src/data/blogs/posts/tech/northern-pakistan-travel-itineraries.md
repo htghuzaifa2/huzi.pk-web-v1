@@ -2,7 +2,6 @@
 title: "Best Travel Itineraries for Northern Pakistan"
 description: "They say that once you visit the Northern areas of Pakistan, a piece of your heart stays there forever. Whether it's the towering peaks of Rakaposhi, the..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "northern-pakistan-travel-itineraries"
 ---

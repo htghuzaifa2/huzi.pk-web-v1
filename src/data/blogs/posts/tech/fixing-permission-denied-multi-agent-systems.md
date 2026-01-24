@@ -2,7 +2,6 @@
 title: "Fixing 'Permission Denied' Errors in Multi-Agent Autonomous Systems"
 description: "There’s a particular kind of silence that falls in a workshop just before chaos. It’s not the quiet of things working, but the held breath of a system..."
 date: "2026-01-22"
-image: "/images/blog/agent-permissions.jpg"
 topic: "tech"
 slug: "fixing-permission-denied-multi-agent-systems"
 ---

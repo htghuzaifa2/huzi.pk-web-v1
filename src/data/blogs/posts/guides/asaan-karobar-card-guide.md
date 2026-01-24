@@ -1,8 +1,7 @@
 ---
 title: "What is the Asaan Karobar Card? Complete Guide"
-description: "For a small business owner in Pakistan, the search for \"Capital\" (Sar-ma-ya) is often the most exhausting part of the job. Whether you are an expert..."Capital\" (Sar-ma-ya) is often the most exhausting part of the job. Whether you are an expert..."Capital\" (Sar-ma-ya) is often the most exhausting part of the job. Whether you are an expert..."Capital\" (Sar-ma-ya) is often the most exhausting part of the job. Whether you are an expert..."
+description: "For a small business owner in Pakistan, the search for \"Capital\" (Sar-ma-ya) is often the most exhausting part of the job. Whether you are an expert..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "asaan-karobar-card-guide"
 ---

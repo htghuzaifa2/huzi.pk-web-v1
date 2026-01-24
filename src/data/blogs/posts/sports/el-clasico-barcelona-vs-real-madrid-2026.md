@@ -1,8 +1,7 @@
 ---
 title: "El Clásico (Supercopa 2026): The Night Xabi Alonso's Reign Ended"
-description: "\"Football is the only war where nobody dies.\" — Anonymous. But on January 11, 2026, in the deserts of Jeddah, something did die: The Xabi Alonso Era at..."Football is the only war where nobody dies.\" — Anonymous. But on January 11, 2026, in the deserts of Jeddah, something did die: The Xabi Alonso Era at..."Football is the only war where nobody dies.\" — Anonymous. But on January 11, 2026, in the deserts of Jeddah, something did die: The Xabi Alonso Era at..."Football is the only war where nobody dies.\" — Anonymous. But on January 11, 2026, in the deserts of Jeddah, something did die: The Xabi Alonso Era at..."
+description: "\"Football is the only war where nobody dies.\" — Anonymous. But on January 11, 2026, in the deserts of Jeddah, something did die: The Xabi Alonso Era at..."
 date: "2026-01-15"
-image: "/images/blog/el-clasico-supercopa-2026.jpg"
 topic: "sports"
 slug: "el-clasico-barcelona-vs-real-madrid-2026"
 ---

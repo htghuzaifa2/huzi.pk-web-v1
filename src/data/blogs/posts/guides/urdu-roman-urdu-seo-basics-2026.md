@@ -2,7 +2,6 @@
 title: "Urdu & Roman Urdu SEO: How to Rank in Pakistan (2026 Guide)"
 description: "If you are doing SEO in Pakistan and only targeting English keywords, you are fighting with one hand tied behind your back. Here is a fact: 60% of Google..."
 date: "2025-12-16"
-image: "/images/blog/urdu-roman-urdu-seo-basics.jpg"
 topic: "guides"
 slug: "urdu-roman-urdu-seo-basics-2026"
 ---

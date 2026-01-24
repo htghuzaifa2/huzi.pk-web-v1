@@ -2,7 +2,6 @@
 title: "The Great Flood (2025) – Netflix's Korean Sci-Fi Disaster That Sneaks a Mind-Bending Twist Into 106 Minutes of Rising Water"
 description: "Released: December 19, 2025 – Global Netflix Drop Runtime: 1 hour 46 minutes Language: Korean (Original), English/Hindi/Urdu (Dubs available) Genre:..."
 date: "2025-12-23"
-image: "/images/blog/the-great-flood-netflix.jpg"
 topic: "guides"
 slug: "the-great-flood-netflix-korean-review-2025"
 ---

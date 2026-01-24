@@ -2,7 +2,6 @@
 title: "How to Set Up a Smart Home on a Budget in Pakistan – 2025 Hostel-Room Edition"
 description: "You’re lying in your bunk bed. It’s 2 a.m. You just finished a 4-hour gaming session or a last-minute assignment. The light switch is exactly three steps..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "smart-home-budget-guide-pakistan-2025"
 ---

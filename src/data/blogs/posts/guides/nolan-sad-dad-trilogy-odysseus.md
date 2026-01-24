@@ -2,7 +2,6 @@
 title: "Christopher Nolan's 'Sad Dad' Trilogy: How Odysseus Completes a Thematic Odyssey"
 description: "Christopher Nolan has a type. Look across his entire filmography, and you'll find a recurring archetype: the brilliant, tormented, and profoundly absent..."
 date: "2025-12-23"
-image: "/images/blog/nolan-sad-dad-trilogy.jpg"
 topic: "guides"
 slug: "nolan-sad-dad-trilogy-odysseus"
 ---

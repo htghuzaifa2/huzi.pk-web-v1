@@ -2,7 +2,6 @@
 title: "Why Pakistan Loves Cricket: A Love Story Written in Tears and Tea"
 description: "I was 10 years old when I learned a very important lesson: In Pakistan, you can change your job, your house, and even your political party. But you can..."
 date: "2025-12-19"
-image: "/images/blog/pakistan-cricket-fans.jpg"
 topic: "sports"
 slug: "why-pakistan-loves-cricket-psychology"
 ---

@@ -2,7 +2,6 @@
 title: "How to Resize Images Faster with Free Tools – 2025 Guide"
 description: "If you’re running a blog, managing an e-commerce store on Shopify, or just handling a social media page for a brand in Pakistan, you’ve probably faced..."
 date: "2025-12-16"
-image: "/images/blog/resize-images-faster-free-tools.jpg"
 topic: "guides"
 slug: "how-to-resize-images-faster-free-tools"
 ---

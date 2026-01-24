@@ -2,7 +2,6 @@
 title: "Current RAM & SSD Price List (Pakistan – Dec 2025) – Hostel-Rankings (Part 2)"
 description: "Are you still holding onto your DDR4 platform, or is it finally time to make the jump to DDR5? In Part 2 of our late 2025 price list, we focus on the..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "current-ram-ssd-price-list-pakistan-dec-2025-2"
 ---

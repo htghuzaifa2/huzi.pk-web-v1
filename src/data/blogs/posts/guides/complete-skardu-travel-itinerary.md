@@ -1,8 +1,7 @@
 ---
 title: "Travel Pakistan: Complete Skardu Travel Itinerary"
-description: "Skardu has always felt like a little slice of heaven to me. Surrounded by the \"Throne of the Gods\"—the Karakoram range—it is a land of turquoise lakes,..."Throne of the Gods\"—the Karakoram range—it is a land of turquoise lakes,..."Throne of the Gods\"—the Karakoram range—it is a land of turquoise lakes,..."Throne of the Gods\"—the Karakoram range—it is a land of turquoise lakes,..."
+description: "Skardu has always felt like a little slice of heaven to me. Surrounded by the \"Throne of the Gods\"—the Karakoram range—it is a land of turquoise lakes,..."
 date: "2025-12-16"
-image: "/images/blog/skardu-travel-itinerary.jpg"
 topic: "guides"
 slug: "complete-skardu-travel-itinerary"
 ---

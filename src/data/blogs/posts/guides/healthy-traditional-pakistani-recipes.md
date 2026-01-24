@@ -1,8 +1,7 @@
 ---
 title: "Healthy Traditional Pakistani Recipes You’ll Love – 2025 Guide"
-description: "Pakistani food is often characterized by one word: \"Rich.\" We love our ghee, our thick gravies, and our deep-fried snacks. However, this richness often..."Rich.\" We love our ghee, our thick gravies, and our deep-fried snacks. However, this richness often..."Rich.\" We love our ghee, our thick gravies, and our deep-fried snacks. However, this richness often..."Rich.\" We love our ghee, our thick gravies, and our deep-fried snacks. However, this richness often..."
+description: "Pakistani food is often characterized by one word: \"Rich.\" We love our ghee, our thick gravies, and our deep-fried snacks. However, this richness often..."
 date: "2025-12-16"
-image: "/images/blog/healthy-pakistani-recipes.jpg"
 topic: "guides"
 slug: "healthy-traditional-pakistani-recipes"
 ---

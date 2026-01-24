@@ -1,8 +1,7 @@
 ---
 title: "Ultimate Guide to Checking Board Exam Results Online (BISE & FBISE) – 2025 Hostel-Room Edition"
-description: "Result day morning in a Pakistani household is a high-tension drama that rivals any TV serial. The \"mithai\" shops are on standby, parents are reciting..."mithai\" shops are on standby, parents are reciting..."mithai\" shops are on standby, parents are reciting..."mithai\" shops are on standby, parents are reciting..."
+description: "Result day morning in a Pakistani household is a high-tension drama that rivals any TV serial. The \"mithai\" shops are on standby, parents are reciting..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "check-board-exam-results-online-pakistan-2025"
 ---

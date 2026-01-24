@@ -2,7 +2,6 @@
 title: "Dropshipping Guide for Pakistanis – 2026 Edition"
 description: "From the busy streets of Karachi's Tariq Road to the quiet study halls of universities in Islamabad, a new kind of entrepreneur is rising: the..."
 date: "2025-12-16"
-image: "/images/blog/dropshipping-guide-pakistan-2026.jpg"
 topic: "guides"
 slug: "dropshipping-guide-pakistanis-2026"
 ---

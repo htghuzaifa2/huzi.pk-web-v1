@@ -1,8 +1,7 @@
 ---
 title: "How to Cook Quinoa in Pakistani Style – 2025 Guide"
-description: "Quinoa is often labeled as an \"Elite\" superfood, something you'd only find in expensive salads at a fancy café in Gulberg, DHA, or Islamabad's F-6..."Elite\" superfood, something you'd only find in expensive salads at a fancy café in Gulberg, DHA, or Islamabad's F-6..."Elite\" superfood, something you'd only find in expensive salads at a fancy café in Gulberg, DHA, or Islamabad's F-6..."Elite\" superfood, something you'd only find in expensive salads at a fancy café in Gulberg, DHA, or Islamabad's F-6..."
+description: "Quinoa is often labeled as an \"Elite\" superfood, something you'd only find in expensive salads at a fancy café in Gulberg, DHA, or Islamabad's F-6..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "how-to-cook-quinoa-pakistani-style"
 ---

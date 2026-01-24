@@ -1,8 +1,7 @@
 ---
 title: "How to Unsend Instagram Messages (Step by Step)"
-description: "We've all been there—you send a message on Instagram and immediately regret it. Maybe it was sent to the \"Other\" folder of someone you shouldn't be..."Other\" folder of someone you shouldn't be..."Other\" folder of someone you shouldn't be..."Other\" folder of someone you shouldn't be..."
+description: "We've all been there—you send a message on Instagram and immediately regret it. Maybe it was sent to the \"Other\" folder of someone you shouldn't be..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "how-to-unsend-instagram-messages"
 ---

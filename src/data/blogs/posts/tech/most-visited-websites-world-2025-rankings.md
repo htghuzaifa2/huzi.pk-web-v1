@@ -2,7 +2,6 @@
 title: "Most Vist Websites in 2025 in the world."
 description: "Have you ever wondered what the rest of the world is doing online while you're scrolling through your feed in Lahore? The internet is a massive, shifting..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "most-visited-websites-world-2025-rankings"
 ---

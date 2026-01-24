@@ -1,8 +1,7 @@
 ---
 title: "Gençlerbirliği vs Trabzonspor (4-3): The Night of Flying Headers"
-description: "\"Futbol asla sadece futbol değildir.\" (Football is never just football.) On a freezing night in Ankara (-1°C), we witnessed something that defied the..."Futbol asla sadece futbol değildir.\" (Football is never just football.) On a freezing night in Ankara (-1°C), we witnessed something that defied the..."Futbol asla sadece futbol değildir.\" (Football is never just football.) On a freezing night in Ankara (-1°C), we witnessed something that defied the..."Futbol asla sadece futbol değildir.\" (Football is never just football.) On a freezing night in Ankara (-1°C), we witnessed something that defied the..."
+description: "\"Futbol asla sadece futbol değildir.\" (Football is never just football.) On a freezing night in Ankara (-1°C), we witnessed something that defied the..."
 date: "2025-12-23"
-image: "/images/blog/genclerbirligi-trabzonspor-2025.jpg"
 topic: "sports"
 slug: "genclerbirligi-trabzonspor-super-lig-2025"
 ---

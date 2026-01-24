@@ -1,8 +1,7 @@
 ---
 title: "Tech Jobs That Pay Well in Pakistan – 2026 Salary Reality Check"
-description: "If you’re still thinking that \"Getting a CS degree\" is the only way to make a 6-figure salary in Pakistan, I have some news for you. In 2026, the market..."Getting a CS degree\" is the only way to make a 6-figure salary in Pakistan, I have some news for you. In 2026, the market..."Getting a CS degree\" is the only way to make a 6-figure salary in Pakistan, I have some news for you. In 2026, the market..."Getting a CS degree\" is the only way to make a 6-figure salary in Pakistan, I have some news for you. In 2026, the market..."
+description: "If you’re still thinking that \"Getting a CS degree\" is the only way to make a 6-figure salary in Pakistan, I have some news for you. In 2026, the market..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "tech-jobs-pay-well-pakistan-2026"
 ---

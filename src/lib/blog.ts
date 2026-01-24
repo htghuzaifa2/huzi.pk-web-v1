@@ -28,6 +28,30 @@ renderer.link = (token: any) => {
     return html
 }
 
+function escapeHtml(unsafe: string) {
+    return unsafe
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
+}
+
+renderer.code = (token: any) => {
+    if (token.lang === 'mermaid') {
+        return `<pre class="mermaid">${escapeHtml(token.text)}</pre>`
+    }
+    // Default rendering for other code blocks
+    const lang = (token.lang || '').match(/\S*/)[0];
+    const code = token.text.replace(/\n$/, '')
+
+    if (!lang) {
+        return '<pre><code>' + code + '</code></pre>\n';
+    }
+
+    return '<pre><code class="language-' + lang + '">' + code + '</code></pre>\n';
+}
+
 marked.setOptions({ renderer })
 
 export function getBlogPost(topic: string, slug: string): BlogPost {

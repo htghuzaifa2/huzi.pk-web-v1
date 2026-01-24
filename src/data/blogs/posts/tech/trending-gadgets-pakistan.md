@@ -1,8 +1,7 @@
 ---
 title: "Guide to emerging gadgets trending in Pakistan"
-description: "In most western countries, a \"Trending Gadget\" is the new iPhone or a $500 VR headset. In Pakistan, a trending gadget is something that works during a..."Trending Gadget\" is the new iPhone or a $500 VR headset. In Pakistan, a trending gadget is something that works during a..."Trending Gadget\" is the new iPhone or a $500 VR headset. In Pakistan, a trending gadget is something that works during a..."Trending Gadget\" is the new iPhone or a $500 VR headset. In Pakistan, a trending gadget is something that works during a..."
+description: "In most western countries, a \"Trending Gadget\" is the new iPhone or a $500 VR headset. In Pakistan, a trending gadget is something that works during a..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "trending-gadgets-pakistan"
 ---

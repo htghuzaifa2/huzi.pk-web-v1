@@ -2,7 +2,6 @@
 title: "Most Downloaded Apps in Pakistan (2025)"
 description: "What does a person in a village in Sindh have in common with a student in a posh Lahore university? They likely both have TikTok and Easypaisa on their..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "most-downloaded-apps-pakistan-2025"
 ---

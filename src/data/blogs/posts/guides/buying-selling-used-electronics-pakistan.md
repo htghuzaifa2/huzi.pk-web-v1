@@ -2,7 +2,6 @@
 title: "Guide to Buying & Selling Used Electronics in Pakistan – 2025"
 description: "The second-hand electronics market in Pakistan—whether it’s the bustling maze of Hafeez Centre in Lahore, the tech towers of Star City Mall in Karachi,..."
 date: "2025-12-16"
-image: "/images/blog/buying-selling-used-electronics.jpg"
 topic: "guides"
 slug: "buying-selling-used-electronics-pakistan"
 ---

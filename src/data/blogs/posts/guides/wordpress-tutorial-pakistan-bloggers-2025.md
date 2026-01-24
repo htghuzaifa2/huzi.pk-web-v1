@@ -1,8 +1,7 @@
 ---
 title: "WordPress for Pakistan: The 2026 Technical Roadmap"
-description: "\"Bhai, site slow chal rahi hai.\" (Bro, the site is running slow.) In Pakistan, where 4G speeds fluctuate like the stock market, Speed is not a luxury. It..."Bhai, site slow chal rahi hai.\" (Bro, the site is running slow.) In Pakistan, where 4G speeds fluctuate like the stock market, Speed is not a luxury. It..."Bhai, site slow chal rahi hai.\" (Bro, the site is running slow.) In Pakistan, where 4G speeds fluctuate like the stock market, Speed is not a luxury. It..."Bhai, site slow chal rahi hai.\" (Bro, the site is running slow.) In Pakistan, where 4G speeds fluctuate like the stock market, Speed is not a luxury. It..."
+description: "\"Bhai, site slow chal rahi hai.\" (Bro, the site is running slow.) In Pakistan, where 4G speeds fluctuate like the stock market, Speed is not a luxury. It..."
 date: "2025-12-16"
-image: "/images/blog/wordpress-tutorial-pakistan-2025.jpg"
 topic: "guides"
 slug: "wordpress-tutorial-pakistan-bloggers-2025"
 ---

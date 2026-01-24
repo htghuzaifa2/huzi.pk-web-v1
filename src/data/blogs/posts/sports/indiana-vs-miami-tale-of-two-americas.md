@@ -1,8 +1,7 @@
 ---
 title: "Indiana vs Miami: A Tale of Two Americas (and Why It Matters)"
-description: "\"Google Maps says they are 1000 miles apart. Culture says they are different planets.\" In the world of American sports, you rarely get a contrast this..."Google Maps says they are 1000 miles apart. Culture says they are different planets.\" In the world of American sports, you rarely get a contrast this..."Google Maps says they are 1000 miles apart. Culture says they are different planets.\" In the world of American sports, you rarely get a contrast this..."Google Maps says they are 1000 miles apart. Culture says they are different planets.\" In the world of American sports, you rarely get a contrast this..."
+description: "\"Google Maps says they are 1000 miles apart. Culture says they are different planets.\" In the world of American sports, you rarely get a contrast this..."
 date: "2026-01-16"
-image: "/images/blog/indiana-miami-clash.jpg"
 topic: "sports"
 slug: "indiana-vs-miami-tale-of-two-americas"
 ---

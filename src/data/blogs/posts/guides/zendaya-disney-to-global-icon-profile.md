@@ -2,7 +2,6 @@
 title: "Zendaya: The Architectural Blueprint of a Modern Icon (2026 Profile)"
 description: "She is 29. She has two Emmys. She is the face of Vuitton, Bulgari, and Lancome. Zendaya isn't just a celebrity; she is an Institution. In 2026, the..."
 date: "2025-12-23"
-image: "/images/blog/zendaya-profile.jpg"
 topic: "guides"
 slug: "zendaya-disney-to-global-icon-profile"
 ---

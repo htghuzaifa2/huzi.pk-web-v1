@@ -2,7 +2,6 @@
 title: "The Silent Witness: Diagnosing and Fixing E-Signature Verification Failures in 2026"
 description: "Let’s talk about a special kind of silence—the kind that follows a perfectly executed digital handshake that goes unanswered. You’ve sent a contract..."
 date: "2026-01-27"
-image: "/images/blog/e-signature-verification.jpg"
 topic: "tech"
 slug: "e-signature-verification-failure"
 ---

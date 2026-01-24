@@ -2,7 +2,6 @@
 title: "Top Netflix Shows & Pakistani Classics: The Ultimate 2026 Watchlist"
 description: "Streaming in Pakistan has evolved. Five years ago, we were pirating heavily pixelated episodes of Game of Thrones. Today, we are subscribing to Netflix,..."
 date: "2025-12-16"
-image: "/images/blog/top-netflix-pakistan.jpg"
 topic: "guides"
 slug: "top-netflix-shows-pakistan-local-classics"
 ---

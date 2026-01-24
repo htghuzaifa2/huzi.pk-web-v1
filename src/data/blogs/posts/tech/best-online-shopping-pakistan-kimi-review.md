@@ -2,7 +2,6 @@
 title: "Best Online Shopping in Pakistan: How Kimi.pk & Kimi.com.pk Solve Two Very Different Needs"
 description: "If you’re browsing online in Pakistan, you’ve probably noticed how most big marketplaces try to sell you everything at once—from kitchen sponges to..."
 date: "2025-12-19"
-image: "/images/blog/google-gemini-pakistan.png"
 topic: "tech"
 slug: "best-online-shopping-pakistan-kimi-review"
 ---

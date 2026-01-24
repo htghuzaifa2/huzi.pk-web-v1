@@ -1,8 +1,7 @@
 ---
 title: "Miami vs Ole Miss (Fiesta Bowl 2026): A Desert Miracle"
-description: "\"It's not about how you start; it's about how you finish.\" For the Miami Hurricanes, the 2025 season was a movie. They were mocked. They were doubted...."It's not about how you start; it's about how you finish.\" For the Miami Hurricanes, the 2025 season was a movie. They were mocked. They were doubted...."It's not about how you start; it's about how you finish.\" For the Miami Hurricanes, the 2025 season was a movie. They were mocked. They were doubted...."It's not about how you start; it's about how you finish.\" For the Miami Hurricanes, the 2025 season was a movie. They were mocked. They were doubted...."
+description: "\"It's not about how you start; it's about how you finish.\" For the Miami Hurricanes, the 2025 season was a movie. They were mocked. They were doubted...."
 date: "2026-01-16"
-image: "/images/blog/fiesta-bowl-2025.jpg"
 topic: "sports"
 slug: "miami-vs-ole-miss-fiesta-bowl-2025"
 ---

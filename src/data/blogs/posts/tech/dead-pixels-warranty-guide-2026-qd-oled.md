@@ -2,7 +2,6 @@
 title: "The Tiny Black Dot: A Complete Guide to Dead Pixels and Warranties on 2026 QD-OLED Monitors"
 description: "There is a particular kind of frustration known only to those who seek perfection. It starts with a moment of pure joy—unboxing your new 2026 QD-OLED..."
 date: "2026-01-22"
-image: "/images/blog/dead-pixels-oled.jpg"
 topic: "tech"
 slug: "dead-pixels-warranty-guide-2026-qd-oled"
 ---

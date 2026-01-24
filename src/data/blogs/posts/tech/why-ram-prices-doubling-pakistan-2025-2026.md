@@ -2,7 +2,6 @@
 title: "Why RAM Prices Are Doubling in Pakistan – 2025/2026 Explained"
 description: "If you went to Hafeez Center or PriceOye last week to upgrade your laptop's RAM and came back crying because the price was double what it was six months..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "why-ram-prices-doubling-pakistan-2025-2026"
 ---

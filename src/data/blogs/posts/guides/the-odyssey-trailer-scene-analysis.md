@@ -2,7 +2,6 @@
 title: "A Scene-by-Scene Breakdown of The Odyssey Trailer: Unpacking Nolan's Epic Vision"
 description: "The 2-minute 28-second trailer for Christopher Nolan's The Odyssey (2026) is a masterclass in visual storytelling. It doesn't just show us cool shots; it..."
 date: "2025-12-23"
-image: "/images/blog/odyssey-scene-breakdown.jpg"
 topic: "guides"
 slug: "the-odyssey-trailer-scene-analysis"
 ---

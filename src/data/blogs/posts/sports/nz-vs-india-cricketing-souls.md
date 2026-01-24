@@ -1,8 +1,7 @@
 ---
 title: "India vs New Zealand: Fire, Ice, and the Soul of Cricket"
-description: "\"Cricket is a game played by 11 fools and watched by 11 million fools.\" — George Bernard Shaw. He clearly never watched India vs New Zealand. This..."Cricket is a game played by 11 fools and watched by 11 million fools.\" — George Bernard Shaw. He clearly never watched India vs New Zealand. This..."Cricket is a game played by 11 fools and watched by 11 million fools.\" — George Bernard Shaw. He clearly never watched India vs New Zealand. This..."Cricket is a game played by 11 fools and watched by 11 million fools.\" — George Bernard Shaw. He clearly never watched India vs New Zealand. This..."
+description: "\"Cricket is a game played by 11 fools and watched by 11 million fools.\" — George Bernard Shaw. He clearly never watched India vs New Zealand. This..."
 date: "2026-01-16"
-image: "/images/blog/ind-nz-cricket-souls.jpg"
 topic: "sports"
 slug: "nz-vs-india-cricketing-souls"
 ---

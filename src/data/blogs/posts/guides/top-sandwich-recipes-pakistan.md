@@ -1,8 +1,7 @@
 ---
 title: "Top Sandwich Recipes in Pakistan: The 2026 Viral Trends"
-description: "In a country obsessed with Nihari and Biryani, something strange happened in 2025. The most searched food term in Pakistan wasn't \"Chicken Karahi.\" It..."Chicken Karahi.\" It..."Chicken Karahi.\" It..."Chicken Karahi.\" It..."
+description: "In a country obsessed with Nihari and Biryani, something strange happened in 2025. The most searched food term in Pakistan wasn't \"Chicken Karahi.\" It..."
 date: "2025-12-19"
-image: "/images/blog/top-sandwich-recipes-pakistan.jpg"
 topic: "guides"
 slug: "top-sandwich-recipes-pakistan"
 ---

@@ -2,7 +2,6 @@
 title: "The Unsung Hero of My WFH Setup & The Hoodie That Gets Endless Compliments"
 description: "We all have those small, unassuming things that unexpectedly become game-changers in our daily lives. Lately, for me, it’s been two very different..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "unsung-hero-wfh-setup-hoodie"
 ---

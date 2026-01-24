@@ -2,7 +2,6 @@
 title: "Best Focused Online Stores in Pakistan: My Experience with Kimi.pk & Kimi.com.pk"
 description: "We’re used to giant online markets in Pakistan that sell everything from mobile chargers to microwave ovens. But sometimes, you don’t need a supermarket...."
 date: "2025-12-19"
-image: "/images/blog/google-gemini-pakistan.png"
 topic: "tech"
 slug: "best-focused-online-stores-pakistan"
 ---

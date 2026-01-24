@@ -1,8 +1,7 @@
 ---
 title: "Best Pakistani Dramas Trending Now (2025)"
-description: "Pakistani dramas have undergone a massive metamorphosis between 2023 and 2026. They have evolved from simple family sagas and \"Saas-Bahu\" (Mother-in-law..."Saas-Bahu\" (Mother-in-law..."Saas-Bahu\" (Mother-in-law..."Saas-Bahu\" (Mother-in-law..."
+description: "Pakistani dramas have undergone a massive metamorphosis between 2023 and 2026. They have evolved from simple family sagas and \"Saas-Bahu\" (Mother-in-law..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "best-pakistani-dramas-trending"
 ---

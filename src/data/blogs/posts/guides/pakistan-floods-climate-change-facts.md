@@ -1,8 +1,7 @@
 ---
 title: "Pakistan Floods & Climate Change: The Survival Reality of a Nation"
-description: "In the summer of 2022, a \"Monsoon on Steroids\" submerged one-third of Pakistan. For the global media, it was a 2-minute headline. For 33 million..."Monsoon on Steroids\" submerged one-third of Pakistan. For the global media, it was a 2-minute headline. For 33 million..."Monsoon on Steroids\" submerged one-third of Pakistan. For the global media, it was a 2-minute headline. For 33 million..."Monsoon on Steroids\" submerged one-third of Pakistan. For the global media, it was a 2-minute headline. For 33 million..."
+description: "In the summer of 2022, a \"Monsoon on Steroids\" submerged one-third of Pakistan. For the global media, it was a 2-minute headline. For 33 million..."
 date: "2025-12-16"
-image: "/images/blog/pakistan-floods-climate.jpg"
 topic: "guides"
 slug: "pakistan-floods-climate-change-facts"
 ---

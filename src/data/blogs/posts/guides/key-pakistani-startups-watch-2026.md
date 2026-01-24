@@ -1,8 +1,7 @@
 ---
 title: "Key Pakistani Startups to Watch in 2026"
-description: "The Pakistani startup ecosystem has matured from the \"Gold Rush\" of 2021 into a lean, battle-hardened engine of innovation in 2026. After the global..."Gold Rush\" of 2021 into a lean, battle-hardened engine of innovation in 2026. After the global..."Gold Rush\" of 2021 into a lean, battle-hardened engine of innovation in 2026. After the global..."Gold Rush\" of 2021 into a lean, battle-hardened engine of innovation in 2026. After the global..."
+description: "The Pakistani startup ecosystem has matured from the \"Gold Rush\" of 2021 into a lean, battle-hardened engine of innovation in 2026. After the global..."
 date: "2025-12-16"
-image: "/images/blog/startups-watch-2026.jpg"
 topic: "guides"
 slug: "key-pakistani-startups-watch-2026"
 ---

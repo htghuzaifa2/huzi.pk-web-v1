@@ -1,8 +1,7 @@
 ---
 title: "The Ultimate Biryani Guide: Best Spots in Islamabad – 2025-2026"
-description: "For decades, the great cities of Lahore and Karachi have been locked in the \"Great Biryani Wars.\" Karachi claims the throne of spice and complexity,..."Great Biryani Wars.\" Karachi claims the throne of spice and complexity,..."Great Biryani Wars.\" Karachi claims the throne of spice and complexity,..."Great Biryani Wars.\" Karachi claims the throne of spice and complexity,..."
+description: "For decades, the great cities of Lahore and Karachi have been locked in the \"Great Biryani Wars.\" Karachi claims the throne of spice and complexity,..."
 date: "2025-12-16"
-image: "/images/blog/best-biryani-islamabad.jpg"
 topic: "guides"
 slug: "restaurant-review-best-biryani-islamabad"
 ---

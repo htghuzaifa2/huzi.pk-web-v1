@@ -2,7 +2,6 @@
 title: "Anaconda vs. Avatar: Fire and Ash – What to Watch This Christmas"
 description: "🎄 The Holiday Dilemma: Magic vs. Mayhem Santa drops two totally different, star-studded stocking-stuffers within 24 hours of each other, and the..."
 date: "2025-12-23"
-image: "/images/blog/anaconda-vs-avatar.jpg"
 topic: "guides"
 slug: "anaconda-vs-avatar-fire-ash-christmas-2025"
 ---

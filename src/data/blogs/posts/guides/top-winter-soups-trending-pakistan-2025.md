@@ -1,8 +1,7 @@
 ---
 title: "Top Winter Soups Trending in Pakistan (2025): A Cozy Guide"
-description: "Winter in Pakistan is not just a season; it is a \"Vibe.\" It is the smell of peanuts roasting on a cart. It is the thick fog (and sadly, Smog) of Lahore...."Vibe.\" It is the smell of peanuts roasting on a cart. It is the thick fog (and sadly, Smog) of Lahore...."Vibe.\" It is the smell of peanuts roasting on a cart. It is the thick fog (and sadly, Smog) of Lahore...."Vibe.\" It is the smell of peanuts roasting on a cart. It is the thick fog (and sadly, Smog) of Lahore...."
+description: "Winter in Pakistan is not just a season; it is a \"Vibe.\" It is the smell of peanuts roasting on a cart. It is the thick fog (and sadly, Smog) of Lahore...."
 date: "2025-12-19"
-image: "/images/blog/top-winter-soups-pakistan.jpg"
 topic: "guides"
 slug: "top-winter-soups-trending-pakistan-2025"
 ---

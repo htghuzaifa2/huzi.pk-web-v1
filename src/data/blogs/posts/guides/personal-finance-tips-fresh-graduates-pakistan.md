@@ -1,8 +1,7 @@
 ---
 title: "Personal Finance Tips for Fresh Graduates in Pakistan – 2025-2026 Guide"
-description: "Stepping out of university and into the \"Real World\" feels exhilarating. Suddenly, you aren't waiting for a monthly allowance (pocket money); you have..."Real World\" feels exhilarating. Suddenly, you aren't waiting for a monthly allowance (pocket money); you have..."Real World\" feels exhilarating. Suddenly, you aren't waiting for a monthly allowance (pocket money); you have..."Real World\" feels exhilarating. Suddenly, you aren't waiting for a monthly allowance (pocket money); you have..."
+description: "Stepping out of university and into the \"Real World\" feels exhilarating. Suddenly, you aren't waiting for a monthly allowance (pocket money); you have..."
 date: "2025-12-16"
-image: "/images/blog/personal-finance-graduates-pakistan.jpg"
 topic: "guides"
 slug: "personal-finance-tips-fresh-graduates-pakistan"
 ---

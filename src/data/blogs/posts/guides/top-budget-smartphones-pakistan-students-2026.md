@@ -2,7 +2,6 @@
 title: "Top Budget Smartphones in Pakistan for Students – 2026 Buying Guide"
 description: "Being a student in Pakistan in 2026 is tough. Semester fees are rising, fuel is expensive, and the PTA (Pakistan Telecommunication Authority) taxes on..."
 date: "2025-12-16"
-image: "/images/blog/budget-smartphones-pakistan-students-2026.jpg"
 topic: "guides"
 slug: "top-budget-smartphones-pakistan-students-2026"
 ---

@@ -1,8 +1,7 @@
 ---
 title: "Best savings & investment plans for middle-income families"
-description: "In the current economic climate of Pakistan, \"Saving\" is no longer just about putting money in a physical locker or under a mattress. With inflation..."Saving\" is no longer just about putting money in a physical locker or under a mattress. With inflation..."Saving\" is no longer just about putting money in a physical locker or under a mattress. With inflation..."Saving\" is no longer just about putting money in a physical locker or under a mattress. With inflation..."
+description: "In the current economic climate of Pakistan, \"Saving\" is no longer just about putting money in a physical locker or under a mattress. With inflation..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "best-savings-investment-plans-middle-income-families"
 ---

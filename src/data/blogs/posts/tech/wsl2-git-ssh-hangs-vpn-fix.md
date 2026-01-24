@@ -2,7 +2,6 @@
 title: "WSL2: Git Over SSH Hangs While VPN is Active – SSH Config and ProxyUseFdpass Tricks"
 description: "Listen, I know why you're here. You connected to your corporate VPN, tried to do a simple git pull or git clone over SSH, and everything just... froze...."
 date: "2026-01-22"
-image: "/images/blog/wsl2-git-ssh-fix.jpg"
 topic: "tech"
 slug: "wsl2-git-ssh-hangs-vpn-fix"
 ---

@@ -2,7 +2,6 @@
 title: "The 2025 US Government Shutdown: A Post-Mortem Analysis"
 description: "History was made in late 2025, but it was the kind of history nobody wanted. For 43 Days—from October 1st to November 12th—the United States Federal..."
 date: "2025-12-23"
-image: "/images/blog/government-shutdown-2025.jpg"
 topic: "guides"
 slug: "us-government-shutdown-2025-snap-air-travel"
 ---

@@ -2,7 +2,6 @@
 title: "The Hidden Cost of Convenience: Reclaiming Your Digital Privacy in 2024"
 description: "There’s a quiet moment I cherish every evening here in my city. The call to prayer has faded, the heat of the day softens, and I finally sit with my..."
 date: "2026-01-22"
-image: "/images/blog/digital-privacy-2024.jpg"
 topic: "guides"
 slug: "hidden-cost-convenience-digital-privacy"
 ---

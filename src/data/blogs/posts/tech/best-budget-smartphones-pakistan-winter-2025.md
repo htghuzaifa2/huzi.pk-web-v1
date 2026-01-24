@@ -1,8 +1,7 @@
 ---
 title: "Best Budget Smartphones in Pakistan – Winter 2025 (Under ₹ 60k)"
-description: "Choosing a smartphone in Pakistan in 2025 is like navigating a minefield. You have \"Official Warranty,\" \"CPID Patch,\" \"VIP Approved,\" and \"Non-PTA.\" If..."Official Warranty,\" \"CPID Patch,\" \"VIP Approved,\" and \"Non-PTA.\" If..."Official Warranty,\" \"CPID Patch,\" \"VIP Approved,\" and \"Non-PTA.\" If..."Official Warranty,\" \"CPID Patch,\" \"VIP Approved,\" and \"Non-PTA.\" If..."
+description: "Choosing a smartphone in Pakistan in 2025 is like navigating a minefield. You have \"Official Warranty,\" \"CPID Patch,\" \"VIP Approved,\" and \"Non-PTA.\" If..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "best-budget-smartphones-pakistan-winter-2025"
 ---

@@ -2,7 +2,6 @@
 title: "Traditional Soup Recipes with a Modern Twist"
 description: "Pakistani winters demand one thing above all else: a steaming bowl of soul-warming soup. But if you're still making chicken yakhni the same way your..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "modern-traditional-soup-recipes"
 ---

@@ -1,8 +1,7 @@
 ---
 title: "Scholarship Opportunities to Study Abroad – 2025-2026 Guide"
-description: "The dream of studying in Europe, the USA, or Australia is often crushed by the daunting \"Bank Balance\" requirement. For many talented Pakistani students,..."Bank Balance\" requirement. For many talented Pakistani students,..."Bank Balance\" requirement. For many talented Pakistani students,..."Bank Balance\" requirement. For many talented Pakistani students,..."
+description: "The dream of studying in Europe, the USA, or Australia is often crushed by the daunting \"Bank Balance\" requirement. For many talented Pakistani students,..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "scholarship-opportunities-study-abroad-2026"
 ---

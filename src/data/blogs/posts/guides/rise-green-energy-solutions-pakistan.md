@@ -2,7 +2,6 @@
 title: "The Rise of Green Energy in Pakistan – 2025-2026 Guide"
 description: "Five years ago, solar panels were a luxury for the elite and a curiosity for the tech-savvy. Today, in 2026, they are a survival tool for the middle..."
 date: "2025-12-16"
-image: "/images/blog/green-energy-solutions-pakistan.jpg"
 topic: "guides"
 slug: "rise-green-energy-solutions-pakistan"
 ---

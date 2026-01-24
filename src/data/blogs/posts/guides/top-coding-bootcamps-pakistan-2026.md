@@ -1,8 +1,7 @@
 ---
 title: "Top Coding Bootcamps in Pakistan (2026): A Developer's Guide to Getting Hired"
-description: "In 2026, the \"CS Degree vs. Bootcamp\" debate in Pakistan is over. The Bootcamps won. Why? Because the tech industry moves faster than the HEC curriculum...."CS Degree vs. Bootcamp\" debate in Pakistan is over. The Bootcamps won. Why? Because the tech industry moves faster than the HEC curriculum...."CS Degree vs. Bootcamp\" debate in Pakistan is over. The Bootcamps won. Why? Because the tech industry moves faster than the HEC curriculum...."CS Degree vs. Bootcamp\" debate in Pakistan is over. The Bootcamps won. Why? Because the tech industry moves faster than the HEC curriculum...."
+description: "In 2026, the \"CS Degree vs. Bootcamp\" debate in Pakistan is over. The Bootcamps won. Why? Because the tech industry moves faster than the HEC curriculum...."
 date: "2025-12-16"
-image: "/images/blog/top-coding-bootcamps-pakistan.jpg"
 topic: "guides"
 slug: "top-coding-bootcamps-pakistan-2026"
 ---

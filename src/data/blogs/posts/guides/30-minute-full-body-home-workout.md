@@ -1,8 +1,7 @@
 ---
 title: "30-Minute Full-Body Home Workout"
-description: "If you’re a Pakistani student or a young professional, your \"Gym\" is usually the 5-foot space between your bed and your study table. Between the 8 a.m...."Gym\" is usually the 5-foot space between your bed and your study table. Between the 8 a.m...."Gym\" is usually the 5-foot space between your bed and your study table. Between the 8 a.m...."Gym\" is usually the 5-foot space between your bed and your study table. Between the 8 a.m...."
+description: "If you’re a Pakistani student or a young professional, your \"Gym\" is usually the 5-foot space between your bed and your study table. Between the 8 a.m...."
 date: "2025-12-16"
-image: "/images/blog/home-workout.jpg"
 topic: "guides"
 slug: "30-minute-full-body-home-workout"
 ---

@@ -1,8 +1,7 @@
 ---
 title: "Laptop Performance Guide 2026: AI Chips, Battery & Connectivity – Hostel-Rankings"
-description: "Are you still carrying an 8lb gaming laptop that dies the moment you unplug it for a 1-hour lecture? In 2026, that’s considered a \"Vintage Weight.\" The..."Vintage Weight.\" The..."Vintage Weight.\" The..."Vintage Weight.\" The..."
+description: "Are you still carrying an 8lb gaming laptop that dies the moment you unplug it for a 1-hour lecture? In 2026, that’s considered a \"Vintage Weight.\" The..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "laptop-performance-guide-ai-chips-battery-2026"
 ---

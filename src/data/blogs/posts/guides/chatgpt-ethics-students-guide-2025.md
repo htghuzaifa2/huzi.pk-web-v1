@@ -2,7 +2,6 @@
 title: "AI & Academia: The 2025 Student's Guide to Using ChatGPT Ethically and Effectively"
 description: "The panic is real. The assignment is due in 12 hours, the page is white and mocking, and ChatGPT is just a tab away. We've all been there. But copying a..."
 date: "2025-12-23"
-image: "/images/blog/chatgpt-students.jpg"
 topic: "guides"
 slug: "chatgpt-ethics-students-guide-2025"
 ---

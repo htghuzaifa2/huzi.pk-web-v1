@@ -1,8 +1,7 @@
 ---
 title: "49ers vs Eagles (Wild Card 2026): A Masterclass in Grit and Glory"
-description: "\"History is not written by the healthy; it is written by the survivors.\" In the freezing cold of Philadelphia, the San Francisco 49ers didn't just play a..."History is not written by the healthy; it is written by the survivors.\" In the freezing cold of Philadelphia, the San Francisco 49ers didn't just play a..."History is not written by the healthy; it is written by the survivors.\" In the freezing cold of Philadelphia, the San Francisco 49ers didn't just play a..."History is not written by the healthy; it is written by the survivors.\" In the freezing cold of Philadelphia, the San Francisco 49ers didn't just play a..."
+description: "\"History is not written by the healthy; it is written by the survivors.\" In the freezing cold of Philadelphia, the San Francisco 49ers didn't just play a..."
 date: "2026-01-15"
-image: "/images/blog/49ers-eagles-wild-card-2026.jpg"
 topic: "sports"
 slug: "49ers-vs-eagles-wild-card-2026"
 ---

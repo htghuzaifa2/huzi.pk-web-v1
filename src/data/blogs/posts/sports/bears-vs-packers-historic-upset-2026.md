@@ -1,8 +1,7 @@
 ---
 title: "Bears vs Packers (Wild Card 2026): The Night Chicago Finally Exhaled"
-description: "\"Zullam ki raat lambi ho sakti hai, magar subah zaroor hoti hai.\" (The night of oppression may be long, but the dawn always comes.) For 35 years, Chicago..."Zullam ki raat lambi ho sakti hai, magar subah zaroor hoti hai.\" (The night of oppression may be long, but the dawn always comes.) For 35 years, Chicago..."Zullam ki raat lambi ho sakti hai, magar subah zaroor hoti hai.\" (The night of oppression may be long, but the dawn always comes.) For 35 years, Chicago..."Zullam ki raat lambi ho sakti hai, magar subah zaroor hoti hai.\" (The night of oppression may be long, but the dawn always comes.) For 35 years, Chicago..."
+description: "\"Zullam ki raat lambi ho sakti hai, magar subah zaroor hoti hai.\" (The night of oppression may be long, but the dawn always comes.) For 35 years, Chicago..."
 date: "2026-01-15"
-image: "/images/blog/bears-packers-wildcard-2026.jpg"
 topic: "sports"
 slug: "bears-vs-packers-historic-upset-2026"
 ---

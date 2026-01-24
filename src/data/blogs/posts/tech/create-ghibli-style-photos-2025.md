@@ -2,7 +2,6 @@
 title: "How to Create Ghibli-Style Photos (2025 Hostel-Room Edition)"
 description: "Turn your hostel selfie into a soft, dreamy, hand-painted Studio Ghibli scene—no Photoshop, no premium subscriptions, just your phone and 5 minutes. In..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "create-ghibli-style-photos-2025"
 ---

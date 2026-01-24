@@ -2,7 +2,6 @@
 title: "Green Tech Infrastructure: Solar Powering Tech Hubs – Renewable + Connectivity"
 description: "Are you tired of your hostel Wi-Fi dying the moment the power goes out? Or maybe you're a freelancer whose deadline is at 3 a.m. but Wapda has other..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "green-tech-infrastructure-solar-powering-tech-hubs"
 ---

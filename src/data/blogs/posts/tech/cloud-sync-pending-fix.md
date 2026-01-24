@@ -2,7 +2,6 @@
 title: "The Great Digital Pause: Understanding and Fixing 'Sync Pending' in Your Cloud"
 description: "There is a particular kind of modern anxiety that lives in a small, spinning icon. You’ve finished your work, closed your laptop with a sense of..."
 date: "2026-01-25"
-image: "/images/blog/cloud-sync-pending.jpg"
 topic: "tech"
 slug: "cloud-sync-pending-fix"
 ---

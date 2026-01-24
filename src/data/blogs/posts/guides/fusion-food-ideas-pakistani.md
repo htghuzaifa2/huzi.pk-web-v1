@@ -2,7 +2,6 @@
 title: "Fusion Food Ideas: Pakistani Heart, Global Passport"
 description: "Below are dorm-tested dishes that marry desi soul with international swagger—no fancy gear, just your hostel saucepan and the spice box you already..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "fusion-food-ideas-pakistani"
 ---

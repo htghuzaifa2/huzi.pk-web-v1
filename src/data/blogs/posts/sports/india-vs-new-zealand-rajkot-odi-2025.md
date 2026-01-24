@@ -1,8 +1,7 @@
 ---
 title: "The Rajkot Miracle: How New Zealand Out-Spun India in India"
-description: "\"Ghar mein ghuss ke maara.\" (Beat them in their own home.) That is usually what India does to other teams. But on January 14, 2026, New Zealand flipped..."Ghar mein ghuss ke maara.\" (Beat them in their own home.) That is usually what India does to other teams. But on January 14, 2026, New Zealand flipped..."Ghar mein ghuss ke maara.\" (Beat them in their own home.) That is usually what India does to other teams. But on January 14, 2026, New Zealand flipped..."Ghar mein ghuss ke maara.\" (Beat them in their own home.) That is usually what India does to other teams. But on January 14, 2026, New Zealand flipped..."
+description: "\"Ghar mein ghuss ke maara.\" (Beat them in their own home.) That is usually what India does to other teams. But on January 14, 2026, New Zealand flipped..."
 date: "2026-01-15"
-image: "/images/blog/ind-vs-nz-rajkot.jpg"
 topic: "sports"
 slug: "india-vs-new-zealand-rajkot-odi-2025"
 ---

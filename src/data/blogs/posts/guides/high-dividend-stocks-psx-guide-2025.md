@@ -2,7 +2,6 @@
 title: "Guide to Higher-Dividend Stocks on PSX for Long-Term Investing – 2025 Edition"
 description: "In a country where inflation often dances in double digits, keeping your money in a standard saving account is like watching it slowly evaporate. For the..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "high-dividend-stocks-psx-guide-2025"
 ---

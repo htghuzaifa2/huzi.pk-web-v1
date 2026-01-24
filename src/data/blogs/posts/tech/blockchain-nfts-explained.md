@@ -2,7 +2,6 @@
 title: "How blockchain and NFTs work (simple guide)"
 description: "Blockchain is the underlying technology—a secure, shared digital ledger—while NFTs are one specific type of digital asset built on top of that technology..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "blockchain-nfts-explained"
 ---

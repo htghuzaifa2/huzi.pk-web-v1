@@ -1,8 +1,7 @@
 ---
 title: "Easy Cooking Recipes Under PKR 500 – 2025 Budget Edition"
-description: "With food inflation hitting hard, the dream of a \"Hearty Meal\" often feels like it requires a heavy wallet. But as a former hostel student and a..."Hearty Meal\" often feels like it requires a heavy wallet. But as a former hostel student and a..."Hearty Meal\" often feels like it requires a heavy wallet. But as a former hostel student and a..."Hearty Meal\" often feels like it requires a heavy wallet. But as a former hostel student and a..."
+description: "With food inflation hitting hard, the dream of a \"Hearty Meal\" often feels like it requires a heavy wallet. But as a former hostel student and a..."
 date: "2025-12-16"
-image: "/images/blog/recipes-under-500-pkr.jpg"
 topic: "guides"
 slug: "easy-cooking-recipes-under-pkr-500"
 ---

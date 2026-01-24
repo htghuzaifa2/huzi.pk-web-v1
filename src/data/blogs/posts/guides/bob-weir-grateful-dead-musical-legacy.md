@@ -2,7 +2,6 @@
 title: "Bob Weir — The Gentle Rebel of American Music"
 description: "Bob Weir is not just a founding member of the Grateful Dead — he is the emotional bridge between rebellion and reflection in rock history. While others..."
 date: "2026-01-15"
-image: "/images/blog/bob-weir-profile.png"
 topic: "guides"
 slug: "bob-weir-grateful-dead-musical-legacy"
 ---

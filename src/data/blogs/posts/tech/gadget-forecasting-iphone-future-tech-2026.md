@@ -2,7 +2,6 @@
 title: "Gadget Forecasting: What’s Coming After iPhone 17 & the Tech Specs Users Want (2026-2027)"
 description: "Are you still paying off your iPhone 15? Well, Apple is already three steps ahead. In late 2025, the rumor mill for the iPhone 18 and beyond is reaching..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "gadget-forecasting-iphone-future-tech-2026"
 ---

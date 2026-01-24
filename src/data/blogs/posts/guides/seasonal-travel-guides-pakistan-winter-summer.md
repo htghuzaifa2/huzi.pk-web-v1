@@ -1,8 +1,7 @@
 ---
 title: "Seasonal Travel Guides: Best Places to Visit in Pakistan – 2025-2026 Edition"
-description: "Pakistan is one of the few places on Earth where you can experience \"Extreme Variation\" within a few hundred kilometers. Our geography ranges from the..."Extreme Variation\" within a few hundred kilometers. Our geography ranges from the..."Extreme Variation\" within a few hundred kilometers. Our geography ranges from the..."Extreme Variation\" within a few hundred kilometers. Our geography ranges from the..."
+description: "Pakistan is one of the few places on Earth where you can experience \"Extreme Variation\" within a few hundred kilometers. Our geography ranges from the..."
 date: "2025-12-16"
-image: "/images/blog/seasonal-travel-guides-pakistan.jpg"
 topic: "guides"
 slug: "seasonal-travel-guides-pakistan-winter-summer"
 ---

@@ -1,8 +1,7 @@
 ---
 title: "Your 2025 Guide to Landing a Government Job in Pakistan: From Search to Selection"
-description: "Let's be honest: for many of us in Pakistan, the words \"government job\" bring to mind a mix of hope for stability and dread for the process. It seems..."government job\" bring to mind a mix of hope for stability and dread for the process. It seems..."government job\" bring to mind a mix of hope for stability and dread for the process. It seems..."government job\" bring to mind a mix of hope for stability and dread for the process. It seems..."
+description: "Let's be honest: for many of us in Pakistan, the words \"government job\" bring to mind a mix of hope for stability and dread for the process. It seems..."
 date: "2025-12-23"
-image: "/images/blog/government-job-guide.jpg"
 topic: "guides"
 slug: "government-job-guide-pakistan-2025"
 ---

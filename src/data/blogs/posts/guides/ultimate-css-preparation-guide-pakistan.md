@@ -1,8 +1,7 @@
 ---
 title: "The Ultimate 'CSS' Guide: Civil Service vs. Coding (2026 Edition)"
-description: "If you tell a Pakistani uncle, \"I am doing CSS,\" he will ask, \"Which academy? NOVA or World Times?\" If you tell a software engineer, \"I am doing CSS,\" he..."I am doing CSS,\" he will ask, \"Which academy? NOVA or World Times?\" If you tell a software engineer, \"I am doing CSS,\" he..."I am doing CSS,\" he will ask, \"Which academy? NOVA or World Times?\" If you tell a software engineer, \"I am doing CSS,\" he..."I am doing CSS,\" he will ask, \"Which academy? NOVA or World Times?\" If you tell a software engineer, \"I am doing CSS,\" he..."
+description: "If you tell a Pakistani uncle, \"I am doing CSS,\" he will ask, \"Which academy? NOVA or World Times?\" If you tell a software engineer, \"I am doing CSS,\" he..."
 date: "2025-12-16"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "ultimate-css-preparation-guide-pakistan"
 ---

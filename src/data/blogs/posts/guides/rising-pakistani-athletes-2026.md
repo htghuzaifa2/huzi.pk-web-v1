@@ -2,7 +2,6 @@
 title: "Rising Pakistani Athletes You Should Follow in 2025-2026"
 description: "For decades, the sporting conversation in Pakistan began and ended with Cricket. We were a nation obsessed with the bat and ball, often to the detriment..."
 date: "2025-12-16"
-image: "/images/blog/rising-pakistani-athletes-2026.jpg"
 topic: "guides"
 slug: "rising-pakistani-athletes-2026"
 ---

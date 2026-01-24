@@ -1,8 +1,7 @@
 ---
 title: "Warnung vor starkem Schneefall: When Germany Becomes a White Veil"
-description: "Germany is a country that prides itself on \"Ordnung\" (Order), but in January 2026, even the most efficient systems are bowing to nature. With..."Ordnung\" (Order), but in January 2026, even the most efficient systems are bowing to nature. With..."Ordnung\" (Order), but in January 2026, even the most efficient systems are bowing to nature. With..."Ordnung\" (Order), but in January 2026, even the most efficient systems are bowing to nature. With..."
+description: "Germany is a country that prides itself on \"Ordnung\" (Order), but in January 2026, even the most efficient systems are bowing to nature. With..."
 date: "2026-01-15"
-image: "/images/blog/placeholder.png"
 topic: "guides"
 slug: "germany-heavy-snowfall-warning-january-2026"
 ---

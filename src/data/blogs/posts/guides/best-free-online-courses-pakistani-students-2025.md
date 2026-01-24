@@ -2,7 +2,6 @@
 title: "Best Free Online Courses for Pakistani Students – 2025 Guide"
 description: "In 2026, the greatest equalizer for a Pakistani student is no longer a prestigious university degree or a high-end campus—it’s a stable internet..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "best-free-online-courses-pakistani-students-2025"
 ---

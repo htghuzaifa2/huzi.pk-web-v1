@@ -2,7 +2,6 @@
 title: "Current RAM/SSD Price List (Pakistan – Dec 2025) – Hostel-Rankings"
 description: "Are you still running your laptop on a 5400 RPM HDD? Or maybe you're trying to open Chrome with 4GB of RAM and wondering why your life feels like a..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "current-ram-ssd-price-list-pakistan-dec-2025"
 ---

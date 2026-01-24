@@ -2,7 +2,6 @@
 title: "How AI Will Shape Pakistan's Job Market – 2026 Reality Check"
 description: "Pakistan's job market is about to experience seismic shifts. AI isn't coming—it's already here, and 2026 will mark the year these changes become..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "ai-shape-pakistan-job-market-2026"
 ---

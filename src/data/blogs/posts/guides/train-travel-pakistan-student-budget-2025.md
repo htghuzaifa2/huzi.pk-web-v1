@@ -2,7 +2,6 @@
 title: "Train Travel in Pakistan (2026): The Ultimate Student Budget Guide"
 description: "There is no better way to see Pakistan than through the window of a train. The bus is sterile; the plane is too fast. But the train? The train is life...."
 date: "2025-12-16"
-image: "/images/blog/train-travel-pakistan-student-budget-2025.jpg"
 topic: "guides"
 slug: "train-travel-pakistan-student-budget-2025"
 ---

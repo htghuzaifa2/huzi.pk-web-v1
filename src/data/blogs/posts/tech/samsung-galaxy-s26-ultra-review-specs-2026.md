@@ -1,8 +1,7 @@
 ---
 title: "Samsung Galaxy S26 Ultra – The Flagship That Finally Feels Ultra Again"
-description: "If you've been holding onto your S22 or S23 Ultra, waiting for the \"Big One,\" your wait is officially over. The Galaxy S26 Ultra isn't just another..."Big One,\" your wait is officially over. The Galaxy S26 Ultra isn't just another..."Big One,\" your wait is officially over. The Galaxy S26 Ultra isn't just another..."Big One,\" your wait is officially over. The Galaxy S26 Ultra isn't just another..."
+description: "If you've been holding onto your S22 or S23 Ultra, waiting for the \"Big One,\" your wait is officially over. The Galaxy S26 Ultra isn't just another..."
 date: "2025-12-23"
-image: "/images/blog/samsung-s26-ultra.jpg"
 topic: "tech"
 slug: "samsung-galaxy-s26-ultra-review-specs-2026"
 ---

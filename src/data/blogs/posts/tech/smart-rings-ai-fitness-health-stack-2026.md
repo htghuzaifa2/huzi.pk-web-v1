@@ -1,8 +1,7 @@
 ---
 title: "The Ultimate 2026 Health Stack: Smart Rings vs. AI Fitness Tools"
-description: "If you’re tired of your smartwatch buzzing on your wrist every time a \"WhatsApp Group\" for your uni project has a notification, welcome to the world of..."WhatsApp Group\" for your uni project has a notification, welcome to the world of..."WhatsApp Group\" for your uni project has a notification, welcome to the world of..."WhatsApp Group\" for your uni project has a notification, welcome to the world of..."
+description: "If you’re tired of your smartwatch buzzing on your wrist every time a \"WhatsApp Group\" for your uni project has a notification, welcome to the world of..."
 date: "2025-12-23"
-image: "/images/blog/health-stack-2026.jpg"
 topic: "tech"
 slug: "smart-rings-ai-fitness-health-stack-2026"
 ---

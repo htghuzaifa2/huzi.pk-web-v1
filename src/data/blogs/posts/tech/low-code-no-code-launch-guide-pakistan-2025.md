@@ -1,8 +1,7 @@
 ---
 title: "Low-Code & No-Code Tools – Fastest Way for Pakistani Entrepreneurs to Launch Products (2025)"
-description: "Have you ever sat in a café in Gulberg or a hostel in Pindi, looking at a problem and thinking, \"There should be an app for this\"? In the past, you'd..."There should be an app for this\"? In the past, you'd..."There should be an app for this\"? In the past, you'd..."There should be an app for this\"? In the past, you'd..."
+description: "Have you ever sat in a café in Gulberg or a hostel in Pindi, looking at a problem and thinking, \"There should be an app for this\"? In the past, you'd..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "low-code-no-code-launch-guide-pakistan-2025"
 ---

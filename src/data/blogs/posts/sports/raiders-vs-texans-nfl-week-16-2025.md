@@ -1,8 +1,7 @@
 ---
 title: "Raiders vs Texans (Week 16): Heartbreak, Hope, and a New Superstar"
-description: "\"Why do I do this to myself?\" That is the question every Raiders fan asks at 4 AM. If you are Pakistani, you know this feeling well. Supporting the Las..."Why do I do this to myself?\" That is the question every Raiders fan asks at 4 AM. If you are Pakistani, you know this feeling well. Supporting the Las..."Why do I do this to myself?\" That is the question every Raiders fan asks at 4 AM. If you are Pakistani, you know this feeling well. Supporting the Las..."Why do I do this to myself?\" That is the question every Raiders fan asks at 4 AM. If you are Pakistani, you know this feeling well. Supporting the Las..."
+description: "\"Why do I do this to myself?\" That is the question every Raiders fan asks at 4 AM. If you are Pakistani, you know this feeling well. Supporting the Las..."
 date: "2025-12-23"
-image: "/images/blog/raiders-texans-nfl.jpg"
 topic: "sports"
 slug: "raiders-vs-texans-nfl-week-16-2025"
 ---

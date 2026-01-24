@@ -2,7 +2,6 @@
 title: "Smart Wearables Trends & Picks in Pakistan (2026) – Hostel-Rankings"
 description: "Walking around an IBA or LUMS campus in 2026, you’ll notice something different. It’s not just about the phones anymore; it’s about what’s on the wrist...."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "smart-wearables-trends-picks-pakistan-2026"
 ---

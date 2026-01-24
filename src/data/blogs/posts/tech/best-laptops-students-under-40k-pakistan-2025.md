@@ -2,7 +2,6 @@
 title: "Best Laptops for Students Under PKR 40,000 – Winter 2025 Hostel-Rankings"
 description: "If you're a student in Pakistan, your laptop is your most important tool. It's how you finish your FYP, how you attend 8 AM Zoom classes while still in..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "best-laptops-students-under-40k-pakistan-2025"
 ---

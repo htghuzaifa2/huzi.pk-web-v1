@@ -1,8 +1,7 @@
 ---
 title: "The Madrid Derby: Blood, Sweat, and the Battle for the Soul of Spain"
-description: "\"In Madrid, you are born into a side. You don't choose.\" If you walk down the Paseo de la Castellana, you see the grandeur of the Bernabéu. It screams..."In Madrid, you are born into a side. You don't choose.\" If you walk down the Paseo de la Castellana, you see the grandeur of the Bernabéu. It screams..."In Madrid, you are born into a side. You don't choose.\" If you walk down the Paseo de la Castellana, you see the grandeur of the Bernabéu. It screams..."In Madrid, you are born into a side. You don't choose.\" If you walk down the Paseo de la Castellana, you see the grandeur of the Bernabéu. It screams..."
+description: "\"In Madrid, you are born into a side. You don't choose.\" If you walk down the Paseo de la Castellana, you see the grandeur of the Bernabéu. It screams..."
 date: "2026-01-16"
-image: "/images/blog/madrid-derby-tradition.jpg"
 topic: "sports"
 slug: "madrid-derby-tradition-and-tactics"
 ---

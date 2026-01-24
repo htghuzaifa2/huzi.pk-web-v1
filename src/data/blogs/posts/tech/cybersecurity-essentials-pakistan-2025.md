@@ -1,8 +1,7 @@
 ---
 title: "Cybersecurity Essentials for Pakistani Developers & Businesses – 2025 Hostel-Rankings"
-description: "Staying safe online in Pakistan in 2025 isn't just about \"Not clicking the weird link.\" It's about building a fortress around your digital identity that..."Not clicking the weird link.\" It's about building a fortress around your digital identity that..."Not clicking the weird link.\" It's about building a fortress around your digital identity that..."Not clicking the weird link.\" It's about building a fortress around your digital identity that..."
+description: "Staying safe online in Pakistan in 2025 isn't just about \"Not clicking the weird link.\" It's about building a fortress around your digital identity that..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "cybersecurity-essentials-pakistan-2025"
 ---

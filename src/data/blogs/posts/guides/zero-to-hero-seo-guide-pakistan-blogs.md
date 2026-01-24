@@ -1,8 +1,7 @@
 ---
 title: "Zero to Hero: The Ultimate SEO Roadmap for Pakistani Bloggers (2026)"
-description: "\"Bhai, meri site Google pe show nahi ho rahi.\" (Bro, my site isn't showing on Google.) This is the most common DM I get. You spent 10 hours writing a..."Bhai, meri site Google pe show nahi ho rahi.\" (Bro, my site isn't showing on Google.) This is the most common DM I get. You spent 10 hours writing a..."Bhai, meri site Google pe show nahi ho rahi.\" (Bro, my site isn't showing on Google.) This is the most common DM I get. You spent 10 hours writing a..."Bhai, meri site Google pe show nahi ho rahi.\" (Bro, my site isn't showing on Google.) This is the most common DM I get. You spent 10 hours writing a..."
+description: "\"Bhai, meri site Google pe show nahi ho rahi.\" (Bro, my site isn't showing on Google.) This is the most common DM I get. You spent 10 hours writing a..."
 date: "2025-12-16"
-image: "/images/blog/zero-to-hero-seo.jpg"
 topic: "guides"
 slug: "zero-to-hero-seo-guide-pakistan-blogs"
 ---

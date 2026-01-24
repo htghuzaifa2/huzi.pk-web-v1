@@ -1,8 +1,7 @@
 ---
 title: "Sydney Thunder vs Brisbane Heat: Shadab Khan's Magic & The Art of the Comeback"
-description: "\"Form is temporary, class is permanent.\" It's a cliché because it's true. But in T20 cricket, form is everything. If you lose two games in a row, people..."Form is temporary, class is permanent.\" It's a cliché because it's true. But in T20 cricket, form is everything. If you lose two games in a row, people..."Form is temporary, class is permanent.\" It's a cliché because it's true. But in T20 cricket, form is everything. If you lose two games in a row, people..."Form is temporary, class is permanent.\" It's a cliché because it's true. But in T20 cricket, form is everything. If you lose two games in a row, people..."
+description: "\"Form is temporary, class is permanent.\" It's a cliché because it's true. But in T20 cricket, form is everything. If you lose two games in a row, people..."
 date: "2025-12-23"
-image: "/images/blog/thunder-vs-heat-bbl.jpg"
 topic: "sports"
 slug: "sydney-thunder-vs-brisbane-heat-bbl-2025"
 ---

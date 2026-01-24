@@ -2,7 +2,6 @@
 title: "From Homer to Hollywood: Why The Odyssey is the Perfect Story for Our Time (and for Christopher Nolan)"
 description: "Stories survive for millennia not because they are old, but because they are perpetually new. They tap into fundamental human anxieties and desires that..."
 date: "2025-12-23"
-image: "/images/blog/odyssey-homer-hollywood.jpg"
 topic: "guides"
 slug: "the-odyssey-homer-hollywood-nolan"
 ---

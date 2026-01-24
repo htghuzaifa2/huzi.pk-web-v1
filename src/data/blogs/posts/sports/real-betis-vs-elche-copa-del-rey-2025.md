@@ -1,8 +1,7 @@
 ---
 title: "Real Betis vs Elche (Copa del Rey): The Night 'El Comandante' Took Charge"
-description: "\"A cup match is not played; it is suffered.\" That is an old Spanish saying, but it felt very real at the Estadio La Cartuja. Real Betis vs Elche CF...."A cup match is not played; it is suffered.\" That is an old Spanish saying, but it felt very real at the Estadio La Cartuja. Real Betis vs Elche CF...."A cup match is not played; it is suffered.\" That is an old Spanish saying, but it felt very real at the Estadio La Cartuja. Real Betis vs Elche CF...."A cup match is not played; it is suffered.\" That is an old Spanish saying, but it felt very real at the Estadio La Cartuja. Real Betis vs Elche CF...."
+description: "\"A cup match is not played; it is suffered.\" That is an old Spanish saying, but it felt very real at the Estadio La Cartuja. Real Betis vs Elche CF...."
 date: "2026-01-15"
-image: "/images/blog/betis-elche-copa.jpg"
 topic: "sports"
 slug: "real-betis-vs-elche-copa-del-rey-2025"
 ---

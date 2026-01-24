@@ -2,7 +2,6 @@
 title: "WSL2: Windows Firewall Blocks Docker from WSL2 When VPN is On – Rules That Actually Work"
 description: "Brother, sister—I feel your pain. You've got Docker running beautifully in WSL2. Everything works. Then you connect to your VPN for work, and suddenly..."
 date: "2026-01-22"
-image: "/images/blog/wsl2-docker-firewall-fix.jpg"
 topic: "tech"
 slug: "wsl2-docker-firewall-vpn-fix"
 ---

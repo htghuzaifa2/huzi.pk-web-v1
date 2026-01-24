@@ -1,8 +1,7 @@
 ---
 title: "10 Quick Tech Hacks Every Pakistani Should Know – 2025-2026 Edition"
-description: "In the world of tech, Pakistanis are the undisputed kings of \"Jugaad\"—the art of making something work under impossible circumstances. In Pakistan,..."Jugaad\"—the art of making something work under impossible circumstances. In Pakistan,..."Jugaad\"—the art of making something work under impossible circumstances. In Pakistan,..."Jugaad\"—the art of making something work under impossible circumstances. In Pakistan,..."
+description: "In the world of tech, Pakistanis are the undisputed kings of \"Jugaad\"—the art of making something work under impossible circumstances. In Pakistan,..."
 date: "2025-12-16"
-image: "/images/blog/quick-tech-hacks-pakistan.jpg"
 topic: "guides"
 slug: "quick-tech-hacks-every-pakistani-should-know"
 ---

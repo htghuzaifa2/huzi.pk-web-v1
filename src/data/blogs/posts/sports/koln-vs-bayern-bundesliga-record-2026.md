@@ -1,8 +1,7 @@
 ---
 title: "Köln vs Bayern (2026): Smoke, Fire, and the Best Half-Season Ever"
-description: "\"Farmer's League?\" Maybe. Or maybe we are just witnessing perfection. On January 14, 2026, Bayern Munich didn't just beat FC Köln 3-1. They rewrote the..."Farmer's League?\" Maybe. Or maybe we are just witnessing perfection. On January 14, 2026, Bayern Munich didn't just beat FC Köln 3-1. They rewrote the..."Farmer's League?\" Maybe. Or maybe we are just witnessing perfection. On January 14, 2026, Bayern Munich didn't just beat FC Köln 3-1. They rewrote the..."Farmer's League?\" Maybe. Or maybe we are just witnessing perfection. On January 14, 2026, Bayern Munich didn't just beat FC Köln 3-1. They rewrote the..."
+description: "\"Farmer's League?\" Maybe. Or maybe we are just witnessing perfection. On January 14, 2026, Bayern Munich didn't just beat FC Köln 3-1. They rewrote the..."
 date: "2026-01-15"
-image: "/images/blog/koln-bayern-record.jpg"
 topic: "sports"
 slug: "koln-vs-bayern-bundesliga-record-2026"
 ---

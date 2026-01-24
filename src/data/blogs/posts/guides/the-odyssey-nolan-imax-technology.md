@@ -1,8 +1,7 @@
 ---
 title: "Beyond the Spectacle: The Groundbreaking IMAX Technology Behind The Odyssey"
-description: "When the trailer for The Odyssey (2026) proudly displayed \"Filmed with Panavision 65mm and IMAX Cameras,\" nobody was surprised. Christopher Nolan and..."Filmed with Panavision 65mm and IMAX Cameras,\" nobody was surprised. Christopher Nolan and..."Filmed with Panavision 65mm and IMAX Cameras,\" nobody was surprised. Christopher Nolan and..."Filmed with Panavision 65mm and IMAX Cameras,\" nobody was surprised. Christopher Nolan and..."
+description: "When the trailer for The Odyssey (2026) proudly displayed \"Filmed with Panavision 65mm and IMAX Cameras,\" nobody was surprised. Christopher Nolan and..."
 date: "2025-12-23"
-image: "/images/blog/odyssey-imax-tech.jpg"
 topic: "guides"
 slug: "the-odyssey-nolan-imax-technology"
 ---

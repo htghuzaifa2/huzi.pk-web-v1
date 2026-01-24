@@ -1,8 +1,7 @@
 ---
 title: "How to Start Investing in the PSX – 2026 Roadmap"
-description: "With the PKR’s volatility and the high inflation rate in 2025-2026, \"Keeping Cash\" in a traditional savings account is no longer an option—it is a..."Keeping Cash\" in a traditional savings account is no longer an option—it is a..."Keeping Cash\" in a traditional savings account is no longer an option—it is a..."Keeping Cash\" in a traditional savings account is no longer an option—it is a..."
+description: "With the PKR’s volatility and the high inflation rate in 2025-2026, \"Keeping Cash\" in a traditional savings account is no longer an option—it is a..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "starting-investment-pakistan-stock-market-2026"
 ---

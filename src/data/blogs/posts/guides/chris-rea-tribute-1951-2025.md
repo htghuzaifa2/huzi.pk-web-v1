@@ -2,7 +2,6 @@
 title: "Chris Rea (1951-2025) – The Road from Middlesbrough to 'The Road to Hell' and Back Again"
 description: "Born: 4 March 1951, Middlesbrough, England Died: 22 December 2025, aged 74 (short illness) Core identity: A gravel-voiced slide-guitar storyteller who..."
 date: "2025-12-23"
-image: "/images/blog/chris-rea-tribute.jpg"
 topic: "guides"
 slug: "chris-rea-tribute-1951-2025"
 ---

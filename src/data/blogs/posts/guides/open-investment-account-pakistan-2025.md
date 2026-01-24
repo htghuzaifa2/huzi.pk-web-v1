@@ -1,8 +1,7 @@
 ---
 title: "How to Open Your First Investment Account – Pakistan 2025-2026 Guide"
-description: "Keeping your savings in a \"Standard Savings Account\" or, heaven forbid, under your mattress in 2026 is a guaranteed way to lose 15-20% of your wealth to..."Standard Savings Account\" or, heaven forbid, under your mattress in 2026 is a guaranteed way to lose 15-20% of your wealth to..."Standard Savings Account\" or, heaven forbid, under your mattress in 2026 is a guaranteed way to lose 15-20% of your wealth to..."Standard Savings Account\" or, heaven forbid, under your mattress in 2026 is a guaranteed way to lose 15-20% of your wealth to..."
+description: "Keeping your savings in a \"Standard Savings Account\" or, heaven forbid, under your mattress in 2026 is a guaranteed way to lose 15-20% of your wealth to..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "open-investment-account-pakistan-2025"
 ---

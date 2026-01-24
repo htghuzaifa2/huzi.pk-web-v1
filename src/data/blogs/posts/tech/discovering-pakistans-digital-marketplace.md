@@ -2,7 +2,6 @@
 title: "Discovering Pakistan's Digital Marketplace: A Journey Through Innovation and Style"
 description: "Have you ever wondered why we're so quick to trust a random seller on Amazon or AliExpress, but we hesitate for three days before buying from a local..."
 date: "2025-12-19"
-image: "/images/blog/google-gemini-pakistan.png"
 topic: "tech"
 slug: "discovering-pakistans-digital-marketplace"
 ---

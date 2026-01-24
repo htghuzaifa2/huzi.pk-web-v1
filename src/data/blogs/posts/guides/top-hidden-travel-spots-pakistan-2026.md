@@ -2,7 +2,6 @@
 title: "Top Hidden Travel Spots in Pakistan for 2026: Beyond Hunza and Naran"
 description: "Let’s be honest: Hunza is stunning, but in July, it feels like Raja Bazaar. The peace is gone, replaced by traffic jams and selfie sticks. If you are a..."
 date: "2025-12-16"
-image: "/images/blog/hidden-travel-spots-pakistan.jpg"
 topic: "guides"
 slug: "top-hidden-travel-spots-pakistan-2026"
 ---

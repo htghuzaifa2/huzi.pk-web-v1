@@ -15,7 +15,7 @@ export async function generateMetadata({ params }: { params: { topic: string; sl
         if (!post) return {}
 
         return {
-            title: `${post.title} | huzi.pk`,
+            title: post.title,
             description: post.description,
             openGraph: {
                 title: post.title,

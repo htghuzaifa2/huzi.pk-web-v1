@@ -2,7 +2,6 @@
 title: "Most Visited Websites in Pakistan – 2025 Hostel-Room Rankings"
 description: "What happens on a typical Monday morning in Pakistan? Millions of people open their browsers to start the week. But where are they actually going? While..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "most-visited-websites-pakistan-2025"
 ---

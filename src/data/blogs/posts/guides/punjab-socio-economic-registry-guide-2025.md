@@ -2,7 +2,6 @@
 title: "Guide to the Punjab Socio-Economic Registry (PSER) – 2025-2026"
 description: "The government of Punjab has fundamentally transformed its social safety net. Gone are the days of applying for every individual welfare scheme with a..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "punjab-socio-economic-registry-guide-2025"
 ---

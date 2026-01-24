@@ -2,7 +2,6 @@
 title: "How to find government jobs & apply online (step-by-step)"
 description: "To apply for a government job in Pakistan in 2026, you'll need to understand that the process has moved almost entirely online. The old days of sending..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "how-to-find-government-jobs-apply-online-pakistan"
 ---

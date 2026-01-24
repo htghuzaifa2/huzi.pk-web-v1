@@ -2,7 +2,6 @@
 title: "Crypto investing for Pakistanis — risk steps & halal considerations"
 description: "The cryptocurrency landscape in Pakistan is undergoing a significant shift from an informal market towards a potentially regulated framework. For..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "crypto-investing-pakistan-risk-halal-guide"
 ---

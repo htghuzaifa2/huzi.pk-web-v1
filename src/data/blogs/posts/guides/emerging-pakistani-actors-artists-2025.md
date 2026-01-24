@@ -1,8 +1,7 @@
 ---
 title: "Spotlight on Emerging Pakistani Actors & Artists – 2025"
-description: "The Pakistani entertainment industry is undergoing a seismic shift. The era of the \"Mega-Star\" who ruled for 20 years with the same three expressions is..."Mega-Star\" who ruled for 20 years with the same three expressions is..."Mega-Star\" who ruled for 20 years with the same three expressions is..."Mega-Star\" who ruled for 20 years with the same three expressions is..."
+description: "The Pakistani entertainment industry is undergoing a seismic shift. The era of the \"Mega-Star\" who ruled for 20 years with the same three expressions is..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "emerging-pakistani-actors-artists-2025"
 ---

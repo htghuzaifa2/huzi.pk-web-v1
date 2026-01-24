@@ -1,8 +1,7 @@
 ---
 title: "Top Pakistani Dramas of 2026: The New Golden Age of Television"
-description: "Pakistani dramas are no longer just about crying daughters-in-law. In 2026, the industry is in a \"Renaissance.\" Thanks to the disruption caused by Green..."Renaissance.\" Thanks to the disruption caused by Green..."Renaissance.\" Thanks to the disruption caused by Green..."Renaissance.\" Thanks to the disruption caused by Green..."
+description: "Pakistani dramas are no longer just about crying daughters-in-law. In 2026, the industry is in a \"Renaissance.\" Thanks to the disruption caused by Green..."
 date: "2025-12-16"
-image: "/images/blog/top-pakistani-dramas-2026.jpg"
 topic: "guides"
 slug: "top-pakistani-dramas-2026"
 ---

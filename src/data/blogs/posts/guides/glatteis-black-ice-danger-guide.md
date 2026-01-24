@@ -1,8 +1,7 @@
 ---
 title: "Glatteis: The Invisible Danger of Black Ice This Winter"
-description: "Winter in Europe is idyllic until you hit the ground. For those coming from warmer climates like Pakistan, \"Glatteis\" (Black Ice) is the ultimate..."Glatteis\" (Black Ice) is the ultimate..."Glatteis\" (Black Ice) is the ultimate..."Glatteis\" (Black Ice) is the ultimate..."
+description: "Winter in Europe is idyllic until you hit the ground. For those coming from warmer climates like Pakistan, \"Glatteis\" (Black Ice) is the ultimate..."
 date: "2026-01-15"
-image: "/images/blog/glatteis-guide.jpg"
 topic: "guides"
 slug: "glatteis-black-ice-danger-guide"
 ---

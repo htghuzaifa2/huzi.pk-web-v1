@@ -1,8 +1,7 @@
 ---
 title: "FBISE & Board Exam Prep Hacks: The 2025 Strategy"
-description: "Preparing for board exams in Pakistan (FBISE, BISE, or CAIE) is less about \"Knowing everything\" and more about \"Attempting everything correctly.\" In..."Knowing everything\" and more about \"Attempting everything correctly.\" In..."Knowing everything\" and more about \"Attempting everything correctly.\" In..."Knowing everything\" and more about \"Attempting everything correctly.\" In..."
+description: "Preparing for board exams in Pakistan (FBISE, BISE, or CAIE) is less about \"Knowing everything\" and more about \"Attempting everything correctly.\" In..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "fbise-board-exam-preparation-tips"
 ---

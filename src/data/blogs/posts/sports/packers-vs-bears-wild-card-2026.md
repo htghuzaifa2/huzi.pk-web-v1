@@ -1,8 +1,7 @@
 ---
 title: "Packers vs Bears (Wild Card 2026): The Night the Curse Was Broken"
-description: "\"History is a nightmare from which I am trying to awake.\" — James Joyce. For Chicago Bears fans, the Green Bay Packers have been that nightmare for 30..."History is a nightmare from which I am trying to awake.\" — James Joyce. For Chicago Bears fans, the Green Bay Packers have been that nightmare for 30..."History is a nightmare from which I am trying to awake.\" — James Joyce. For Chicago Bears fans, the Green Bay Packers have been that nightmare for 30..."History is a nightmare from which I am trying to awake.\" — James Joyce. For Chicago Bears fans, the Green Bay Packers have been that nightmare for 30..."
+description: "\"History is a nightmare from which I am trying to awake.\" — James Joyce. For Chicago Bears fans, the Green Bay Packers have been that nightmare for 30..."
 date: "2026-01-15"
-image: "/images/blog/packers-bears-wildcard.jpg"
 topic: "sports"
 slug: "packers-vs-bears-wild-card-2026"
 ---

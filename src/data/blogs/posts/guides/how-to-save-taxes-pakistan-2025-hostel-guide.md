@@ -1,8 +1,7 @@
 ---
 title: "How to Save on Taxes in Pakistan – 2025 Guide"
-description: "In Pakistan, nobody likes paying taxes, but everybody hates the \"Non-Filer\" life—especially when you're a student or a fresh grad trying to buy your..."Non-Filer\" life—especially when you're a student or a fresh grad trying to buy your..."Non-Filer\" life—especially when you're a student or a fresh grad trying to buy your..."Non-Filer\" life—especially when you're a student or a fresh grad trying to buy your..."
+description: "In Pakistan, nobody likes paying taxes, but everybody hates the \"Non-Filer\" life—especially when you're a student or a fresh grad trying to buy your..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "how-to-save-taxes-pakistan-2025-hostel-guide"
 ---

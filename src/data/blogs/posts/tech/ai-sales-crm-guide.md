@@ -2,7 +2,6 @@
 title: "The Silent Handshake: Building Your CRM for AI-Powered Sales in 2026"
 description: "The modern sales floor, whether it's a bustling office in Karachi or a quiet home setup, has a new, silent partner. It’s not just a piece of software..."
 date: "2026-01-29"
-image: "/images/blog/ai-sales-crm.jpg"
 topic: "tech"
 slug: "ai-sales-crm-guide"
 ---

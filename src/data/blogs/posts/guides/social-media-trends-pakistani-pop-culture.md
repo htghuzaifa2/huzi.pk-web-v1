@@ -1,8 +1,7 @@
 ---
 title: "How Social Media Trends Shape Pakistani Pop Culture – 2025-2026 Era"
-description: "Twenty years ago, Pakistani pop culture was decided in the boardrooms of TV channels and record labels. A few \"Gatekeepers\" determined which singer was..."Gatekeepers\" determined which singer was..."Gatekeepers\" determined which singer was..."Gatekeepers\" determined which singer was..."
+description: "Twenty years ago, Pakistani pop culture was decided in the boardrooms of TV channels and record labels. A few \"Gatekeepers\" determined which singer was..."
 date: "2025-12-16"
-image: "/images/blog/social-media-trends-pakistan.jpg"
 topic: "guides"
 slug: "social-media-trends-pakistani-pop-culture"
 ---

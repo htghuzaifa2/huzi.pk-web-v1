@@ -2,7 +2,6 @@
 title: "Best Cricket Betting Tips (Ethical/Educational)"
 description: "Disclaimer: This guide is purely educational and focuses on Fantasy Cricket (Skill-based Gaming) and Data Analytics. Traditional betting is strictly..."
 date: "2025-12-19"
-image: "/images/blog/cricket-betting-tips.png"
 topic: "guides"
 slug: "best-cricket-betting-tips"
 ---

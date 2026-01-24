@@ -1,8 +1,7 @@
 ---
 title: "Top Freelancing Skills Pakistanis Should Learn in 2026"
-description: "Being a freelancer in Pakistan used to mean \"Data Entry\" or \"Basic Graphics.\" But in 2026, those low-level tasks are being eaten by AI. If you want to..."Data Entry\" or \"Basic Graphics.\" But in 2026, those low-level tasks are being eaten by AI. If you want to..."Data Entry\" or \"Basic Graphics.\" But in 2026, those low-level tasks are being eaten by AI. If you want to..."Data Entry\" or \"Basic Graphics.\" But in 2026, those low-level tasks are being eaten by AI. If you want to..."
+description: "Being a freelancer in Pakistan used to mean \"Data Entry\" or \"Basic Graphics.\" But in 2026, those low-level tasks are being eaten by AI. If you want to..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "top-freelancing-skills-pakistan-2026"
 ---

@@ -1,8 +1,7 @@
 ---
 title: "REAL Etsy Alternatives for Pakistani Creators – 2025 Guide"
-description: "For years, the \"Etsy Ban\" (or rather, the technical inability for Pakistanis to open new Etsy Payment accounts) has been a wall between local talent and..."Etsy Ban\" (or rather, the technical inability for Pakistanis to open new Etsy Payment accounts) has been a wall between local talent and..."Etsy Ban\" (or rather, the technical inability for Pakistanis to open new Etsy Payment accounts) has been a wall between local talent and..."Etsy Ban\" (or rather, the technical inability for Pakistanis to open new Etsy Payment accounts) has been a wall between local talent and..."
+description: "For years, the \"Etsy Ban\" (or rather, the technical inability for Pakistanis to open new Etsy Payment accounts) has been a wall between local talent and..."
 date: "2025-12-16"
-image: "/images/blog/etsy-alternatives-pakistan.jpg"
 topic: "guides"
 slug: "etsy-alternatives-for-pakistani-creators"
 ---

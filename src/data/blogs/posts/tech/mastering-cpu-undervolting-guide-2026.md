@@ -2,7 +2,6 @@
 title: "The Quiet Revolution: Mastering CPU Undervolting for a Cooler, Faster 2026 PC"
 description: "There is a moment familiar to anyone who has pushed their computer hard. The fans suddenly roar to life like a startled flock of birds, a sharp,..."
 date: "2026-01-22"
-image: "/images/blog/cpu-undervolting-2026.jpg"
 topic: "tech"
 slug: "mastering-cpu-undervolting-guide-2026"
 ---

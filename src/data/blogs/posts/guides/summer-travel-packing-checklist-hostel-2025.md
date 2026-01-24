@@ -2,7 +2,6 @@
 title: "Summer Travel Packing Checklist for Pakistan – 2025-2026 Guide"
 description: "Summer in Pakistan isn't a single season; it's a spectrum of extremes. You could be facing 47°C dry heat in Multan, a humid monsoon downpour in Lahore..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "summer-travel-packing-checklist-hostel-2025"
 ---

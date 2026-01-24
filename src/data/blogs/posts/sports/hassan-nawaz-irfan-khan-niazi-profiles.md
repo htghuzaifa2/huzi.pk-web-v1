@@ -1,8 +1,7 @@
 ---
 title: "Pakistan's Next Gen: Inside the Rise of Hassan Nawaz and Irfan Khan Niazi"
-description: "\"Talent ki kami nahi hai.\" (There is no shortage of talent.) We hear this phrase every time Pakistan loses a World Cup. But for the first time in years,..."Talent ki kami nahi hai.\" (There is no shortage of talent.) We hear this phrase every time Pakistan loses a World Cup. But for the first time in years,..."Talent ki kami nahi hai.\" (There is no shortage of talent.) We hear this phrase every time Pakistan loses a World Cup. But for the first time in years,..."Talent ki kami nahi hai.\" (There is no shortage of talent.) We hear this phrase every time Pakistan loses a World Cup. But for the first time in years,..."
+description: "\"Talent ki kami nahi hai.\" (There is no shortage of talent.) We hear this phrase every time Pakistan loses a World Cup. But for the first time in years,..."
 date: "2025-12-19"
-image: "/images/blog/hassan-irfan-cricket.png"
 topic: "sports"
 slug: "hassan-nawaz-irfan-khan-niazi-profiles"
 ---

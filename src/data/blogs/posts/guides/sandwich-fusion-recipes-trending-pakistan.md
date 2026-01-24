@@ -1,8 +1,7 @@
 ---
 title: "Sandwich & Fusion Recipes Trending in Pakistan – 2025-2026 Guide"
-description: "In the vibrant food streets of Pakistan, a \"Sandwich\" isn't just a boring combination of two slices of bread and a sliver of cheese. It is a canvas where..."Sandwich\" isn't just a boring combination of two slices of bread and a sliver of cheese. It is a canvas where..."Sandwich\" isn't just a boring combination of two slices of bread and a sliver of cheese. It is a canvas where..."Sandwich\" isn't just a boring combination of two slices of bread and a sliver of cheese. It is a canvas where..."
+description: "In the vibrant food streets of Pakistan, a \"Sandwich\" isn't just a boring combination of two slices of bread and a sliver of cheese. It is a canvas where..."
 date: "2025-12-16"
-image: "/images/blog/sandwich-fusion-recipes-pakistan.jpg"
 topic: "guides"
 slug: "sandwich-fusion-recipes-trending-pakistan"
 ---

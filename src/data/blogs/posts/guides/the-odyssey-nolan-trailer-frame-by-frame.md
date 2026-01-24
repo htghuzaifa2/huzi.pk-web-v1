@@ -2,7 +2,6 @@
 title: "THE ODYSSEY – Trailer Breakdown: Every Frame, Every Clue, Every Hidden Greek Reference"
 description: "Christopher Nolan doesn't release trailers; he releases puzzles. The first 2-minute 28-second teaser for The Odyssey (2026) is no exception. It is dense..."
 date: "2025-12-23"
-image: "/images/blog/odyssey-trailer-breakdown.jpg"
 topic: "guides"
 slug: "the-odyssey-nolan-trailer-frame-by-frame"
 ---

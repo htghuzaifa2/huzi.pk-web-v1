@@ -2,7 +2,6 @@
 title: "Understanding Non-Fungible Tokens (NFTs) for Pakistani beginners — tech + finance angle."
 description: "Here is a clear guide to NFTs that covers the essential technology, key financial concepts, and the specific situation for beginners in Pakistan. Back in..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "understanding-nfts-pakistani-beginners-guide"
 ---

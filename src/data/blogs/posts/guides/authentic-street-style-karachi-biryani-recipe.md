@@ -2,7 +2,6 @@
 title: "Secret Ingredients to Authentic Street-Style Karachi Biryani – Hostel-Kitchen Edition"
 description: "Karachi street biryani has a distinct, aromatic, and slightly aggressive flavor that is impossible to replicate with a standard, boring supermarket spice..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "authentic-street-style-karachi-biryani-recipe"
 ---

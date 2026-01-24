@@ -2,7 +2,6 @@
 title: "WSL2: Accessing Windows Localhost from Inside WSL2 After VPN Connects – IP and Firewall Quirks"
 description: "The Problem: Why Does WSL2 Break After VPN Connects? You've just connected your VPN on Windows, everything works perfectly, and then you try to reach..."
 date: "2026-01-22"
-image: "/images/blog/wsl2-vpn-fix.jpg"
 topic: "tech"
 slug: "wsl2-localhost-access-vpn-fix"
 ---

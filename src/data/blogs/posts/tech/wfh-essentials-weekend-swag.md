@@ -1,8 +1,7 @@
 ---
 title: "WFH Essentials & Weekend Swag: My Pakistani Online Finds for Productivity & Style"
-description: "If you’re working from home in Pakistan, you know the struggle. Your \"Office\" is often a corner of the dining table, and your \"Break Room\" is the kitchen..."Office\" is often a corner of the dining table, and your \"Break Room\" is the kitchen..."Office\" is often a corner of the dining table, and your \"Break Room\" is the kitchen..."Office\" is often a corner of the dining table, and your \"Break Room\" is the kitchen..."
+description: "If you’re working from home in Pakistan, you know the struggle. Your \"Office\" is often a corner of the dining table, and your \"Break Room\" is the kitchen..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "wfh-essentials-weekend-swag"
 ---

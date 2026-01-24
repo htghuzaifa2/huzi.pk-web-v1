@@ -1,8 +1,7 @@
 ---
 title: "Regional Food Explorations: Sindh, Punjab, and KPK Cuisines – 2025-2026 Guide"
-description: "Pakistan is often grouped into one generic \"Spicy Food\" category by the global culinary world, but as any local foodie knows, the flavors of Karachi are..."Spicy Food\" category by the global culinary world, but as any local foodie knows, the flavors of Karachi are..."Spicy Food\" category by the global culinary world, but as any local foodie knows, the flavors of Karachi are..."Spicy Food\" category by the global culinary world, but as any local foodie knows, the flavors of Karachi are..."
+description: "Pakistan is often grouped into one generic \"Spicy Food\" category by the global culinary world, but as any local foodie knows, the flavors of Karachi are..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "regional-food-explorations-pakistan-2025"
 ---

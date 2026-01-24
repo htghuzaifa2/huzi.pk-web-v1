@@ -1,8 +1,7 @@
 ---
 title: "Geopolitical Resilience for Small Businesses – 2026 Guide"
-description: "In 2026, \"Geopolitics\" is no longer something you watch on the news; it is something that affects your bank account every morning. With the rise of..."Geopolitics\" is no longer something you watch on the news; it is something that affects your bank account every morning. With the rise of..."Geopolitics\" is no longer something you watch on the news; it is something that affects your bank account every morning. With the rise of..."Geopolitics\" is no longer something you watch on the news; it is something that affects your bank account every morning. With the rise of..."
+description: "In 2026, \"Geopolitics\" is no longer something you watch on the news; it is something that affects your bank account every morning. With the rise of..."
 date: "2025-12-23"
-image: "/images/blog/tariff-resilience.jpg"
 topic: "guides"
 slug: "geopolitical-resilience-tariffs-small-business-2026"
 ---

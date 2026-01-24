@@ -2,7 +2,6 @@
 title: "Pak-India Cricket Rivalry: A History of Passion, Politics, and Primal Drama"
 description: "In the world of sports, there are rivalries, and then there is Pakistan vs. India. For over a billion people, this isn't just a game of bat and ball;..."
 date: "2025-12-16"
-image: "/images/blog/pak-india-cricket-history.jpg"
 topic: "guides"
 slug: "pak-india-cricket-rivalry-history"
 ---

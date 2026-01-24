@@ -2,7 +2,6 @@
 title: "The Ultimate Pakistani Winter Skincare Guide (2026 Edition)"
 description: "Winter in Pakistan is beautiful. The weddings, the chai, the shawls. But for your skin, it is a war zone. In Lahore, the Smog (PM2.5) clogs your pores...."
 date: "2025-12-19"
-image: "/images/blog/winter-skincare-tips-pakistan.jpg"
 topic: "guides"
 slug: "winter-skincare-tips-pakistan-climate"
 ---

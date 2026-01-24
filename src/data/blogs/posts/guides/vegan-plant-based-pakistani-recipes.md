@@ -1,8 +1,7 @@
 ---
 title: "Vegan Pakistani Food: The Ultimate 2026 Guide"
-description: "\"Aap gosht nahi khatay? To kya khatay hain? Ghaas?\" (You don't eat meat? Then what do you eat? Grass?) Every Pakistani vegan has heard this joke. In a..."Aap gosht nahi khatay? To kya khatay hain? Ghaas?\" (You don't eat meat? Then what do you eat? Grass?) Every Pakistani vegan has heard this joke. In a..."Aap gosht nahi khatay? To kya khatay hain? Ghaas?\" (You don't eat meat? Then what do you eat? Grass?) Every Pakistani vegan has heard this joke. In a..."Aap gosht nahi khatay? To kya khatay hain? Ghaas?\" (You don't eat meat? Then what do you eat? Grass?) Every Pakistani vegan has heard this joke. In a..."
+description: "\"Aap gosht nahi khatay? To kya khatay hain? Ghaas?\" (You don't eat meat? Then what do you eat? Grass?) Every Pakistani vegan has heard this joke. In a..."
 date: "2025-12-19"
-image: "/images/blog/vegan-plant-based-pakistani-recipes.jpg"
 topic: "guides"
 slug: "vegan-plant-based-pakistani-recipes"
 ---

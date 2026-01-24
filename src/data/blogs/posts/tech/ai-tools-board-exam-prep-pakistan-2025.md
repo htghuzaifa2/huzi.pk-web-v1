@@ -1,8 +1,7 @@
 ---
 title: "AI Tools That Help Pakistani Students with Board/Exam Prep – 2025 Practical Guide"
-description: "Hostel life during board exams is a different kind of \"Jihad.\" It’s you vs. the heat, you vs. the power-cuts, and you vs. that one roommate who won't..."Jihad.\" It’s you vs. the heat, you vs. the power-cuts, and you vs. that one roommate who won't..."Jihad.\" It’s you vs. the heat, you vs. the power-cuts, and you vs. that one roommate who won't..."Jihad.\" It’s you vs. the heat, you vs. the power-cuts, and you vs. that one roommate who won't..."
+description: "Hostel life during board exams is a different kind of \"Jihad.\" It’s you vs. the heat, you vs. the power-cuts, and you vs. that one roommate who won't..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "ai-tools-board-exam-prep-pakistan-2025"
 ---

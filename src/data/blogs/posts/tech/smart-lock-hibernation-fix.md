@@ -2,7 +2,6 @@
 title: "When Your Smart Lock Hibernates: A Warm Guide to Fixing Cold Weather Jams"
 description: "There's a unique kind of silence that falls with the winter cold. It’s crisp, profound, and for many of us, it’s recently been broken by an unwelcome new..."
 date: "2026-01-22"
-image: "/images/blog/smart-lock-winter.jpg"
 topic: "tech"
 slug: "smart-lock-hibernation-fix"
 ---

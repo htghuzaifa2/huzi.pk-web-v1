@@ -2,7 +2,6 @@
 title: "AI Image Tools Trending in Pakistan (2025)"
 description: "If you’ve scrolled through TikTok in Pakistan lately, you’ve seen them: photos of people in Lahore, Karachi, or Islamabad that look like they were drawn..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "trending-ai-image-tools-pakistan-2025"
 ---

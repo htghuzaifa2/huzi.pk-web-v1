@@ -1,8 +1,7 @@
 ---
 title: "Women's Cricket in Pakistan: Daughters of the Nation Fighting for Respect"
-description: "\"Cricket is a gentleman's game.\" For decades, that phrase was used to keep women out of the stadium. But in Pakistan, things are changing. Slowly...."Cricket is a gentleman's game.\" For decades, that phrase was used to keep women out of the stadium. But in Pakistan, things are changing. Slowly...."Cricket is a gentleman's game.\" For decades, that phrase was used to keep women out of the stadium. But in Pakistan, things are changing. Slowly...."Cricket is a gentleman's game.\" For decades, that phrase was used to keep women out of the stadium. But in Pakistan, things are changing. Slowly...."
+description: "\"Cricket is a gentleman's game.\" For decades, that phrase was used to keep women out of the stadium. But in Pakistan, things are changing. Slowly...."
 date: "2025-12-19"
-image: "/images/blog/womens-cricket-pakistan.png"
 topic: "sports"
 slug: "womens-cricket-in-pakistan"
 ---

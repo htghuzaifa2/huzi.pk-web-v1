@@ -2,7 +2,6 @@
 title: "The Ultimate Travel Packing Checklist for Pakistan (2026 Edition)"
 description: "Packing for Pakistan is an extreme sport. One day you are sweating in 40°C humidity in Karachi. The next day you are freezing in -5°C snow in Hunza. One..."
 date: "2025-12-16"
-image: "/images/blog/travel-packing-checklist-pakistan.jpg"
 topic: "guides"
 slug: "travel-packing-checklist-pakistan"
 ---

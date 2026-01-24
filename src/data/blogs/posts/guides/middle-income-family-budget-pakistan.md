@@ -1,8 +1,7 @@
 ---
 title: "How to Build a Budget That Works for Middle-Income Families – 2025-2026 Guide"
-description: "In the Pakistan of 2026, budgeting is no longer just about \"Saving for a Rainy Day.\" It's about \"Surviving the Hurricane.\" With electricity tariffs..."Saving for a Rainy Day.\" It's about \"Surviving the Hurricane.\" With electricity tariffs..."Saving for a Rainy Day.\" It's about \"Surviving the Hurricane.\" With electricity tariffs..."Saving for a Rainy Day.\" It's about \"Surviving the Hurricane.\" With electricity tariffs..."
+description: "In the Pakistan of 2026, budgeting is no longer just about \"Saving for a Rainy Day.\" It's about \"Surviving the Hurricane.\" With electricity tariffs..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "middle-income-family-budget-pakistan"
 ---

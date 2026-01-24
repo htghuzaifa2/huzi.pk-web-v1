@@ -2,7 +2,6 @@
 title: "How to use Google AI Studio for content creation (step-by-step)"
 description: "Are you still paying for ChatGPT Plus? What if I told you that Google’s most powerful AI (Gemini 2.5 Pro) is sitting right under your nose, and it's 100%..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "google-ai-studio-content-creation-guide"
 ---

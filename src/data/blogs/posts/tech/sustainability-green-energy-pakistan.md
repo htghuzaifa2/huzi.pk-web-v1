@@ -2,7 +2,6 @@
 title: "Sustainability Projects and Green Energy in Pakistan"
 description: "Pakistan stands at a critical environmental crossroads. With an energy crisis that has crippled economic growth, devastating climate change impacts..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "sustainability-green-energy-pakistan"
 ---

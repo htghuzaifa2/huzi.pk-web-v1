@@ -1,8 +1,7 @@
 ---
 title: "Texans vs Steelers (Wild Card 2026): The Swarm Eats the Steel"
-description: "\"Defense wins championships.\" We hear it all the time. But usually, it's boring. On Monday night in Pittsburgh, it was beautiful. The Houston Texans..."Defense wins championships.\" We hear it all the time. But usually, it's boring. On Monday night in Pittsburgh, it was beautiful. The Houston Texans..."Defense wins championships.\" We hear it all the time. But usually, it's boring. On Monday night in Pittsburgh, it was beautiful. The Houston Texans..."Defense wins championships.\" We hear it all the time. But usually, it's boring. On Monday night in Pittsburgh, it was beautiful. The Houston Texans..."
+description: "\"Defense wins championships.\" We hear it all the time. But usually, it's boring. On Monday night in Pittsburgh, it was beautiful. The Houston Texans..."
 date: "2026-01-15"
-image: "/images/blog/texans-steelers-wildcard.jpg"
 topic: "sports"
 slug: "texans-vs-steelers-wild-card-2026"
 ---

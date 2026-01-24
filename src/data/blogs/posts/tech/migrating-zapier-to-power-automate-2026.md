@@ -2,7 +2,6 @@
 title: "The Bridge Between Worlds: Your 2026 Guide to Migrating from Zapier to Power Automate"
 description: "There is a quiet tension in the heart of every growing business, a silent tug-of-war between two powerful desires. On one side, the need for agility and..."
 date: "2026-01-22"
-image: "/images/blog/zapier-power-automate.jpg"
 topic: "tech"
 slug: "migrating-zapier-to-power-automate-2026"
 ---

@@ -1,8 +1,7 @@
 ---
 title: "Career growth in data science & analytics"
-description: "So, you want to be a Data Scientist? In 2025, that doesn't just mean \"Knowing Excel.\" It means knowing how to turn raw, chaotic data into gold for..."Knowing Excel.\" It means knowing how to turn raw, chaotic data into gold for..."Knowing Excel.\" It means knowing how to turn raw, chaotic data into gold for..."Knowing Excel.\" It means knowing how to turn raw, chaotic data into gold for..."
+description: "So, you want to be a Data Scientist? In 2025, that doesn't just mean \"Knowing Excel.\" It means knowing how to turn raw, chaotic data into gold for..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "data-science-analytics-career-growth-path-2025"
 ---

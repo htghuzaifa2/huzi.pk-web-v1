@@ -2,7 +2,6 @@
 title: "Timothy Busfield: The Ultimate 'That Guy' of American Television"
 description: "You might not know his name, but you definitely know his face. Maybe you remember him as the frantic, bearded Poindexter in Revenge of the Nerds. Maybe..."
 date: "2026-01-15"
-image: "/images/blog/timothy-busfield-retrospective.jpg"
 topic: "guides"
 slug: "timothy-busfield-career-retrospective"
 ---

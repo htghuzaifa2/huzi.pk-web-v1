@@ -55,6 +55,18 @@
   box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.3);
 }
 
+.mermaid {
+  background: white;
+  padding: 1.5rem;
+  border-radius: var(--radius);
+  box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.3);
+  margin: 3rem 0;
+  display: flex;
+  justify-content: center;
+  cursor: zoom-in;
+  overflow-x: auto;
+}
+
 .blog-post a {
   color: hsl(var(--primary));
   text-decoration: underline;

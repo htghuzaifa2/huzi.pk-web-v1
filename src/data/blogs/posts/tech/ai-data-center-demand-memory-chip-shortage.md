@@ -2,7 +2,6 @@
 title: "How AI Data Center Demand Is Causing a Memory Chip Shortage (and Why That Means Higher RAM & SSD Prices)"
 description: "If you've tried buying RAM or an SSD lately in Pakistan, you've probably experienced sticker shock. A 32GB DDR5 kit that cost Rs. 8,000-10,000 in early..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "ai-data-center-demand-memory-chip-shortage"
 ---

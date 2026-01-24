@@ -1,8 +1,7 @@
 ---
 title: "Top Online Gigs for a Full-Time Income in Pakistan (2026 Guide)"
-description: "The \"Dollar Rate\" anxiety in Pakistan is real. But for a select group of people, it is an opportunity. If you earn in PKR, inflation hurts. If you earn..."Dollar Rate\" anxiety in Pakistan is real. But for a select group of people, it is an opportunity. If you earn in PKR, inflation hurts. If you earn..."Dollar Rate\" anxiety in Pakistan is real. But for a select group of people, it is an opportunity. If you earn in PKR, inflation hurts. If you earn..."Dollar Rate\" anxiety in Pakistan is real. But for a select group of people, it is an opportunity. If you earn in PKR, inflation hurts. If you earn..."
+description: "The \"Dollar Rate\" anxiety in Pakistan is real. But for a select group of people, it is an opportunity. If you earn in PKR, inflation hurts. If you earn..."
 date: "2025-12-16"
-image: "/images/blog/top-online-gigs-pakistan.jpg"
 topic: "guides"
 slug: "top-online-gigs-full-time-income-pakistan"
 ---

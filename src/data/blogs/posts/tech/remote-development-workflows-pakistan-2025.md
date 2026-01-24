@@ -2,7 +2,6 @@
 title: "Remote Development Workflows – Best Practices for Pakistani Teams (2025)"
 description: "Building a startup with a team scattered across Lahore, Karachi, and a small village in Swat sounds like a nightmare. The internet drops, the power goes..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "remote-development-workflows-pakistan-2025"
 ---

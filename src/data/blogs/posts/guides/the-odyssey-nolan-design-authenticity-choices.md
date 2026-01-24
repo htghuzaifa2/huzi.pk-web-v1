@@ -2,7 +2,6 @@
 title: "Myth vs. History: Analyzing the Design and Authenticity Choices in Nolan's The Odyssey"
 description: "When the first trailer for Christopher Nolan's The Odyssey dropped, the internet went into a frenzy. Historical costume enthusiasts on Twitter pointed..."
 date: "2025-12-23"
-image: "/images/blog/odyssey-design-choices.jpg"
 topic: "guides"
 slug: "the-odyssey-nolan-design-authenticity-choices"
 ---

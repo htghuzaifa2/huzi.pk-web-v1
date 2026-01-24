@@ -2,7 +2,6 @@
 title: "Car Maintenance 101 for Pakistan: Avoiding the 'Ustad' Trap"
 description: "Owning a car in Pakistan is not just a luxury; it is a battle against the elements. The potholes of Karachi, the smog of Lahore, and the dry dust of..."
 date: "2025-12-16"
-image: "/images/blog/vehicle-maintenance-pakistan.jpg"
 topic: "guides"
 slug: "vehicle-maintenance-basics-pakistan"
 ---

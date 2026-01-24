@@ -2,7 +2,6 @@
 title: "Best Affordable Hotels in Islamabad Under PKR 5,000 – 2025"
 description: "Finding a decent, clean, and safe place to stay in Islamabad for under Rs. 5,000 is like finding a parking spot in Jinnah Super on a Friday night—it's..."
 date: "2025-12-16"
-image: "/images/blog/affordable-hotels-islamabad.jpg"
 topic: "guides"
 slug: "best-affordable-hotels-islamabad-under-5000"
 ---

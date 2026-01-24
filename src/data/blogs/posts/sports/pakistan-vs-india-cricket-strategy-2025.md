@@ -1,8 +1,7 @@
 ---
 title: "Pakistan vs India: The 'Bazball' Lie and the Reality of 2025"
-description: "\"Insanity is doing the same thing over and over again and expecting different results.\" — Einstein. But Einstein clearly never watched the Pakistan..."Insanity is doing the same thing over and over again and expecting different results.\" — Einstein. But Einstein clearly never watched the Pakistan..."Insanity is doing the same thing over and over again and expecting different results.\" — Einstein. But Einstein clearly never watched the Pakistan..."Insanity is doing the same thing over and over again and expecting different results.\" — Einstein. But Einstein clearly never watched the Pakistan..."
+description: "\"Insanity is doing the same thing over and over again and expecting different results.\" — Einstein. But Einstein clearly never watched the Pakistan..."
 date: "2025-12-19"
-image: "/images/blog/pak-vs-ind-strategy.jpg"
 topic: "sports"
 slug: "pakistan-vs-india-cricket-strategy-2025"
 ---

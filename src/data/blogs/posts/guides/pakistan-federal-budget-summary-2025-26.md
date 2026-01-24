@@ -1,8 +1,7 @@
 ---
 title: "Pakistan Federal Budget Summary & Your Wallet – 2025–2026 Guide"
-description: "Following the Pakistan Federal Budget release is usually a mix of collective confusion and \"Tax-Panic\" on social media. For the average citizen in 2026,..."Tax-Panic\" on social media. For the average citizen in 2026,..."Tax-Panic\" on social media. For the average citizen in 2026,..."Tax-Panic\" on social media. For the average citizen in 2026,..."
+description: "Following the Pakistan Federal Budget release is usually a mix of collective confusion and \"Tax-Panic\" on social media. For the average citizen in 2026,..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "pakistan-federal-budget-summary-2025-26"
 ---

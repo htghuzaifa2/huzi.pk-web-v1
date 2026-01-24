@@ -1,8 +1,7 @@
 ---
 title: "EV Tech & Infrastructure Readiness in Pakistan – 2025 Hostel-Rankings"
-description: "Are you still paying Rs. 300/liter for petrol while your hostel roommate charges his bike for less than the price of a plate of Biryani? In 2025, the \"EV..."EV..."EV..."EV..."
+description: "Are you still paying Rs. 300/liter for petrol while your hostel roommate charges his bike for less than the price of a plate of Biryani? In 2025, the \"EV..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "ev-tech-infrastructure-readiness-pakistan-2025"
 ---

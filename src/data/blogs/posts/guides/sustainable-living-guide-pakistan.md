@@ -1,8 +1,7 @@
 ---
 title: "Sustainable Living Guide for Pakistanis – 2025-2026 Edition"
-description: "In the Pakistan of 2026, \"Sustainability\" is no longer just a buzzword for the DHA elite; it is a financial necessity. With electricity prices touching..."Sustainability\" is no longer just a buzzword for the DHA elite; it is a financial necessity. With electricity prices touching..."Sustainability\" is no longer just a buzzword for the DHA elite; it is a financial necessity. With electricity prices touching..."Sustainability\" is no longer just a buzzword for the DHA elite; it is a financial necessity. With electricity prices touching..."
+description: "In the Pakistan of 2026, \"Sustainability\" is no longer just a buzzword for the DHA elite; it is a financial necessity. With electricity prices touching..."
 date: "2025-12-16"
-image: "/images/blog/sustainable-living-pakistan.jpg"
 topic: "guides"
 slug: "sustainable-living-guide-pakistan"
 ---

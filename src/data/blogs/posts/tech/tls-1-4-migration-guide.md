@@ -2,7 +2,6 @@
 title: "Preparing for the Quantum Leap: The Architect's Guide to TLS 1.4 Migration"
 description: "In the silent, invisible wars of cybersecurity, encryption is our castle wall. For years, TLS 1.3 has been the mortar holding those stones together, a..."
 date: "2026-01-22"
-image: "/images/blog/tls-1-4-migration.jpg"
 topic: "tech"
 slug: "tls-1-4-migration-guide"
 ---

@@ -2,7 +2,6 @@
 title: "The Odyssey: An Ancient Voyage That Still Guides Us Home"
 description: "Homer's The Odyssey isn't just a dusty poem assigned in high school English classes. It is the grandfather of every adventure story you have ever loved...."
 date: "2025-12-23"
-image: "/images/blog/the-odyssey-homer.jpg"
 topic: "guides"
 slug: "the-odyssey-homer-literary-guide"
 ---

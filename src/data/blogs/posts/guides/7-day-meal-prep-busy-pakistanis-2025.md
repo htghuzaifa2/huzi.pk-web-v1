@@ -1,8 +1,7 @@
 ---
 title: "7-Day Meal Prep for Busy Pakistanis – 2025 Hostel-Room Edition"
-description: "Hostel mess food is a universal struggle for the Pakistani student. If it's not the \"Oil-submerged\" chicken on Mondays, it's the \"Rock-hard\" roti on..."Oil-submerged\" chicken on Mondays, it's the \"Rock-hard\" roti on..."Oil-submerged\" chicken on Mondays, it's the \"Rock-hard\" roti on..."Oil-submerged\" chicken on Mondays, it's the \"Rock-hard\" roti on..."
+description: "Hostel mess food is a universal struggle for the Pakistani student. If it's not the \"Oil-submerged\" chicken on Mondays, it's the \"Rock-hard\" roti on..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "7-day-meal-prep-busy-pakistanis-2025"
 ---

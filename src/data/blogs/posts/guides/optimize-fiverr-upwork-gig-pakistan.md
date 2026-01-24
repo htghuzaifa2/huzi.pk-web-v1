@@ -1,8 +1,7 @@
 ---
 title: "How to Optimize Your Gig on Fiverr/Upwork – 2025-2026 Freelancer Guide"
-description: "Being a freelancer in Pakistan is a badge of honor in 2026. You are essentially a \"Digital Patriot,\" bringing much-needed foreign currency into the..."Digital Patriot,\" bringing much-needed foreign currency into the..."Digital Patriot,\" bringing much-needed foreign currency into the..."Digital Patriot,\" bringing much-needed foreign currency into the..."
+description: "Being a freelancer in Pakistan is a badge of honor in 2026. You are essentially a \"Digital Patriot,\" bringing much-needed foreign currency into the..."
 date: "2025-12-16"
-image: "/images/blog/optimize-freelance-gigs.jpg"
 topic: "guides"
 slug: "optimize-fiverr-upwork-gig-pakistan"
 ---

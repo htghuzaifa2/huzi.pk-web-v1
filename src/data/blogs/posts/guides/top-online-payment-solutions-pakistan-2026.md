@@ -1,8 +1,7 @@
 ---
 title: "Top Online Payment Solutions in Pakistan (2026): Beyond Cash on Delivery"
-description: "Cash on Delivery (COD) is the biggest enemy of E-commerce in Pakistan. Why? Because 30% of COD orders are \"Returned.\" The customer changes their mind, or..."Returned.\" The customer changes their mind, or..."Returned.\" The customer changes their mind, or..."Returned.\" The customer changes their mind, or..."
+description: "Cash on Delivery (COD) is the biggest enemy of E-commerce in Pakistan. Why? Because 30% of COD orders are \"Returned.\" The customer changes their mind, or..."
 date: "2025-12-16"
-image: "/images/blog/online-payment-solutions-pakistan.jpg"
 topic: "guides"
 slug: "top-online-payment-solutions-pakistan-2026"
 ---

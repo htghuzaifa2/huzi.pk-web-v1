@@ -1,8 +1,7 @@
 ---
 title: "Patriots vs Chargers (Wild Card 2026): The Empire Strikes Back"
-description: "\"Sardi mein sirf do cheezein kaam karti hain: Chai aur Patriots ki Defense.\" (Only two things work in the cold: Tea and the Patriots' Defense.) On..."Sardi mein sirf do cheezein kaam karti hain: Chai aur Patriots ki Defense.\" (Only two things work in the cold: Tea and the Patriots' Defense.) On..."Sardi mein sirf do cheezein kaam karti hain: Chai aur Patriots ki Defense.\" (Only two things work in the cold: Tea and the Patriots' Defense.) On..."Sardi mein sirf do cheezein kaam karti hain: Chai aur Patriots ki Defense.\" (Only two things work in the cold: Tea and the Patriots' Defense.) On..."
+description: "\"Sardi mein sirf do cheezein kaam karti hain: Chai aur Patriots ki Defense.\" (Only two things work in the cold: Tea and the Patriots' Defense.) On..."
 date: "2026-01-15"
-image: "/images/blog/patriots-chargers-wild-card.jpg"
 topic: "sports"
 slug: "chargers-vs-patriots-wild-card-2026"
 ---

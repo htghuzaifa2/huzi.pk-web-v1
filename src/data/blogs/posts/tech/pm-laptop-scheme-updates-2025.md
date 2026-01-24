@@ -1,8 +1,7 @@
 ---
 title: "Latest Updates on the Prime Minister’s Laptop Scheme – Dec 2025"
-description: "If you're a student in Pakistan, the words \"Laptop Scheme\" are like music to your ears. In late 2025, Phase-IV is in full swing, and 100,000 shiny new..."Laptop Scheme\" are like music to your ears. In late 2025, Phase-IV is in full swing, and 100,000 shiny new..."Laptop Scheme\" are like music to your ears. In late 2025, Phase-IV is in full swing, and 100,000 shiny new..."Laptop Scheme\" are like music to your ears. In late 2025, Phase-IV is in full swing, and 100,000 shiny new..."
+description: "If you're a student in Pakistan, the words \"Laptop Scheme\" are like music to your ears. In late 2025, Phase-IV is in full swing, and 100,000 shiny new..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "pm-laptop-scheme-updates-2025"
 ---

@@ -2,7 +2,6 @@
 title: "Ethical AI for Homework & Assignments – 2025 Guide"
 description: "In 2026, the academic landscape in Pakistan has fundamentally changed. Every major university from NUST and GIKI to LUMS and UET, as well as secondary..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "how-to-use-ai-homework-ethical-tips"
 ---

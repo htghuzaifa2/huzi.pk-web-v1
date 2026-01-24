@@ -1,8 +1,7 @@
 ---
 title: "The Battle of the Unicorns: Josh Allen vs Trevor Lawrence (2026 Comparison)"
-description: "\"Stats are like bikinis. They show a lot, but they hide the most important parts.\" That old saying perfectly applies to the Buffalo Bills vs Jacksonville..."Stats are like bikinis. They show a lot, but they hide the most important parts.\" That old saying perfectly applies to the Buffalo Bills vs Jacksonville..."Stats are like bikinis. They show a lot, but they hide the most important parts.\" That old saying perfectly applies to the Buffalo Bills vs Jacksonville..."Stats are like bikinis. They show a lot, but they hide the most important parts.\" That old saying perfectly applies to the Buffalo Bills vs Jacksonville..."
+description: "\"Stats are like bikinis. They show a lot, but they hide the most important parts.\" That old saying perfectly applies to the Buffalo Bills vs Jacksonville..."
 date: "2026-01-16"
-image: "/images/blog/jags-bills-comparison.jpg"
 topic: "sports"
 slug: "jaguars-vs-bills-comparison-analysis-2026"
 ---

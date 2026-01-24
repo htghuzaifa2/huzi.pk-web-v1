@@ -1,8 +1,7 @@
 ---
 title: "Chelsea vs Arsenal (Carabao Cup 2026): A Derby of Chaos and Control"
-description: "\"London is Red.\" \"London is Blue.\" This argument has broken more friendships in Pakistan than politics. Tonight, under the lights of Stamford Bridge, we..."London is Red.\" \"London is Blue.\" This argument has broken more friendships in Pakistan than politics. Tonight, under the lights of Stamford Bridge, we..."London is Red.\" \"London is Blue.\" This argument has broken more friendships in Pakistan than politics. Tonight, under the lights of Stamford Bridge, we..."London is Red.\" \"London is Blue.\" This argument has broken more friendships in Pakistan than politics. Tonight, under the lights of Stamford Bridge, we..."
+description: "\"London is Red.\" \"London is Blue.\" This argument has broken more friendships in Pakistan than politics. Tonight, under the lights of Stamford Bridge, we..."
 date: "2026-01-15"
-image: "/images/blog/chelsea-arsenal-carabao-2026.jpg"
 topic: "sports"
 slug: "chelsea-vs-arsenal-carabao-cup-2026"
 ---

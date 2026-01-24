@@ -2,7 +2,6 @@
 title: "Street Food Tours: The Ultimate Guide to Authentic Eats in Lahore – 2026"
 description: "Whenever I think of Lahore, my mind drifts straight to its bustling streets, the intoxicating aroma of sizzling spices, and the hypnotic rhythm of..."
 date: "2025-12-16"
-image: "/images/blog/lahore-street-food.jpg"
 topic: "guides"
 slug: "street-food-tours-authentic-eats-lahore"
 ---

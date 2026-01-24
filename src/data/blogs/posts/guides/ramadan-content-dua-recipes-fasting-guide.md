@@ -2,7 +2,6 @@
 title: "Ramadan Guide: Content, Duas, and Recipes for Fasting – 2025-2026 Edition"
 description: "Ramadan is the most spiritual, culturally rich, and physically demanding month of the year for over 240 million Pakistanis. It is a time when the rhythm..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "ramadan-content-dua-recipes-fasting-guide"
 ---

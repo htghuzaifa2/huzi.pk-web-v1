@@ -1,8 +1,7 @@
 ---
 title: "Study & Productivity Apps That Actually Work on Pakistani Campuses – 2026 Guide"
-description: "If you’ve ever tried to open a huge PDF textbook on a hostel Wi-Fi network at 10 PM, you know the struggle. Most \"Top 10 Productivity Apps\" lists on the..."Top 10 Productivity Apps\" lists on the..."Top 10 Productivity Apps\" lists on the..."Top 10 Productivity Apps\" lists on the..."
+description: "If you’ve ever tried to open a huge PDF textbook on a hostel Wi-Fi network at 10 PM, you know the struggle. Most \"Top 10 Productivity Apps\" lists on the..."
 date: "2025-12-16"
-image: "/images/blog/study-apps-pakistan-campus-wifi.jpg"
 topic: "guides"
 slug: "study-productivity-apps-pakistan-campus"
 ---

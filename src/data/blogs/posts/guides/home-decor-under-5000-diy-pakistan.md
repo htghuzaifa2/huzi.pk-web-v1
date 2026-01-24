@@ -2,7 +2,6 @@
 title: "Home Decor Under PKR 5,000: DIY Ideas for Pakistani Homes"
 description: "I’ve always believed that a home should feel like a quiet breath—a place that calms you after a long day in the heat and noise of a city like Karachi,..."
 date: "2025-12-16"
-image: "/images/blog/home-decor-under-5000.jpg"
 topic: "guides"
 slug: "home-decor-under-5000-diy-pakistan"
 ---

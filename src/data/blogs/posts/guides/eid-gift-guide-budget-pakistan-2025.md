@@ -1,8 +1,7 @@
 ---
 title: "Eid Gift Guide on a Budget – Pakistan 2025 Hostel-Room Edition"
-description: "Eid is a time for joy, family, and shared meals. But for a student or a young professional living in a hostel, the pressure of \"Eidi\" and gifts can be..."Eidi\" and gifts can be..."Eidi\" and gifts can be..."Eidi\" and gifts can be..."
+description: "Eid is a time for joy, family, and shared meals. But for a student or a young professional living in a hostel, the pressure of \"Eidi\" and gifts can be..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "eid-gift-guide-budget-pakistan-2025"
 ---

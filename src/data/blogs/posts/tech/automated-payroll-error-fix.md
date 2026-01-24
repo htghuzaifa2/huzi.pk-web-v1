@@ -2,7 +2,6 @@
 title: "The Silent Alarm: Navigating Automated Payroll Errors in Your Fintech App"
 description: "There is a particular kind of dread that has become familiar in our digital age. It’s not the loud crash of a system failure, but the quiet, sinking..."
 date: "2026-01-30"
-image: "/images/blog/automated-payroll-error.jpg"
 topic: "tech"
 slug: "automated-payroll-error-fix"
 ---

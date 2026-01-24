@@ -2,7 +2,6 @@
 title: "James Ransone (1979-2025) – The Shape-Shifting Character Actor Who Made Chaos Feel Heartbreakingly Human"
 description: "Born: June 2, 1979, Baltimore, Maryland Died: December 19, 2025, Los Angeles, California (aged 46) Cause of Death: Suicide 🎭 The Baltimore Spark – Punk..."
 date: "2025-12-23"
-image: "/images/blog/james-ransone-tribute.jpg"
 topic: "guides"
 slug: "james-ransone-tribute-career-retrospective"
 ---

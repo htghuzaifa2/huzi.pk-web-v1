@@ -1,8 +1,7 @@
 ---
 title: "Oregon vs Indiana: Speed, Steel, and the New Big Ten"
-description: "\"Geography is just a suggestion.\" In the old days, the Oregon Ducks (West Coast) and Indiana Hoosiers (Midwest) would only meet in a Bowl Game. In 2026,..."Geography is just a suggestion.\" In the old days, the Oregon Ducks (West Coast) and Indiana Hoosiers (Midwest) would only meet in a Bowl Game. In 2026,..."Geography is just a suggestion.\" In the old days, the Oregon Ducks (West Coast) and Indiana Hoosiers (Midwest) would only meet in a Bowl Game. In 2026,..."Geography is just a suggestion.\" In the old days, the Oregon Ducks (West Coast) and Indiana Hoosiers (Midwest) would only meet in a Bowl Game. In 2026,..."
+description: "\"Geography is just a suggestion.\" In the old days, the Oregon Ducks (West Coast) and Indiana Hoosiers (Midwest) would only meet in a Bowl Game. In 2026,..."
 date: "2026-01-16"
-image: "/images/blog/oregon-indiana-clash.jpg"
 topic: "sports"
 slug: "oregon-vs-indiana-clash-of-cultures"
 ---

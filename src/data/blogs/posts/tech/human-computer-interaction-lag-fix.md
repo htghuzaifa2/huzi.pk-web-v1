@@ -2,7 +2,6 @@
 title: "When the Conversation Stutters: Mending the Lag Between You and Your Machine"
 description: "There’s a rhythm to a good conversation—a flowing exchange where a thought leads to an action, and an action meets an instant, satisfying response. Now,..."
 date: "2026-02-03"
-image: "/images/blog/hci-lag-fix.jpg"
 topic: "tech"
 slug: "human-computer-interaction-lag-fix"
 ---

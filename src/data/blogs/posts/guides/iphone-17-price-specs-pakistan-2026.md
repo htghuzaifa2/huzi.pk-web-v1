@@ -2,7 +2,6 @@
 title: "iPhone 17 (2026) – PTA-Approved Price & Strategy in Pakistan"
 description: "The release of a new iPhone in Pakistan is not just a tech event; it’s an economic phenomenon. As we move into 2026, the iPhone 17 series has become the..."
 date: "2025-12-16"
-image: "/images/blog/iphone-17-price-specs-pakistan.jpg"
 topic: "guides"
 slug: "iphone-17-price-specs-pakistan-2026"
 ---

@@ -1,8 +1,7 @@
 ---
 title: "Why RAM & SSD Prices Will Keep Rising Through 2026 – Explained with Global Memory Shortage Trends"
-description: "If you think building a PC in 2026 is going to be cheaper because \"tech always gets cheaper,\" you’re in for a rude awakening. The global memory market is..."tech always gets cheaper,\" you’re in for a rude awakening. The global memory market is..."tech always gets cheaper,\" you’re in for a rude awakening. The global memory market is..."tech always gets cheaper,\" you’re in for a rude awakening. The global memory market is..."
+description: "If you think building a PC in 2026 is going to be cheaper because \"tech always gets cheaper,\" you’re in for a rude awakening. The global memory market is..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "why-ram-ssd-prices-rising-2026-explained"
 ---

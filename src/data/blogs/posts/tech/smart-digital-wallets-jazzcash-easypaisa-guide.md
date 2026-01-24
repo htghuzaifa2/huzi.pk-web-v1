@@ -2,7 +2,6 @@
 title: "How to use digital wallets (JazzCash, Easypaisa) smartly"
 description: "If you’re still carrying a bulky leather wallet with Rs. 10 notes stuck in the corners, it’s time for an upgrade. In 2026, your phone is your bank. But..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "smart-digital-wallets-jazzcash-easypaisa-guide"
 ---

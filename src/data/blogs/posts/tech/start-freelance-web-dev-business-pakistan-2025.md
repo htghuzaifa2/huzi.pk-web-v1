@@ -1,8 +1,7 @@
 ---
 title: "How to Start a Freelance Web Dev Business – Pakistan 2025 Hostel-Room Edition"
-description: "You have a laptop. You have an internet connection (most of the time). You have a brain. Why are you waiting for a \"Degree\" to start making money? In..."Degree\" to start making money? In..."Degree\" to start making money? In..."Degree\" to start making money? In..."
+description: "You have a laptop. You have an internet connection (most of the time). You have a brain. Why are you waiting for a \"Degree\" to start making money? In..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "start-freelance-web-dev-business-pakistan-2025"
 ---

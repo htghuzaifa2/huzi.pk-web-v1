@@ -1,8 +1,7 @@
 ---
 title: "How to Check and Pay E-Challans Online in Pakistan – 2025"
-description: "The \"Paper Challan\" is a relic of the past. In 2026, the Safe Cities Authority cameras in Lahore, Karachi, Islamabad, and now even Rawalpindi are..."Paper Challan\" is a relic of the past. In 2026, the Safe Cities Authority cameras in Lahore, Karachi, Islamabad, and now even Rawalpindi are..."Paper Challan\" is a relic of the past. In 2026, the Safe Cities Authority cameras in Lahore, Karachi, Islamabad, and now even Rawalpindi are..."Paper Challan\" is a relic of the past. In 2026, the Safe Cities Authority cameras in Lahore, Karachi, Islamabad, and now even Rawalpindi are..."
+description: "The \"Paper Challan\" is a relic of the past. In 2026, the Safe Cities Authority cameras in Lahore, Karachi, Islamabad, and now even Rawalpindi are..."
 date: "2025-12-16"
-image: "/images/blog/e-challan-payment-guide.jpg"
 topic: "guides"
 slug: "how-to-check-pay-e-challans-online-pakistan"
 ---

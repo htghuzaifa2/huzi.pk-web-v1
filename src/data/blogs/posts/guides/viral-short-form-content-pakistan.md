@@ -2,7 +2,6 @@
 title: "The Art of 'Desi' Virality: Short-Form Content Guide 2026"
 description: "You spend 3 hours editing a cinematic masterpiece. It gets 200 views. A random guy uploads a video of a cat falling off a sofa. It gets 2 million views...."
 date: "2025-12-16"
-image: "/images/blog/viral-short-form-content-pakistan.jpg"
 topic: "guides"
 slug: "viral-short-form-content-pakistan"
 ---

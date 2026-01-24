@@ -2,7 +2,6 @@
 title: "83rd Golden Globes 2026: Surprises, Tears, and Soulful Stories"
 description: "Yaar, imagine the soft glow of the Beverly Hilton and stars walking in like old friends. That was the 83rd Golden Globe Awards on January 11, 2026—a..."
 date: "2026-01-15"
-image: "/images/blog/placeholder.png"
 topic: "guides"
 slug: "golden-globes-2026-ceremony-highlights"
 ---

@@ -2,7 +2,6 @@
 title: "How to Build Your First AI-Powered App – 2025 Beginner Guide"
 description: "Below is the shortest route from “I have an idea” to “I have an app that uses AI”—no PhD, no dad-money, just your hostel laptop and the will to survive..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "build-first-ai-app-beginner-guide-2025"
 ---

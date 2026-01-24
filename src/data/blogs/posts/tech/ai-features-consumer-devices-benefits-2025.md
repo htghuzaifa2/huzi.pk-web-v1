@@ -2,7 +2,6 @@
 title: "AI Features Built into Everyday Consumer Devices – Real Benefits 2025"
 description: "AI has moved from buzzword to practical reality in 2025. Your smartphone, smartwatch, and laptop now use AI for tasks you didn't even know needed..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "ai-features-consumer-devices-benefits-2025"
 ---

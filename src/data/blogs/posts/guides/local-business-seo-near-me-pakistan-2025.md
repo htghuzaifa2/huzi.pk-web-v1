@@ -1,8 +1,7 @@
 ---
 title: "The Local Business Goldmine: A 2025 Blueprint for Dominating 'Near Me' Searches in Pakistan"
-description: "Your bakery in Gulberg is amazing. Your AC repair service in Karachi is second to none. But if customers can't find you when they Google \"best mithai..."best mithai..."best mithai..."best mithai..."
+description: "Your bakery in Gulberg is amazing. Your AC repair service in Karachi is second to none. But if customers can't find you when they Google \"best mithai..."
 date: "2025-12-23"
-image: "/images/blog/local-seo-pakistan.jpg"
 topic: "guides"
 slug: "local-business-seo-near-me-pakistan-2025"
 ---

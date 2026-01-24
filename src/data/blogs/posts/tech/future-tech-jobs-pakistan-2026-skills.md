@@ -2,7 +2,6 @@
 title: "Future tech jobs in Pakistan in 2026 and the skills you need — data & AI career context."
 description: "Are you still studying for a degree that might be obsolete by the time you graduate? In 2026, the Pakistani tech landscape is undergoing its most..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "future-tech-jobs-pakistan-2026-skills"
 ---

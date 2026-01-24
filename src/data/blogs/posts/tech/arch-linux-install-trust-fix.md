@@ -2,7 +2,6 @@
 title: "The Broken Handshake: Mending Trust When Arch Linux Won't Install"
 description: "There is a moment in the quiet ritual of installing Arch Linux when you lean forward, watching the screen with a particular kind of hope. You’ve booted..."
 date: "2026-02-04"
-image: "/images/blog/arch-linux-install.jpg"
 topic: "tech"
 slug: "arch-linux-install-trust-fix"
 ---

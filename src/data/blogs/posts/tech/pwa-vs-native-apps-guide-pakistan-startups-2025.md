@@ -2,7 +2,6 @@
 title: "Progressive Web Apps (PWAs) vs Native Apps – 2025 Decision Guide for Pakistan Startups"
 description: "You have an idea for the next big food delivery app or a student marketplace. You've got the logic ready, and you're about to open Android Studio. Stop..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "pwa-vs-native-apps-guide-pakistan-startups-2025"
 ---

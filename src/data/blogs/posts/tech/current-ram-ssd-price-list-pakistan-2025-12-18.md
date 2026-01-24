@@ -2,7 +2,6 @@
 title: "Current RAM & SSD Price List (Pakistan – 2025-12-18) – Hostel-Rankings"
 description: "Why did the 16GB DDR4 stick you saw for Rs. 9,500 yesterday suddenly jump to Rs. 10,200 today? Welcome to the chaotic world of Pakistani tech imports. In..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "current-ram-ssd-price-list-pakistan-2025-12-18"
 ---

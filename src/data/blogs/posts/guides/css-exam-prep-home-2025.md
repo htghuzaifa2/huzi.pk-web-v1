@@ -2,7 +2,6 @@
 title: "CSS Exam Prep from Home – 2025 Starter Guide"
 description: "Preparing for the Central Superior Services (CSS) exam is often painted as a journey that requires expensive academies in Lahore or Islamabad. But in..."
 date: "2025-12-16"
-image: "/images/blog/css-exam-prep-home-2025.jpg"
 topic: "guides"
 slug: "css-exam-prep-home-2025"
 ---

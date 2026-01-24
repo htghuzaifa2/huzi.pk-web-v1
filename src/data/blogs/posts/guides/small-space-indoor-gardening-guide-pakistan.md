@@ -1,8 +1,7 @@
 ---
 title: "Small-Space Indoor Gardening Guide for Pakistan – 2025-2026 Edition"
-description: "In a country where urban density is exploding and the air quality index (AQI) often hits the \"Unhealthy\" zone in cities like Lahore and Karachi, having..."Unhealthy\" zone in cities like Lahore and Karachi, having..."Unhealthy\" zone in cities like Lahore and Karachi, having..."Unhealthy\" zone in cities like Lahore and Karachi, having..."
+description: "In a country where urban density is exploding and the air quality index (AQI) often hits the \"Unhealthy\" zone in cities like Lahore and Karachi, having..."
 date: "2025-12-16"
-image: "/images/blog/indoor-gardening-guide.jpg"
 topic: "guides"
 slug: "small-space-indoor-gardening-guide-pakistan"
 ---

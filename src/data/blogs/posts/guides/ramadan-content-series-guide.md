@@ -2,7 +2,6 @@
 title: "The Ramadan Content Series Guide"
 description: "1. The Sehri Focus: Sustained Energy & Hydration Sehri is the most critical meal. It needs to be satisfying, slow-digesting, and incredibly hydrating to..."
 date: "2025-12-16"
-image: "/images/blog/ramadan-content-guide.jpg"
 topic: "guides"
 slug: "ramadan-content-series-guide"
 ---

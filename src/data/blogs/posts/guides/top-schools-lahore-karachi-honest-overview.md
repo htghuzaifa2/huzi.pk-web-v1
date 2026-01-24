@@ -2,7 +2,6 @@
 title: "Top Schools in Lahore & Karachi: An Honest, No-Fluff Guide (2026)"
 description: "Choosing a school in Pakistan is not just an educational decision; it is a Lifestyle decision. Admissions season in Lahore and Karachi is more stressful..."
 date: "2025-12-16"
-image: "/images/blog/top-schools-pakistan.jpg"
 topic: "guides"
 slug: "top-schools-lahore-karachi-honest-overview"
 ---

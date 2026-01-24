@@ -1,8 +1,7 @@
 ---
 title: "Best Online Courses for Web Developers (2026)"
-description: "The web development world moves at a speed that can give you whiplash. What was considered \"cutting-edge\" in 2023 is already legacy code in 2026. For a..."cutting-edge\" in 2023 is already legacy code in 2026. For a..."cutting-edge\" in 2023 is already legacy code in 2026. For a..."cutting-edge\" in 2023 is already legacy code in 2026. For a..."
+description: "The web development world moves at a speed that can give you whiplash. What was considered \"cutting-edge\" in 2023 is already legacy code in 2026. For a..."
 date: "2025-12-16"
-image: "/images/blog/best-online-courses-web-dev-2026.jpg"
 topic: "guides"
 slug: "best-online-courses-web-developers-2026"
 ---

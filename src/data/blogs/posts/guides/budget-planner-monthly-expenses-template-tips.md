@@ -1,8 +1,7 @@
 ---
 title: "Monthly Budget Planner for Pakistan – 2025 Edition"
-description: "Inflation in 2026 is no longer a headline; it is a daily reality. From the price of eggs to the cost of electricity units, the \"Middle-Class\" standard of..."Middle-Class\" standard of..."Middle-Class\" standard of..."Middle-Class\" standard of..."
+description: "Inflation in 2026 is no longer a headline; it is a daily reality. From the price of eggs to the cost of electricity units, the \"Middle-Class\" standard of..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "budget-planner-monthly-expenses-template-tips"
 ---

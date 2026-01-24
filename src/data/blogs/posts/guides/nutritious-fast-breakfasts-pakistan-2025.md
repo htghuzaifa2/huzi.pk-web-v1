@@ -2,7 +2,6 @@
 title: "Nutritious Fast Breakfasts Pakistanis Love – 2025-2026 Hostel Guide"
 description: "The 8 AM lecture is the natural enemy of a healthy breakfast. In the chaotic rush of a Pakistani hostel room or a shared apartment, most students settle..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "nutritious-fast-breakfasts-pakistan-2025"
 ---

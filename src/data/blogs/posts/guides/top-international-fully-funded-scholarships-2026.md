@@ -2,7 +2,6 @@
 title: "Top Fully-Funded International Scholarships for Pakistani Students (2026)"
 description: "Winning a fully-funded scholarship is the dream. It’s the golden ticket that pays for your flight, your tuition, your housing, and even your coffee. But..."
 date: "2025-12-16"
-image: "/images/blog/scholarships-2026.jpg"
 topic: "guides"
 slug: "top-international-fully-funded-scholarships-2026"
 ---

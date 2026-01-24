@@ -2,7 +2,6 @@
 title: "How to Create Your Own AI Photo Effects at Home – 2025 Hostel-Room Edition"
 description: "No Photoshop? No problem. In 2025, you don't need a high-end PC to create world-class visual effects. All you need is a phone, a decent data connection,..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "create-ai-photo-effects-home-2025"
 ---

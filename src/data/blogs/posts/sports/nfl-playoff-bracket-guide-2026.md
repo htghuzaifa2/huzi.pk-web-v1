@@ -1,8 +1,7 @@
 ---
 title: "The Ultimate Guide to NFL Playoffs 2026: A Pakistani's Handbook"
-description: "\"Cricket is a religion.\" \"Football (Soccer) is life.\" \"American Football is... confusing?\" Not anymore. As the NFL Playoffs enter the \"Divisional Round\"..."Cricket is a religion.\" \"Football (Soccer) is life.\" \"American Football is... confusing?\" Not anymore. As the NFL Playoffs enter the \"Divisional Round\"..."Cricket is a religion.\" \"Football (Soccer) is life.\" \"American Football is... confusing?\" Not anymore. As the NFL Playoffs enter the \"Divisional Round\"..."Cricket is a religion.\" \"Football (Soccer) is life.\" \"American Football is... confusing?\" Not anymore. As the NFL Playoffs enter the \"Divisional Round\"..."
+description: "\"Cricket is a religion.\" \"Football (Soccer) is life.\" \"American Football is... confusing?\" Not anymore. As the NFL Playoffs enter the \"Divisional Round\"..."
 date: "2026-01-16"
-image: "/images/blog/nfl-bracket-2026.jpg"
 topic: "sports"
 slug: "nfl-playoff-bracket-guide-2026"
 ---

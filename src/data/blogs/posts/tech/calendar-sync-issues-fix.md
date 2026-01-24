@@ -2,7 +2,6 @@
 title: "The Language Barrier of Digital Time: Mending Broken Calendar Conversations"
 description: "In our beautifully connected world, we host many guests in our digital lives. Your work Outlook calendar from the office, the Google Calendar for family..."
 date: "2026-01-31"
-image: "/images/blog/calendar-sync-issues.jpg"
 topic: "tech"
 slug: "calendar-sync-issues-fix"
 ---

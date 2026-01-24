@@ -1,8 +1,7 @@
 ---
 title: "Last-Minute Gift Guide: Where to Find a Nintendo Switch 2 in Stock Before Christmas"
-description: "It is December 23rd. The lights are up, the \"Sheer Khurma\" ingredients are bought (wait, that's Eid), the Christmas presents are being wrapped, and you..."Sheer Khurma\" ingredients are bought (wait, that's Eid), the Christmas presents are being wrapped, and you..."Sheer Khurma\" ingredients are bought (wait, that's Eid), the Christmas presents are being wrapped, and you..."Sheer Khurma\" ingredients are bought (wait, that's Eid), the Christmas presents are being wrapped, and you..."
+description: "It is December 23rd. The lights are up, the \"Sheer Khurma\" ingredients are bought (wait, that's Eid), the Christmas presents are being wrapped, and you..."
 date: "2025-12-23"
-image: "/images/blog/nintendo-switch-2-stock.jpg"
 topic: "tech"
 slug: "nintendo-switch-2-stock-christmas-2025"
 ---

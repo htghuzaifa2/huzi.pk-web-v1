@@ -2,7 +2,6 @@
 title: "Preparing Your Digital Workshop for the Quantum Age: A 2026 Home Lab Guide"
 description: "In the quiet hours of the night, as my city of Lahore settles into a gentle hum, I sometimes find myself gazing at the stars. There’s a vastness up..."
 date: "2026-02-02"
-image: "/images/blog/quantum-home-lab.jpg"
 topic: "tech"
 slug: "quantum-home-lab-guide"
 ---

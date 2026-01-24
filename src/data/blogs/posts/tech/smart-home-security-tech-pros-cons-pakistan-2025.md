@@ -1,8 +1,7 @@
 ---
 title: "Smart Home Security Tech: Pros & Cons for Pakistani Households (2025)"
-description: "Securing a home in Pakistan isn't just about high walls and barbed wire anymore. In 2025, a \"Smart\" eye is often more effective than a physical one. But..."Smart\" eye is often more effective than a physical one. But..."Smart\" eye is often more effective than a physical one. But..."Smart\" eye is often more effective than a physical one. But..."
+description: "Securing a home in Pakistan isn't just about high walls and barbed wire anymore. In 2025, a \"Smart\" eye is often more effective than a physical one. But..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "smart-home-security-tech-pros-cons-pakistan-2025"
 ---

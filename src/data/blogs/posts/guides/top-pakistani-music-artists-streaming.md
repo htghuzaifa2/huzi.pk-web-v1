@@ -1,8 +1,7 @@
 ---
 title: "Top Pakistani Music Artists on Streaming: The 2026 Charts"
-description: "Music in Pakistan has changed. Ten years ago, we waited for \"Coke Studio\" to release a song. Today, a 19-year-old with a laptop and a cracked version of..."Coke Studio\" to release a song. Today, a 19-year-old with a laptop and a cracked version of..."Coke Studio\" to release a song. Today, a 19-year-old with a laptop and a cracked version of..."Coke Studio\" to release a song. Today, a 19-year-old with a laptop and a cracked version of..."
+description: "Music in Pakistan has changed. Ten years ago, we waited for \"Coke Studio\" to release a song. Today, a 19-year-old with a laptop and a cracked version of..."
 date: "2025-12-19"
-image: "/images/blog/pakistani-music-streaming-2026.jpg"
 topic: "guides"
 slug: "top-pakistani-music-artists-streaming"
 ---

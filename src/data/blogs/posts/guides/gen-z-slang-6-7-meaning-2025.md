@@ -1,8 +1,7 @@
 ---
 title: "'6-7' & Beyond: Decoding Gen-Z Slang in Pakistan – 2025"
-description: "If you’ve heard a teenager shout \"6-7\" (Six-Seven) while making a seesaw hand gesture, or if you've seen the same numbers littered across the comment..."6-7\" (Six-Seven) while making a seesaw hand gesture, or if you've seen the same numbers littered across the comment..."6-7\" (Six-Seven) while making a seesaw hand gesture, or if you've seen the same numbers littered across the comment..."6-7\" (Six-Seven) while making a seesaw hand gesture, or if you've seen the same numbers littered across the comment..."
+description: "If you’ve heard a teenager shout \"6-7\" (Six-Seven) while making a seesaw hand gesture, or if you've seen the same numbers littered across the comment..."
 date: "2025-12-23"
-image: "/images/blog/67-slang.jpg"
 topic: "guides"
 slug: "gen-z-slang-6-7-meaning-2025"
 ---

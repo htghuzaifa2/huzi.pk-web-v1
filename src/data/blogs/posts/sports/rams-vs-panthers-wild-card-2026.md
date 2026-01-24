@@ -1,8 +1,7 @@
 ---
 title: "Rams vs Panthers (Wild Card 2026): Stafford's Ice-Cold Veins Save LA"
-description: "\"Old guys rule.\" — Me, every time my dad beats me at cards. But in the NFL, being old usually means being slow. Unless your name is Matthew Stafford. On..."Old guys rule.\" — Me, every time my dad beats me at cards. But in the NFL, being old usually means being slow. Unless your name is Matthew Stafford. On..."Old guys rule.\" — Me, every time my dad beats me at cards. But in the NFL, being old usually means being slow. Unless your name is Matthew Stafford. On..."Old guys rule.\" — Me, every time my dad beats me at cards. But in the NFL, being old usually means being slow. Unless your name is Matthew Stafford. On..."
+description: "\"Old guys rule.\" — Me, every time my dad beats me at cards. But in the NFL, being old usually means being slow. Unless your name is Matthew Stafford. On..."
 date: "2026-01-15"
-image: "/images/blog/rams-panthers-wildcard.jpg"
 topic: "sports"
 slug: "rams-vs-panthers-wild-card-2026"
 ---

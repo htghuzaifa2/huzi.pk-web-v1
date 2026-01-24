@@ -2,7 +2,6 @@
 title: "The Patient Pulse: Understanding and Mending Slow Wireless Charging"
 description: "There is a quiet ritual that defines our evenings now. You place your phone on that small, lit pad beside your bed, trusting that by morning, it will be..."
 date: "2026-01-23"
-image: "/images/blog/wireless-charging-slow.jpg"
 topic: "tech"
 slug: "wireless-charging-slow-fix"
 ---

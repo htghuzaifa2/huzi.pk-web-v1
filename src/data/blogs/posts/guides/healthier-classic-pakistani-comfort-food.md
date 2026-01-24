@@ -2,7 +2,6 @@
 title: "Healthier Versions of Classic Pakistani Comfort Food"
 description: "The main culprits in making our desi food heavy are often excessive oil, cream, refined carbohydrates, and hidden sugars. For a culture where..."
 date: "2025-12-16"
-image: "/images/blog/healthier-pakistani-food.jpg"
 topic: "guides"
 slug: "healthier-classic-pakistani-comfort-food"
 ---

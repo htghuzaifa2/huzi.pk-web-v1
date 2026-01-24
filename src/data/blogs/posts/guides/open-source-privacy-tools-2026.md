@@ -2,7 +2,6 @@
 title: "The Privacy Toolkit: 7 Open Source Tools to Reclaim Your Digital Life in 2026"
 description: "Privacy is not about having something to hide. It is about having something to protect—your autonomy, your identity, and your peace of mind. In an age..."
 date: "2026-01-22"
-image: "/images/blog/open-source-privacy-tools.jpg"
 topic: "guides"
 slug: "open-source-privacy-tools-2026"
 ---

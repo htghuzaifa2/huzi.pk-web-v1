@@ -2,7 +2,6 @@
 title: "How to check and pay e-challans nationwide (Karachi, Lahore, Islamabad) — 2025 Guide"
 description: "With the implementation of Safe City projects across Pakistan, traffic monitoring has gone digital. Gone are the days when you only got a ticket if a..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "check-pay-e-challans-nationwide-pakistan-guide"
 ---

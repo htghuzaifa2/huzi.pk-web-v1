@@ -1,8 +1,7 @@
 ---
 title: "Building Digital Privacy Awareness in Pakistan – 2025 Plan"
-description: "With over 90 million internet users in 2026, Pakistan is a digital frontier. However, our rapid connectivity has outpaced our \"Security Awareness.\" We..."Security Awareness.\" We..."Security Awareness.\" We..."Security Awareness.\" We..."
+description: "With over 90 million internet users in 2026, Pakistan is a digital frontier. However, our rapid connectivity has outpaced our \"Security Awareness.\" We..."
 date: "2025-12-16"
-image: "/images/blog/digital-privacy-awareness-pakistan-2025.jpg"
 topic: "guides"
 slug: "digital-privacy-awareness-pakistan-2025"
 ---

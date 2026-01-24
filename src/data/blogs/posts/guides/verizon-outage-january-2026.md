@@ -2,7 +2,6 @@
 title: "The Great Verizon Outage of 2026: A Post-Mortem"
 description: "On January 14, 2026, America woke up to silence. No notifications. No calls. Just three terrifying letters in the top right corner of every iPhone: SOS...."
 date: "2026-01-15"
-image: "/images/blog/verizon-outage.jpg"
 topic: "guides"
 slug: "verizon-outage-january-2026"
 ---

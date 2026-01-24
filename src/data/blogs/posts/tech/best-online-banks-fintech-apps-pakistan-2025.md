@@ -2,7 +2,6 @@
 title: "Best Online Banks & Fintech Apps in Pakistan – Winter 2025 Hostel-Rankings"
 description: "Hostel life in 2025 means you don't carry a wallet; you carry a phone with 4 different banking apps. Whether it's splitting the mess bill, paying for a..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "best-online-banks-fintech-apps-pakistan-2025"
 ---

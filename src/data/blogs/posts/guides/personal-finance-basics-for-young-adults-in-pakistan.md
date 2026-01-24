@@ -1,8 +1,7 @@
 ---
 title: "Personal Finance Basics for Young Adults in Pakistan – 2025-2026 Guide"
-description: "Most of us grow up in Pakistan without ever having a real \"Money Conversation.\" Not at school, not at college, and rarely even at the dinner table. We..."Money Conversation.\" Not at school, not at college, and rarely even at the dinner table. We..."Money Conversation.\" Not at school, not at college, and rarely even at the dinner table. We..."Money Conversation.\" Not at school, not at college, and rarely even at the dinner table. We..."
+description: "Most of us grow up in Pakistan without ever having a real \"Money Conversation.\" Not at school, not at college, and rarely even at the dinner table. We..."
 date: "2025-12-16"
-image: "/images/blog/personal-finance-basics.jpg"
 topic: "guides"
 slug: "personal-finance-basics-for-young-adults-in-pakistan"
 ---

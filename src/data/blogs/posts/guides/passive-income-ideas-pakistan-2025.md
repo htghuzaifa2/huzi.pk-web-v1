@@ -1,8 +1,7 @@
 ---
 title: "Passive Income Ideas That Actually Work in Pakistan – 2025-2026 Guide"
-description: "The dream of \"Making money while you sleep\" is no longer just for billionaires like Elon Musk or tech gurus in Silicon Valley. In the Pakistan of 2026,..."Making money while you sleep\" is no longer just for billionaires like Elon Musk or tech gurus in Silicon Valley. In the Pakistan of 2026,..."Making money while you sleep\" is no longer just for billionaires like Elon Musk or tech gurus in Silicon Valley. In the Pakistan of 2026,..."Making money while you sleep\" is no longer just for billionaires like Elon Musk or tech gurus in Silicon Valley. In the Pakistan of 2026,..."
+description: "The dream of \"Making money while you sleep\" is no longer just for billionaires like Elon Musk or tech gurus in Silicon Valley. In the Pakistan of 2026,..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "passive-income-ideas-pakistan-2025"
 ---

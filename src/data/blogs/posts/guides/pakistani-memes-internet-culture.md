@@ -1,8 +1,7 @@
 ---
 title: "10 Pakistani Memes That Define Our Internet Culture – 2025-2026 Edition"
-description: "In Pakistan, we don't just \"Watch\" the news; we \"Meme\" it into submission. Whether it's a political crisis, a crushing cricket loss to a rival, or a..."Watch\" the news; we \"Meme\" it into submission. Whether it's a political crisis, a crushing cricket loss to a rival, or a..."Watch\" the news; we \"Meme\" it into submission. Whether it's a political crisis, a crushing cricket loss to a rival, or a..."Watch\" the news; we \"Meme\" it into submission. Whether it's a political crisis, a crushing cricket loss to a rival, or a..."
+description: "In Pakistan, we don't just \"Watch\" the news; we \"Meme\" it into submission. Whether it's a political crisis, a crushing cricket loss to a rival, or a..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "pakistani-memes-internet-culture"
 ---

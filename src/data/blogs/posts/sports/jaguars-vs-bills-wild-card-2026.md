@@ -1,8 +1,7 @@
 ---
 title: "Buffalo Bills vs Jacksonville Jaguars (Wild Card 2026): A Game of Destiny"
-description: "\"History is a circle. But sometimes, you break the circle.\" For the Buffalo Bills, Jacksonville has always been a haunted house. In 2017, they scored 3..."History is a circle. But sometimes, you break the circle.\" For the Buffalo Bills, Jacksonville has always been a haunted house. In 2017, they scored 3..."History is a circle. But sometimes, you break the circle.\" For the Buffalo Bills, Jacksonville has always been a haunted house. In 2017, they scored 3..."History is a circle. But sometimes, you break the circle.\" For the Buffalo Bills, Jacksonville has always been a haunted house. In 2017, they scored 3..."
+description: "\"History is a circle. But sometimes, you break the circle.\" For the Buffalo Bills, Jacksonville has always been a haunted house. In 2017, they scored 3..."
 date: "2026-01-15"
-image: "/images/blog/bills-jags-wildcard-2026.jpg"
 topic: "sports"
 slug: "jaguars-vs-bills-wild-card-2026"
 ---

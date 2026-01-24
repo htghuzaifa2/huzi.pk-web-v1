@@ -1,8 +1,7 @@
 ---
 title: "How to Unsend Messages on Instagram – 2025 Etiquette"
-description: "The \"Unsend\" button on Instagram is the closest thing we have to a 'Time Machine' in our digital lives. Whether it was a cringe-worthy typo, a \"Heated\"..."Unsend\" button on Instagram is the closest thing we have to a 'Time Machine' in our digital lives. Whether it was a cringe-worthy typo, a \"Heated\"..."Unsend\" button on Instagram is the closest thing we have to a 'Time Machine' in our digital lives. Whether it was a cringe-worthy typo, a \"Heated\"..."Unsend\" button on Instagram is the closest thing we have to a 'Time Machine' in our digital lives. Whether it was a cringe-worthy typo, a \"Heated\"..."
+description: "The \"Unsend\" button on Instagram is the closest thing we have to a 'Time Machine' in our digital lives. Whether it was a cringe-worthy typo, a \"Heated\"..."
 date: "2025-12-16"
-image: "/images/blog/unsend-instagram-messages.jpg"
 topic: "guides"
 slug: "how-to-unsend-messages-instagram"
 ---

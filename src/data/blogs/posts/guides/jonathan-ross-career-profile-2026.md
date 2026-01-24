@@ -2,7 +2,6 @@
 title: "Jonathan Ross: The Maverick of the Midnight Hour"
 description: "In the tapestry of British television, few threads are as colorful as that of Jonathan Stephen Ross. I am Huzi, and from the heart of Pakistan, I have..."
 date: "2026-01-15"
-image: "/images/blog/placeholder.png"
 topic: "guides"
 slug: "jonathan-ross-career-profile-2026"
 ---

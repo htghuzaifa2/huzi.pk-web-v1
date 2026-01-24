@@ -2,7 +2,6 @@
 title: "Get Verified Documents Online: The 2025 NADRA Digital Guide"
 description: "The days of standing in the scorching heat outside a NADRA office are finally over. Whether you're a student needing a Family Registration Certificate..."
 date: "2025-12-21"
-image: "/images/blog/nadra-online.jpg"
 topic: "guides"
 slug: "get-verified-documents-online-nadra-2025"
 ---

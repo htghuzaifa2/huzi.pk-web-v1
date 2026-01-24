@@ -2,7 +2,6 @@
 title: "Most-Searched 'How-To' Queries in Pakistan (2025)"
 description: "If you want to know what a nation is actually thinking, don't look at the news—look at its Google search bar. In 2025, Pakistanis have moved past..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "top-how-to-searches-pakistan"
 ---

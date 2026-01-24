@@ -1,8 +1,7 @@
 ---
 title: "Best E-Commerce Platforms for Pakistani Sellers in 2026"
-description: "The landscape of e-commerce in Pakistan has undergone a seismic shift between 2022 and 2026. What was once a market dominated by risky \"Cash on Delivery\"..."Cash on Delivery\"..."Cash on Delivery\"..."Cash on Delivery\"..."
+description: "The landscape of e-commerce in Pakistan has undergone a seismic shift between 2022 and 2026. What was once a market dominated by risky Cash on Delivery deals has matured into a multi-billion dollar ecosystem."
 date: "2025-12-16"
-image: "/images/blog/best-ecommerce-platforms-2026.jpg"
 topic: "guides"
 slug: "best-ecommerce-platforms-pakistan-2026"
 ---

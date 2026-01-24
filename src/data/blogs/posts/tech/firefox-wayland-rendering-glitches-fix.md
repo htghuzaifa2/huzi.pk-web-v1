@@ -2,7 +2,6 @@
 title: "Firefox + Wayland: Weird Rendering Glitches on Specific GPU Drivers – MOZ_USE_X11 and Other Env Vars"
 description: "Friend, if you've switched to Wayland for that buttery-smooth experience and modern compositor life, only to watch Firefox turn into a glitchy..."
 date: "2026-01-22"
-image: "/images/blog/firefox-wayland-fix.jpg"
 topic: "tech"
 slug: "firefox-wayland-rendering-glitches-fix"
 ---

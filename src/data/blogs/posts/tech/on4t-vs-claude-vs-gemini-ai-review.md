@@ -2,7 +2,6 @@
 title: "On4t vs Claude vs Gemini: AI Tools Face-Off (Dec 2025)"
 description: "If you're a computer science student in Pakistan, your life in 2026 is basically a race against time. Between the university deadlines, the 4G signal..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "on4t-vs-claude-vs-gemini-ai-review"
 ---

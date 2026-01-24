@@ -1,8 +1,7 @@
 ---
 title: "How to Apply for a Credit Card in Pakistan – 2025 Edition"
-description: "For a long time, credit cards in Pakistan were seen as a \"Luxury\" for the elite. But in 2026, with the boom of e-commerce, Netflix subscriptions,..."Luxury\" for the elite. But in 2026, with the boom of e-commerce, Netflix subscriptions,..."Luxury\" for the elite. But in 2026, with the boom of e-commerce, Netflix subscriptions,..."Luxury\" for the elite. But in 2026, with the boom of e-commerce, Netflix subscriptions,..."
+description: "For a long time, credit cards in Pakistan were seen as a \"Luxury\" for the elite. But in 2026, with the boom of e-commerce, Netflix subscriptions,..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "how-to-apply-credit-card-pakistan-2025"
 ---

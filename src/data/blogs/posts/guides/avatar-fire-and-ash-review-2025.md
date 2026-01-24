@@ -2,7 +2,6 @@
 title: "Avatar: Fire and Ash – The Three-Hour Spectacle That Finally Makes Pandora Feel Dangerous"
 description: "If you walked out of The Way of Water in 2022 thinking Pandora had become a gorgeous but slightly repetitive screensaver with occasional explosions,..."
 date: "2025-12-23"
-image: "/images/blog/avatar-fire-and-ash.jpg"
 topic: "guides"
 slug: "avatar-fire-and-ash-review-2025"
 ---

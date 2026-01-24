@@ -2,7 +2,6 @@
 title: "The AI Toolbox: Understanding DeepSeek and the New Search Engines"
 description: "Trying to keep up with all the new AI tools can feel like being a student in a school that changes its syllabus every single week. Just when you think..."
 date: "2025-12-19"
-image: "/images/blog/ai-toolbox-deepseek.png"
 topic: "tech"
 slug: "ai-toolbox-deepseek-search-engines"
 ---

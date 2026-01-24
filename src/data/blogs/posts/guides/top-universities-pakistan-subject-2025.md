@@ -1,8 +1,7 @@
 ---
 title: "Top Universities in Pakistan by Subject (2025 Rankings)"
-description: "In Pakistan, we have an obsession with \"Brand Names.\" Parents want their kids to go to LUMS or NUST solely for the sticker on the back of the car. But in..."Brand Names.\" Parents want their kids to go to LUMS or NUST solely for the sticker on the back of the car. But in..."Brand Names.\" Parents want their kids to go to LUMS or NUST solely for the sticker on the back of the car. But in..."Brand Names.\" Parents want their kids to go to LUMS or NUST solely for the sticker on the back of the car. But in..."
+description: "In Pakistan, we have an obsession with \"Brand Names.\" Parents want their kids to go to LUMS or NUST solely for the sticker on the back of the car. But in..."
 date: "2025-12-19"
-image: "/images/blog/top-universities-pakistan.jpg"
 topic: "guides"
 slug: "top-universities-pakistan-subject-2025"
 ---

@@ -1,8 +1,7 @@
 ---
 title: "How to Prepare for Competitive Exams (CSS, PMS) – 2025-2026 Strategy"
-description: "The CSS (Central Superior Services) and PMS (Provincial Management Service) exams are often called the \"Mother of all Exams\" in Pakistan. Every year,..."Mother of all Exams\" in Pakistan. Every year,..."Mother of all Exams\" in Pakistan. Every year,..."Mother of all Exams\" in Pakistan. Every year,..."
+description: "The CSS (Central Superior Services) and PMS (Provincial Management Service) exams are often called the \"Mother of all Exams\" in Pakistan. Every year,..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "preparation-competitive-exams-css-pms-2025"
 ---

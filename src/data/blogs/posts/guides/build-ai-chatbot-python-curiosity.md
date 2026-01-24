@@ -2,7 +2,6 @@
 title: "How I Built My First AI Chatbot with Python (No CS Degree, Just Curiosity)"
 description: "I still remember the night—load-shedding had knocked the Wi-Fi dead, my phone hotspot blinked like a dying firefly, and I was copy-pasting the same..."
 date: "2025-12-16"
-image: "/images/blog/build-ai-chatbot-python-curiosity.jpg"
 topic: "guides"
 slug: "build-ai-chatbot-python-curiosity"
 ---

@@ -2,7 +2,6 @@
 title: "Current RAM & SSD Price List (Pakistan – Dec 2025) – Hostel-Rankings"
 description: "If you aren't haggling, you're overpaying. In the world of Pakistani tech markets (Hafeez Center, Techno City, Rebel Market), the sticker price is just a..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "current-ram-ssd-price-list-pakistan-dec-2025-update"
 ---

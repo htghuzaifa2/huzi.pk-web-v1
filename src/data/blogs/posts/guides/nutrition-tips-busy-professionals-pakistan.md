@@ -2,7 +2,6 @@
 title: "Nutrition Tips for Busy Professionals in Pakistan – 2025-2026 Guide"
 description: "If you’re a professional in a metropolitan hub like Karachi, Lahore, or Islamabad, your day probably starts with a rush that makes a Formula 1 pit stop..."
 date: "2025-12-16"
-image: "/images/blog/nutrition-tips-busy-professionals.jpg"
 topic: "guides"
 slug: "nutrition-tips-busy-professionals-pakistan"
 ---

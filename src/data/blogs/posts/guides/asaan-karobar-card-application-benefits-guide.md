@@ -2,7 +2,6 @@
 title: "How to apply for the Asaan Karobar Card & benefits explained"
 description: "The Asaan Karobar Card (AKC) is the Punjab government’s flagship initiative for 2026, designed to pull small business owners and freelancers into the..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "asaan-karobar-card-application-benefits-guide"
 ---

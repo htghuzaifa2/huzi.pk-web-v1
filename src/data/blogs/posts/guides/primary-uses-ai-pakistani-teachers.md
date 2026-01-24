@@ -2,7 +2,6 @@
 title: "Primary Uses of AI by Pakistani Teachers – 2025-2026 Guide"
 description: "The Pakistani education system is standing at its most significant crossroads since the introduction of the internet. While many traditional classrooms..."
 date: "2025-12-16"
-image: "/images/blog/ai-helpers-education.jpg"
 topic: "guides"
 slug: "primary-uses-ai-pakistani-teachers"
 ---

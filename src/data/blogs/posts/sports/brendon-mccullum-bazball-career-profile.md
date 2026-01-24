@@ -1,8 +1,7 @@
 ---
 title: "Brendon McCullum: The Man Who Taught Cricket to Ditch Fear"
-description: "\"Cricket is meant to be played, not worked.\" — Brendon McCullum. In the history of cricket, there are players who score runs, and there are players who..."Cricket is meant to be played, not worked.\" — Brendon McCullum. In the history of cricket, there are players who score runs, and there are players who..."Cricket is meant to be played, not worked.\" — Brendon McCullum. In the history of cricket, there are players who score runs, and there are players who..."Cricket is meant to be played, not worked.\" — Brendon McCullum. In the history of cricket, there are players who score runs, and there are players who..."
+description: "\"Cricket is meant to be played, not worked.\" — Brendon McCullum. In the history of cricket, there are players who score runs, and there are players who..."
 date: "2025-12-23"
-image: "/images/blog/brendon-mccullum.jpg"
 topic: "sports"
 slug: "brendon-mccullum-bazball-career-profile"
 ---

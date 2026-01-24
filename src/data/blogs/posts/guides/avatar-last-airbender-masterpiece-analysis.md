@@ -1,8 +1,7 @@
 ---
 title: "The Unbroken Spirit: Why 'Avatar: The Last Airbender' Endures as a Masterpiece of Hope and Harmony"
-description: "Two decades after its premiere, Avatar: The Last Airbender (ATLA) has transcended the \"cartoon\" label to become a global cultural touchstone. For those..."cartoon\" label to become a global cultural touchstone. For those..."cartoon\" label to become a global cultural touchstone. For those..."cartoon\" label to become a global cultural touchstone. For those..."
+description: "Two decades after its premiere, Avatar: The Last Airbender (ATLA) has transcended the \"cartoon\" label to become a global cultural touchstone. For those..."
 date: "2025-12-23"
-image: "/images/blog/avatar-last-airbender.jpg"
 topic: "guides"
 slug: "avatar-last-airbender-masterpiece-analysis"
 ---

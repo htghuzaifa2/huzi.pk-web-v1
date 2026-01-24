@@ -1,8 +1,7 @@
 ---
 title: "Complete Guide to Lower-Income Housing & Benefits in Pakistan – 2025-2026 Edition"
-description: "Owning a home in Pakistan has traditionally been a \"Dream for the Elite\" or something you do after 40 years of service and a pension. But in 2026, the..."Dream for the Elite\" or something you do after 40 years of service and a pension. But in 2026, the..."Dream for the Elite\" or something you do after 40 years of service and a pension. But in 2026, the..."Dream for the Elite\" or something you do after 40 years of service and a pension. But in 2026, the..."
+description: "Owning a home in Pakistan has traditionally been a \"Dream for the Elite\" or something you do after 40 years of service and a pension. But in 2026, the..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "lower-income-housing-benefits-pakistan-2025"
 ---

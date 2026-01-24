@@ -1,8 +1,7 @@
 ---
 title: "Mastering Google Gemini for Content Creation – 2026 Guide"
-description: "In 2026, AI is no longer a \"Feature\"; it’s the foundation of modern content creation. While ChatGPT is famous, Google Gemini has become the preferred..."Feature\"; it’s the foundation of modern content creation. While ChatGPT is famous, Google Gemini has become the preferred..."Feature\"; it’s the foundation of modern content creation. While ChatGPT is famous, Google Gemini has become the preferred..."Feature\"; it’s the foundation of modern content creation. While ChatGPT is famous, Google Gemini has become the preferred..."
+description: "In 2026, AI is no longer a \"Feature\"; it’s the foundation of modern content creation. While ChatGPT is famous, Google Gemini has become the preferred..."
 date: "2025-12-16"
-image: "/images/blog/google-gemini-content-creation-guide.jpg"
 topic: "guides"
 slug: "google-gemini-content-creation-guide-2026"
 ---

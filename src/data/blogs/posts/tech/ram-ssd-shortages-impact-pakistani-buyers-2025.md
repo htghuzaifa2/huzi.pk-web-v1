@@ -2,7 +2,6 @@
 title: "RAM & SSD Shortages: How Pakistani Laptop Buyers Are Affected (2025-2026)"
 description: "You've saved up for months. You finally have the cash to take your laptop from 8GB to 16GB. You walk into your local tech market, and the shopkeeper..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "ram-ssd-shortages-impact-pakistani-buyers-2025"
 ---

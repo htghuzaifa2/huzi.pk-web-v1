@@ -2,7 +2,6 @@
 title: "The Best Local Apps Every Pakistani Should Have – 2025 Guide"
 description: "The Pakistani digital landscape has shifted dramatically between 2022 and 2026. Data used to be a luxury; now, it’s a utility as essential as gas or..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "best-local-apps-pakistan-2025"
 ---

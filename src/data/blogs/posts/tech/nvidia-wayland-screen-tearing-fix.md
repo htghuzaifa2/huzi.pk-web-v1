@@ -2,7 +2,6 @@
 title: "Nvidia: Screen Tears on Wayland Even With Compositors – Experimental Vsync and Atomic Modesetting Story"
 description: "The Paradox: Why Wayland Tears When It Should Be Perfect You sit down for a gaming session, launch your favorite game on your shiny Linux machine with..."
 date: "2026-01-22"
-image: "/images/blog/nvidia-wayland-fix.jpg"
 topic: "tech"
 slug: "nvidia-wayland-screen-tearing-fix"
 ---

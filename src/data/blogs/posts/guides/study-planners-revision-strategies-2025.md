@@ -2,7 +2,6 @@
 title: "Study Planners & Revision Strategies That Actually Work – 2025-2026 Guide"
 description: "The life of a Pakistani student in 2026 is a constant battle of focus. Between 12-hour load-shedding schedules (even with solar), slow hostel Wi-Fi,..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "guides"
 slug: "study-planners-revision-strategies-2025"
 ---

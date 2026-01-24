@@ -1,8 +1,7 @@
 ---
 title: "India vs New Zealand: Why Pakistanis Secretly Love the Black Caps"
-description: "\"Dushman ka dushman, dost hota hai.\" (The enemy of my enemy is my friend.) In the world of cricket, Pakistanis have a complicated relationship with..."Dushman ka dushman, dost hota hai.\" (The enemy of my enemy is my friend.) In the world of cricket, Pakistanis have a complicated relationship with..."Dushman ka dushman, dost hota hai.\" (The enemy of my enemy is my friend.) In the world of cricket, Pakistanis have a complicated relationship with..."Dushman ka dushman, dost hota hai.\" (The enemy of my enemy is my friend.) In the world of cricket, Pakistanis have a complicated relationship with..."
+description: "\"Dushman ka dushman, dost hota hai.\" (The enemy of my enemy is my friend.) In the world of cricket, Pakistanis have a complicated relationship with..."
 date: "2026-01-15"
-image: "/images/blog/ind-vs-nz-rivalry.jpg"
 topic: "sports"
 slug: "ind-vs-nz-pakistani-perspective"
 ---

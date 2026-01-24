@@ -1,8 +1,7 @@
 ---
 title: "The Ultimate Cricket Fitness Guide (2025): Train Like Babar and Kohli"
-description: "\"Cricket is a gentleman's game.\" False. In 2025, Cricket is an athlete's game. If you can't run a 2KM time trial in under 8 minutes, you aren't making..."Cricket is a gentleman's game.\" False. In 2025, Cricket is an athlete's game. If you can't run a 2KM time trial in under 8 minutes, you aren't making..."Cricket is a gentleman's game.\" False. In 2025, Cricket is an athlete's game. If you can't run a 2KM time trial in under 8 minutes, you aren't making..."Cricket is a gentleman's game.\" False. In 2025, Cricket is an athlete's game. If you can't run a 2KM time trial in under 8 minutes, you aren't making..."
+description: "\"Cricket is a gentleman's game.\" False. In 2025, Cricket is an athlete's game. If you can't run a 2KM time trial in under 8 minutes, you aren't making..."
 date: "2025-12-19"
-image: "/images/blog/cricket-training-2025.jpg"
 topic: "sports"
 slug: "cricket-training-routines-2025"
 ---

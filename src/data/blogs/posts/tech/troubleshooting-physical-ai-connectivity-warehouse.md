@@ -2,7 +2,6 @@
 title: "Troubleshooting 'Physical AI' Connectivity in Smart Warehouse Robots"
 description: "There is a particular kind of silence in a smart warehouse that signals not peace, but paralysis. It’s the silence of a hundred-wheeled robots, suddenly..."
 date: "2026-01-22"
-image: "/images/blog/warehouse-robot-connectivity.jpg"
 topic: "tech"
 slug: "troubleshooting-physical-ai-connectivity-warehouse"
 ---

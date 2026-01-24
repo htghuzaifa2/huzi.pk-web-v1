@@ -1,8 +1,7 @@
 ---
 title: "Future of Work: Remote Jobs for Pakistanis – 2026 Hostel-Room Forecast"
-description: "Are you still waiting for \"Campus Placement\" while your roommate is earning in USD from a hostel room in Multan? The game has changed. In 2026, the..."Campus Placement\" while your roommate is earning in USD from a hostel room in Multan? The game has changed. In 2026, the..."Campus Placement\" while your roommate is earning in USD from a hostel room in Multan? The game has changed. In 2026, the..."Campus Placement\" while your roommate is earning in USD from a hostel room in Multan? The game has changed. In 2026, the..."
+description: "Are you still waiting for \"Campus Placement\" while your roommate is earning in USD from a hostel room in Multan? The game has changed. In 2026, the..."
 date: "2025-12-19"
-image: "/images/blog/css-guide.jpg"
 topic: "tech"
 slug: "future-remote-jobs-pakistan-2026"
 ---
