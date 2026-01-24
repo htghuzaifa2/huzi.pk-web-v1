@@ -1,6 +1,4 @@
 ---
-title: "Homemade Comfort: Pakistani Recipes with Video Guides – 2025 Edition"
-description: "There is a specific kind of silence that only a bowl of warm Daal or a steaming plate of Biryani can break. Whether you're a student living thousands of..."
 title: "Homemade Comfort: Pakistani Recipes with Video Guides – 2026 Edition"
 description: "Step‑by‑step Pakistani home‑cooking recipes with video guide recommendations, covering daal, chicken karahi, shami kebab, and essential kitchen tips for 2026."
 date: "2025-12-16"
