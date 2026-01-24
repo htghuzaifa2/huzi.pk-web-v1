@@ -20,7 +20,7 @@ export default function BlogContent({ content }: BlogContentProps) {
         // Initialize Mermaid
         const mermaidNodes = container.querySelectorAll('.mermaid');
         if (mermaidNodes.length > 0) {
-            mermaid.initialize({ startOnLoad: false, theme: 'default' });
+            mermaid.initialize({ startOnLoad: false, theme: 'neutral' });
             mermaid.run({ nodes: Array.from(mermaidNodes) as HTMLElement[] }).then(() => {
                 // After Mermaid renders, attach listeners to the generated SVGs
                 mermaidNodes.forEach((node, index) => {
