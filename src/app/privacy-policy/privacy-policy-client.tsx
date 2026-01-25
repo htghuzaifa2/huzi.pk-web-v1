@@ -54,13 +54,42 @@ export default function PrivacyPolicyClient() {
                         <CardHeader>
                             <CardTitle className="flex items-center gap-3 font-headline text-2xl">
                                 <Lock className="h-8 w-8 text-primary" />
-                                <span>Third-Party Services</span>
+                                <span>Advertising & Third-Party Services</span>
                             </CardTitle>
                         </CardHeader>
                         <CardContent className="prose prose-base dark:prose-invert max-w-none text-muted-foreground">
                             <p>
                                 Our website may contain links to third-party services (such as WhatsApp for customer support or YouTube for product videos). Please be aware that these external sites have their own privacy policies, and we do not accept any responsibility or liability for their practices.
                             </p>
+
+                            <h3 className="text-xl font-semibold mt-6 mb-3 text-foreground">Ezoic Data Collection Settings</h3>
+                            <p>
+                                We use Ezoic as our advertising and site optimization platform. While Ezoic provides features that can collect first-party data (such as emails or phone numbers from forms or logins), <strong>huzi.pk has disabled these features</strong>.
+                            </p>
+
+                            <p className="mt-4"><strong>Specifically:</strong></p>
+                            <ul>
+                                <li>We do not use Ezoic to collect data from login forms</li>
+                                <li>We do not use newsletter or email capture forms through Ezoic</li>
+                                <li>We do not share first-party form data (such as emails or phone numbers) with Ezoic advertising partners</li>
+                            </ul>
+
+                            <p className="mt-4">Any data processing by Ezoic is therefore limited to what is required for:</p>
+                            <ul>
+                                <li>Serving advertisements</li>
+                                <li>Measuring ad performance</li>
+                                <li>Fraud prevention</li>
+                                <li>Site analytics and optimization</li>
+                            </ul>
+
+                            <p className="mt-4">
+                                Ezoic's full privacy policy and details about their data practices are available here:{" "}
+                                <a href="https://www.ezoic.com/privacy" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">
+                                    https://www.ezoic.com/privacy
+                                </a>
+                            </p>
+
+                            <span id="ezoic-privacy-policy-embed"></span>
                         </CardContent>
                     </Card>
 
@@ -74,7 +103,7 @@ export default function PrivacyPolicyClient() {
                             <p>
                                 We may update our Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.
                             </p>
-                            <p className="mt-4 font-semibold italic">Effective Date: December 22, 2025</p>
+                            <p className="mt-4 font-semibold italic">Effective Date: January 25, 2026</p>
                         </CardContent>
                     </Card>
                 </div>
